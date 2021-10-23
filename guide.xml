@@ -84,70 +84,14 @@
     <display-name lang="es">ECUAVISA EC</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20211022023000 -0500" stop="20211022030000 -0500" channel="AZTECA GUATE">
+  <programme start="20211023023000 -0500" stop="20211023030000 -0500" channel="AZTECA GUATE">
     <title lang="es">Los prota</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="AZTECA GUATE">
+  <programme start="20211023030000 -0500" stop="20211023040000 -0500" channel="AZTECA GUATE">
     <title lang="es">Azteca hits</title>
   </programme>
-  <programme start="20211022040000 -0500" stop="20211022050000 -0500" channel="AZTECA GUATE">
+  <programme start="20211023040000 -0500" stop="20211023050000 -0500" channel="AZTECA GUATE">
     <title lang="es">Que chilero</title>
-  </programme>
-  <programme start="20211022050000 -0500" stop="20211022053000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Problemas y soluciones</title>
-  </programme>
-  <programme start="20211022053000 -0500" stop="20211022070000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Hechos A.M</title>
-  </programme>
-  <programme start="20211022070000 -0500" stop="20211022090000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Café A.M</title>
-  </programme>
-  <programme start="20211022090000 -0500" stop="20211022130000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Venga la alegría</title>
-    <desc lang="es">Programa de entretenimiento matutino, con Ingrid Coronado y Fernando del Solar, con secciones cómo cocina, bailes y farándula.(n)</desc>
-  </programme>
-  <programme start="20211022130000 -0500" stop="20211022141500 -0500" channel="AZTECA GUATE">
-    <title lang="es">Hechos meridiano</title>
-  </programme>
-  <programme start="20211022141500 -0500" stop="20211022144500 -0500" channel="AZTECA GUATE">
-    <title lang="es">Al extremo</title>
-  </programme>
-  <programme start="20211022144500 -0500" stop="20211022160000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Ventaneando</title>
-    <desc lang="es">Un programa de análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.(n)</desc>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Azteca hits</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Que chilero</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022183000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Chilero News</title>
-  </programme>
-  <programme start="20211022183000 -0500" stop="20211022190000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Maratón The Simpsons</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Malcolm el de en medio</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="AZTECA GUATE">
-    <title lang="es">¿Que culpa tiene Fatmagul</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Hechos</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022223000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Los prota</title>
-  </programme>
-  <programme start="20211022223000 -0500" stop="20211022230000 -0500" channel="AZTECA GUATE">
-    <title lang="es">VideoPlay</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211022233000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Casa de dios</title>
-  </programme>
-  <programme start="20211022233000 -0500" stop="20211023000000 -0500" channel="AZTECA GUATE">
-    <title lang="es">Problemas y soluciones</title>
   </programme>
   <programme start="20211023050000 -0500" stop="20211023060000 -0500" channel="AZTECA GUATE">
     <title lang="es">Al extremo</title>
@@ -198,112 +142,145 @@
   <programme start="20211023160000 -0500" stop="20211023180000 -0500" channel="AZTECA GUATE">
     <title lang="es">The Nanny</title>
   </programme>
-  <programme start="20211022060000 -0500" stop="20211022090000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Telediario - Matutino</title>
+  <programme start="20211023180000 -0500" stop="20211023190000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Dificil de creer</title>
   </programme>
-  <programme start="20211022090000 -0500" stop="20211022093000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Secretos de cocina</title>
+  <programme start="20211023190000 -0500" stop="20211023203000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Al extremo</title>
   </programme>
-  <programme start="20211022093000 -0500" stop="20211022103000 -0500" channel="CANAL 3 GT">
-    <title lang="es">La tercera en discordia</title>
+  <programme start="20211023203000 -0500" stop="20211023210000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Excelente Servicio ALV</title>
   </programme>
-  <programme start="20211022103000 -0500" stop="20211022110000 -0500" channel="CANAL 3 GT">
-    <title lang="es">¿Dónde Diablos Está Umaña</title>
+  <programme start="20211023210000 -0500" stop="20211023220000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Cine Estelar</title>
   </programme>
-  <programme start="20211022110000 -0500" stop="20211022120000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Las santísimas</title>
+  <programme start="20211023220000 -0500" stop="20211024000000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Animales nocturnos</title>
   </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Telediario - Vespertino</title>
+  <programme start="20211024000000 -0500" stop="20211024003000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Casa de dios</title>
   </programme>
-  <programme start="20211022130000 -0500" stop="20211022140000 -0500" channel="CANAL 3 GT">
-    <title lang="es">La Gloria de Lucho</title>
+  <programme start="20211024003000 -0500" stop="20211024020000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Cine clásico mexicano</title>
   </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Rafael Orozco, el idolo</title>
+  <programme start="20211024020000 -0500" stop="20211024033000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Cine clásico mexicano</title>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Comisario Rex</title>
+  <programme start="20211024033000 -0500" stop="20211024050000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Cine clásico mexicano</title>
   </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Guerrero Ninja Americano</title>
+  <programme start="20211024060000 -0500" stop="20211024073000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Cine clásico mexicano</title>
   </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Alerta para cobra</title>
+  <programme start="20211024073000 -0500" stop="20211024083000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Servicio casa de Dios</title>
   </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Maria Mercedes</title>
+  <programme start="20211024120000 -0500" stop="20211024140000 -0500" channel="AZTECA GUATE">
+    <title lang="es">A cada quien su santo</title>
+    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.(n)</desc>
   </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Telediario Nocturno</title>
+  <programme start="20211024140000 -0500" stop="20211024150000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Al extremo</title>
   </programme>
-  <programme start="20211022200000 -0500" stop="20211022220000 -0500" channel="CANAL 3 GT">
-    <title lang="es">Combate</title>
+  <programme start="20211024150000 -0500" stop="20211024170000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="CANAL 3 GT">
-    <title lang="es">El final del paraíso</title>
+  <programme start="20211024170000 -0500" stop="20211024180000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Juan Gabriel hasta que te conocí</title>
   </programme>
-  <programme start="20211022230000 -0500" stop="20211023000000 -0500" channel="CANAL 3 GT">
+  <programme start="20211024180000 -0500" stop="20211024200000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Juan Gabriel hasta que te conocí</title>
+  </programme>
+  <programme start="20211024200000 -0500" stop="20211024210000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Hechos - Fin de semana</title>
+  </programme>
+  <programme start="20211024210000 -0500" stop="20211024224500 -0500" channel="AZTECA GUATE">
+    <title lang="es">Cine Estelar</title>
+  </programme>
+  <programme start="20211024224500 -0500" stop="20211024230000 -0500" channel="AZTECA GUATE">
+    <title lang="es">VideoPlay</title>
+  </programme>
+  <programme start="20211024230000 -0500" stop="20211024233000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Casa de dios</title>
+  </programme>
+  <programme start="20211024233000 -0500" stop="20211025003000 -0500" channel="AZTECA GUATE">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20211023060000 -0500" stop="20211023080000 -0500" channel="CANAL 3 GT">
+    <title lang="es">La guerra de los sexos</title>
+  </programme>
+  <programme start="20211023080000 -0500" stop="20211023102000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20211023102000 -0500" stop="20211023123500 -0500" channel="CANAL 3 GT">
+    <title lang="es">Batman regresa</title>
+  </programme>
+  <programme start="20211023123500 -0500" stop="20211023145500 -0500" channel="CANAL 3 GT">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20211023145500 -0500" stop="20211023171000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Batman regresa</title>
+  </programme>
+  <programme start="20211023171000 -0500" stop="20211023190000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Maléfica</title>
+    <title lang="xx">Maleficent</title>
+    <desc lang="es">La historia de los inicios de Maléfica, la malvada villana de la bella durmiente y su maldición sobre la joven princesa Aurora.(n)</desc>
+  </programme>
+  <programme start="20211023190000 -0500" stop="20211023200000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Telediario</title>
+  </programme>
+  <programme start="20211023200000 -0500" stop="20211023210000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Al sur de la frontera</title>
+  </programme>
+  <programme start="20211023210000 -0500" stop="20211023230000 -0500" channel="CANAL 3 GT">
+    <title lang="es">El conjuro 2</title>
+  </programme>
+  <programme start="20211023230000 -0500" stop="20211024000000 -0500" channel="CANAL 3 GT">
     <title lang="es">Mentes Criminales</title>
     <title lang="xx">Criminal Minds</title>
     <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar.(n)</desc>
   </programme>
-  <programme start="20211023060000 -0500" stop="20211023091500 -0500" channel="CANAL 3 GT">
+  <programme start="20211024060000 -0500" stop="20211024074500 -0500" channel="CANAL 3 GT">
     <title lang="es">La guerra de los sexos</title>
   </programme>
-  <programme start="20211023091500 -0500" stop="20211023190000 -0500" channel="CANAL 3 GT">
-    <title lang="es">A confirmar</title>
+  <programme start="20211024074500 -0500" stop="20211024093500 -0500" channel="CANAL 3 GT">
+    <title lang="es">Guerreros del espacio</title>
   </programme>
-  <programme start="20211022060000 -0500" stop="20211022083000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Noti 7 Matutino</title>
+  <programme start="20211024093500 -0500" stop="20211024113000 -0500" channel="CANAL 3 GT">
+    <title lang="es">El Turista</title>
+    <desc lang="es">Un turista en su viaje a Italia para curar su corazón roto conoce a una mujer que lo mete en un robo donde luego ambos son perseguidos y deben escapar.(n)</desc>
   </programme>
-  <programme start="20211022083000 -0500" stop="20211022110000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Buenos días, nuestro mundo</title>
+  <programme start="20211024113000 -0500" stop="20211024132000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Guerreros del espacio</title>
   </programme>
-  <programme start="20211022110000 -0500" stop="20211022120000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Como dice el dicho</title>
+  <programme start="20211024132000 -0500" stop="20211024151500 -0500" channel="CANAL 3 GT">
+    <title lang="es">El Turista</title>
+    <desc lang="es">Un turista en su viaje a Italia para curar su corazón roto conoce a una mujer que lo mete en un robo donde luego ambos son perseguidos y deben escapar.(n)</desc>
   </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Rosa de Guadalupe</title>
+  <programme start="20211024151500 -0500" stop="20211024170500 -0500" channel="CANAL 3 GT">
+    <title lang="es">Guerreros del espacio</title>
   </programme>
-  <programme start="20211022130000 -0500" stop="20211022140000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Noti 7 Vespertino</title>
+  <programme start="20211024170500 -0500" stop="20211024190000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Monsters University</title>
   </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Rosa Negra</title>
+  <programme start="20211024190000 -0500" stop="20211024200000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Telediario</title>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">¿Qué le pasa a mi familia</title>
+  <programme start="20211024200000 -0500" stop="20211024210000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Expedientes</title>
   </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Como dice el dicho</title>
+  <programme start="20211024210000 -0500" stop="20211024220000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Piratas - Velas negras</title>
   </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Quererlo Todo</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Elif</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Me robó mi vida</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Noti 7 Nocturno</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211023000000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Primer impacto</title>
+  <programme start="20211024220000 -0500" stop="20211024230000 -0500" channel="CANAL 3 GT">
+    <title lang="es">Penny dreadful</title>
   </programme>
   <programme start="20211023060000 -0500" stop="20211023063000 -0500" channel="TELEVISIETE GT">
     <title lang="es">Noticiero Univisión</title>
   </programme>
   <programme start="20211023063000 -0500" stop="20211023083000 -0500" channel="TELEVISIETE GT">
-    <title lang="es">Noti 7 Vespertino</title>
+    <title lang="es">Noti 7 - Vespertino</title>
   </programme>
   <programme start="20211023083000 -0500" stop="20211023100000 -0500" channel="TELEVISIETE GT">
     <title lang="es">Cine familiar 1</title>
@@ -320,70 +297,65 @@
   <programme start="20211023150000 -0500" stop="20211023180000 -0500" channel="TELEVISIETE GT">
     <title lang="es">Cine mexicano</title>
   </programme>
-  <programme start="20211022010000 -0500" stop="20211022020000 -0500" channel="CANAL 11 GT">
+  <programme start="20211023180000 -0500" stop="20211023190000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20211023190000 -0500" stop="20211023220000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Sabadísimo</title>
+  </programme>
+  <programme start="20211023220000 -0500" stop="20211023230000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Telefútbol</title>
+  </programme>
+  <programme start="20211023230000 -0500" stop="20211024000000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20211024060000 -0500" stop="20211024080000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Cine drama matinee</title>
+  </programme>
+  <programme start="20211024080000 -0500" stop="20211024093000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Cine familiar 1</title>
+  </programme>
+  <programme start="20211024093000 -0500" stop="20211024110000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Cine mexicano</title>
+  </programme>
+  <programme start="20211024110000 -0500" stop="20211024130000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Futbol Nacional</title>
+  </programme>
+  <programme start="20211024130000 -0500" stop="20211024140000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">La Niñera</title>
+  </programme>
+  <programme start="20211024140000 -0500" stop="20211024160000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Cine Cantinflas</title>
+  </programme>
+  <programme start="20211024160000 -0500" stop="20211024180000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Cine mexicano</title>
+  </programme>
+  <programme start="20211024180000 -0500" stop="20211024183000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">En la mira con k-riño</title>
+  </programme>
+  <programme start="20211024183000 -0500" stop="20211024190000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Moralejas</title>
+  </programme>
+  <programme start="20211024190000 -0500" stop="20211024210000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Pequeños gigantes</title>
+  </programme>
+  <programme start="20211024210000 -0500" stop="20211024220000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Noti 7 - Vespertino</title>
+  </programme>
+  <programme start="20211024220000 -0500" stop="20211024230000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Teledeportes</title>
+  </programme>
+  <programme start="20211024230000 -0500" stop="20211025000000 -0500" channel="TELEVISIETE GT">
+    <title lang="es">Noticiero Univisión - Emisión nocturna</title>
+  </programme>
+  <programme start="20211023010000 -0500" stop="20211023020000 -0500" channel="CANAL 11 GT">
     <title lang="es">Programación no disponible</title>
   </programme>
-  <programme start="20211022020000 -0500" stop="20211022040000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Cinema once</title>
+  <programme start="20211023020000 -0500" stop="20211023040000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Cazador de vampiros Segunda parte</title>
   </programme>
-  <programme start="20211022040000 -0500" stop="20211022060000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Cine Nocturno</title>
-  </programme>
-  <programme start="20211022060000 -0500" stop="20211022080000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20211022080000 -0500" stop="20211022090000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Plaza Sésamo</title>
-  </programme>
-  <programme start="20211022090000 -0500" stop="20211022093000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Ninja Hattori</title>
-  </programme>
-  <programme start="20211022093000 -0500" stop="20211022100000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Betty Toons</title>
-  </programme>
-  <programme start="20211022100000 -0500" stop="20211022103000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Phineas And Ferb</title>
-  </programme>
-  <programme start="20211022103000 -0500" stop="20211022110000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Doc McStuffins</title>
-  </programme>
-  <programme start="20211022110000 -0500" stop="20211022113000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Fairly Odd Parents</title>
-  </programme>
-  <programme start="20211022113000 -0500" stop="20211022120000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Goof Troop</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Falling Skies</title>
-  </programme>
-  <programme start="20211022130000 -0500" stop="20211022140000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Desperate Housewives</title>
-    <title lang="xx">Desperate Housewives</title>
-    <desc lang="es">Mujeres y madres con diferentes actitudes y atributos que las hacen únicas ahora como amas de casas de tiempo completo y como se desarrollan sus vidas.(n)</desc>
-  </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Survivor</title>
-  </programme>
-  <programme start="20211022150000 -0500" stop="20211022170000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Psych</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022173000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Aaron Stone</title>
-  </programme>
-  <programme start="20211022173000 -0500" stop="20211022180000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Jessie</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Smallville</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Once upon a time</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022220000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Cinema once</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Área grande</title>
+  <programme start="20211023040000 -0500" stop="20211023060000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Muerte en Tombstone</title>
   </programme>
   <programme start="20211023060000 -0500" stop="20211023063000 -0500" channel="CANAL 11 GT">
     <title lang="es">Curious George</title>
@@ -392,7 +364,7 @@
     <title lang="es">Cleo and Cuquin</title>
   </programme>
   <programme start="20211023070000 -0500" stop="20211023073000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Heidi 3D</title>
+    <title lang="es">Bucky, the Incredible Kid</title>
   </programme>
   <programme start="20211023073000 -0500" stop="20211023080000 -0500" channel="CANAL 11 GT">
     <title lang="es">Miles from Tomorrowland</title>
@@ -401,7 +373,7 @@
     <title lang="es">Doraemon</title>
   </programme>
   <programme start="20211023083000 -0500" stop="20211023090000 -0500" channel="CANAL 11 GT">
-    <title lang="es">Los guerreros del zodiaco</title>
+    <title lang="es">Tron Uprising</title>
   </programme>
   <programme start="20211023090000 -0500" stop="20211023093000 -0500" channel="CANAL 11 GT">
     <title lang="es">Beyblade Burst</title>
@@ -414,6 +386,9 @@
   </programme>
   <programme start="20211023103000 -0500" stop="20211023110000 -0500" channel="CANAL 11 GT">
     <title lang="es">Young Justice</title>
+  </programme>
+  <programme start="20211023110000 -0500" stop="20211023113000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Fairly Odd Parents</title>
   </programme>
   <programme start="20211023113000 -0500" stop="20211023120000 -0500" channel="CANAL 11 GT">
     <title lang="es">Genera Tion Rex</title>
@@ -436,69 +411,35 @@
   <programme start="20211023170000 -0500" stop="20211023180000 -0500" channel="CANAL 11 GT">
     <title lang="es">Once upon a time</title>
   </programme>
-  <programme start="20211022060000 -0500" stop="20211022070000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Planet's funniest animals</title>
+  <programme start="20211023180000 -0500" stop="20211023190000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Agent of S.H.I.E.L.D</title>
   </programme>
-  <programme start="20211022070000 -0500" stop="20211022080000 -0500" channel="CANAL 13 GT">
-    <title lang="es">America's Funniest Home Video</title>
+  <programme start="20211023190000 -0500" stop="20211023200000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Las vegas</title>
   </programme>
-  <programme start="20211022080000 -0500" stop="20211022083000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Lol Season</title>
+  <programme start="20211023200000 -0500" stop="20211023220000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Zodíaco</title>
   </programme>
-  <programme start="20211022083000 -0500" stop="20211022090000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Just for Laughs Gags</title>
+  <programme start="20211023220000 -0500" stop="20211023230000 -0500" channel="CANAL 11 GT">
+    <title lang="es">The Messenger</title>
   </programme>
-  <programme start="20211022090000 -0500" stop="20211022133000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Aprendo en Casa</title>
+  <programme start="20211023230000 -0500" stop="20211024010000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Zodíaco</title>
   </programme>
-  <programme start="20211022133000 -0500" stop="20211022140000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Jake and the Neverland and Pirates</title>
+  <programme start="20211024020000 -0500" stop="20211024040000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Zodíaco</title>
   </programme>
-  <programme start="20211022140000 -0500" stop="20211022143000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Jason &amp; the Heroes of Mt. Olympus</title>
+  <programme start="20211024040000 -0500" stop="20211024060000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Zodíaco</title>
   </programme>
-  <programme start="20211022143000 -0500" stop="20211022150000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Ben 10 Alien Force</title>
+  <programme start="20211024150000 -0500" stop="20211024160000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Painkiller Jane</title>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022153000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Ultimate Spider-Man</title>
+  <programme start="20211024200000 -0500" stop="20211024220000 -0500" channel="CANAL 11 GT">
+    <title lang="es">Serpientes a bordo</title>
   </programme>
-  <programme start="20211022153000 -0500" stop="20211022160000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Star vs. The Forces of Evil</title>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022163000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Avengers Secret World</title>
-  </programme>
-  <programme start="20211022163000 -0500" stop="20211022170000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Sofia the First</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Soy Luna</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="CANAL 13 GT">
-    <title lang="es">La Seleccion</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022193000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Top Cat</title>
-  </programme>
-  <programme start="20211022193000 -0500" stop="20211022200000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Tom and Jerry Theatricals</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Los Picapiedra</title>
-    <title lang="xx">The Flintstones</title>
-    <desc lang="es">Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura.(n)</desc>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="CANAL 13 GT">
-    <title lang="es">T 13 noticias</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="CANAL 13 GT">
-    <title lang="es">C.S.I. Miami</title>
-    <title lang="xx">CSI: Miami</title>
-    <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211023000000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Navy NCIS</title>
+  <programme start="20211024230000 -0500" stop="20211025010000 -0500" channel="CANAL 11 GT">
+    <title lang="es">En el nombre del rey 3 La última misión</title>
   </programme>
   <programme start="20211023060000 -0500" stop="20211023070000 -0500" channel="CANAL 13 GT">
     <title lang="es">Cámara Loca</title>
@@ -525,13 +466,13 @@
     <title lang="es">Good Luck Charlie</title>
   </programme>
   <programme start="20211023123000 -0500" stop="20211023130000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Lab Rats</title>
+    <title lang="es">Sonny With a Chance</title>
   </programme>
   <programme start="20211023130000 -0500" stop="20211023133000 -0500" channel="CANAL 13 GT">
     <title lang="es">Austin &amp; Ally</title>
   </programme>
   <programme start="20211023133000 -0500" stop="20211023140000 -0500" channel="CANAL 13 GT">
-    <title lang="es">Kickin' It</title>
+    <title lang="es">A.N.T. Farm</title>
   </programme>
   <programme start="20211023140000 -0500" stop="20211023143000 -0500" channel="CANAL 13 GT">
     <title lang="es">K.C. Undercover</title>
@@ -549,95 +490,96 @@
   <programme start="20211023170000 -0500" stop="20211023180000 -0500" channel="CANAL 13 GT">
     <title lang="es">Raw</title>
   </programme>
-  <programme start="20211022000100 -0500" stop="20211022010000 -0500" channel="CANAL CLARO">
-    <title lang="es">Soñando contigo</title>
+  <programme start="20211023180000 -0500" stop="20211023190000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Supernatural</title>
+    <title lang="xx">Supernatural</title>
+    <desc lang="es">Dos hermanos hacen un viaje al desierto de Colorado donde buscan criaturas que la mayoría de la gente cree que solo existen en sus pesadillas y leyendas.(n)</desc>
   </programme>
-  <programme start="20211022010000 -0500" stop="20211022030000 -0500" channel="CANAL CLARO">
-    <title lang="es">Deconstructing harry</title>
+  <programme start="20211023190000 -0500" stop="20211023200000 -0500" channel="CANAL 13 GT">
+    <title lang="es">The vampire diaries</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="CANAL CLARO">
-    <title lang="es">Worst Cooks in América</title>
+  <programme start="20211023200000 -0500" stop="20211023210000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Hawaii 5-0</title>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más.(n)</desc>
   </programme>
-  <programme start="20211022040000 -0500" stop="20211022043000 -0500" channel="CANAL CLARO">
-    <title lang="es">Los caballeros del Zodíaco - Saga del Asgard</title>
+  <programme start="20211023210000 -0500" stop="20211023220000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Isabel</title>
   </programme>
-  <programme start="20211022043000 -0500" stop="20211022050000 -0500" channel="CANAL CLARO">
-    <title lang="es">Wolfblood</title>
+  <programme start="20211023220000 -0500" stop="20211023230000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Master of Horror</title>
   </programme>
-  <programme start="20211022050000 -0500" stop="20211022051100 -0500" channel="CANAL CLARO">
-    <title lang="es">Cantinflas Show</title>
+  <programme start="20211023230000 -0500" stop="20211024000000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Sex and the City</title>
   </programme>
-  <programme start="20211022051100 -0500" stop="20211022052400 -0500" channel="CANAL CLARO">
-    <title lang="es">Cantinflas y sus amigos</title>
+  <programme start="20211024070000 -0500" stop="20211024073000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Santa misa, desde la basílica de Los Ángeles</title>
   </programme>
-  <programme start="20211022052400 -0500" stop="20211022053000 -0500" channel="CANAL CLARO">
-    <title lang="es">Karli y Los Nubecinos</title>
+  <programme start="20211024073000 -0500" stop="20211024080000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Plaza Sésamo Listos a jugar</title>
   </programme>
-  <programme start="20211022053000 -0500" stop="20211022060000 -0500" channel="CANAL CLARO">
-    <title lang="es">Club de Teo</title>
+  <programme start="20211024080000 -0500" stop="20211024090000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Desafío Extremo</title>
   </programme>
-  <programme start="20211022060000 -0500" stop="20211022062400 -0500" channel="CANAL CLARO">
-    <title lang="es">Club de Teo</title>
+  <programme start="20211024090000 -0500" stop="20211024093000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Looney Tunes Show</title>
   </programme>
-  <programme start="20211022062400 -0500" stop="20211022063000 -0500" channel="CANAL CLARO">
-    <title lang="es">Karli y Los Nubecinos</title>
+  <programme start="20211024093000 -0500" stop="20211024100000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Road Runner</title>
   </programme>
-  <programme start="20211022063000 -0500" stop="20211022065900 -0500" channel="CANAL CLARO">
-    <title lang="es">La caja de Pandora</title>
+  <programme start="20211024100000 -0500" stop="20211024110000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Saber y ganar</title>
   </programme>
-  <programme start="20211022065900 -0500" stop="20211022073000 -0500" channel="CANAL CLARO">
-    <title lang="es">Dress code</title>
+  <programme start="20211024110000 -0500" stop="20211024120000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Escape Perfecto</title>
   </programme>
-  <programme start="20211022073000 -0500" stop="20211022080000 -0500" channel="CANAL CLARO">
-    <title lang="es">Hostess</title>
+  <programme start="20211024120000 -0500" stop="20211024123000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Good Luck Charlie</title>
   </programme>
-  <programme start="20211022080000 -0500" stop="20211022083000 -0500" channel="CANAL CLARO">
-    <title lang="es">Extreme Ghostbusters</title>
+  <programme start="20211024123000 -0500" stop="20211024130000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Sonny With a Chance</title>
   </programme>
-  <programme start="20211022083000 -0500" stop="20211022090000 -0500" channel="CANAL CLARO">
-    <title lang="es">Wolfblood</title>
+  <programme start="20211024130000 -0500" stop="20211024133000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Austin &amp; Ally</title>
   </programme>
-  <programme start="20211022090000 -0500" stop="20211022100000 -0500" channel="CANAL CLARO">
-    <title lang="es">Gonul</title>
+  <programme start="20211024133000 -0500" stop="20211024140000 -0500" channel="CANAL 13 GT">
+    <title lang="es">A.N.T. Farm</title>
   </programme>
-  <programme start="20211022100000 -0500" stop="20211022110000 -0500" channel="CANAL CLARO">
-    <title lang="es">New Nurses</title>
+  <programme start="20211024140000 -0500" stop="20211024143000 -0500" channel="CANAL 13 GT">
+    <title lang="es">K.C. Undercover</title>
   </programme>
-  <programme start="20211022110000 -0500" stop="20211022120000 -0500" channel="CANAL CLARO">
-    <title lang="es">Nature's Miracle Orphans</title>
+  <programme start="20211024143000 -0500" stop="20211024150000 -0500" channel="CANAL 13 GT">
+    <title lang="es">The New Adventures of old Christine</title>
   </programme>
-  <programme start="20211022120000 -0500" stop="20211022140000 -0500" channel="CANAL CLARO">
-    <title lang="es">Hampstead</title>
+  <programme start="20211024150000 -0500" stop="20211024160000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Seventh Heaven</title>
   </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="CANAL CLARO">
-    <title lang="es">Gonul</title>
+  <programme start="20211024160000 -0500" stop="20211024170000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Two and a Half Men</title>
+    <desc lang="es">La vida de un hedonista escritor de jingles  es abruptamente alterada cuando su hermano y su sobrino se mudan a su casa enfrente de la playa.(n)</desc>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022153000 -0500" channel="CANAL CLARO">
-    <title lang="es">Los caballeros del Zodíaco - Saga del Asgard</title>
+  <programme start="20211024170000 -0500" stop="20211024180000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Smackdown</title>
   </programme>
-  <programme start="20211022153000 -0500" stop="20211022160000 -0500" channel="CANAL CLARO">
-    <title lang="es">Godzilla The Series</title>
+  <programme start="20211024180000 -0500" stop="20211024190000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Supernatural</title>
+    <title lang="xx">Supernatural</title>
+    <desc lang="es">Dos hermanos hacen un viaje al desierto de Colorado donde buscan criaturas que la mayoría de la gente cree que solo existen en sus pesadillas y leyendas.(n)</desc>
   </programme>
-  <programme start="20211022160000 -0500" stop="20211022163000 -0500" channel="CANAL CLARO">
-    <title lang="es">Fire Force</title>
+  <programme start="20211024190000 -0500" stop="20211024200000 -0500" channel="CANAL 13 GT">
+    <title lang="es">The vampire diaries</title>
   </programme>
-  <programme start="20211022163000 -0500" stop="20211022170000 -0500" channel="CANAL CLARO">
-    <title lang="es">Wolfblood</title>
+  <programme start="20211024200000 -0500" stop="20211024210000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Hawaii 5-0</title>
+    <desc lang="es">El agente policial Steve McGarrett junto con su escuadrón elite investigaciones de la policía de Hawaii, investigan el crimen organizado, asesinatos y más.(n)</desc>
   </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="CANAL CLARO">
-    <title lang="es">Amor justo</title>
+  <programme start="20211024210000 -0500" stop="20211024220000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Being Human</title>
   </programme>
-  <programme start="20211022180000 -0500" stop="20211022200000 -0500" channel="CANAL CLARO">
-    <title lang="es">London Boulevard</title>
+  <programme start="20211024220000 -0500" stop="20211024230000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Master of Horror</title>
   </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="CANAL CLARO">
-    <title lang="es">New Nurses</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022230000 -0500" channel="CANAL CLARO">
-    <title lang="es">Euphoria</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211023010000 -0500" channel="CANAL CLARO">
-    <title lang="es">Hampstead</title>
+  <programme start="20211024230000 -0500" stop="20211025000000 -0500" channel="CANAL 13 GT">
+    <title lang="es">Sex and the City</title>
   </programme>
   <programme start="20211023010000 -0500" stop="20211023013000 -0500" channel="CANAL CLARO">
     <title lang="es">La caja de Pandora</title>
@@ -693,208 +635,218 @@
   <programme start="20211023160000 -0500" stop="20211023180000 -0500" channel="CANAL CLARO">
     <title lang="es">Deconstructing harry</title>
   </programme>
-  <programme start="20211022003400 -0500" stop="20211022012400 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Supervivencia al desnudo</title>
+  <programme start="20211023180000 -0500" stop="20211023193000 -0500" channel="CANAL CLARO">
+    <title lang="es">Culture Club</title>
   </programme>
-  <programme start="20211022012400 -0500" stop="20211022021200 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023193000 -0500" stop="20211023200000 -0500" channel="CANAL CLARO">
+    <title lang="es">La caja de Pandora</title>
+  </programme>
+  <programme start="20211023200000 -0500" stop="20211023220000 -0500" channel="CANAL CLARO">
+    <title lang="es">Lawless - Wettest County</title>
+  </programme>
+  <programme start="20211023220000 -0500" stop="20211024000000 -0500" channel="CANAL CLARO">
+    <title lang="es">London Boulevard</title>
+  </programme>
+  <programme start="20211024000000 -0500" stop="20211024010000 -0500" channel="CANAL CLARO">
+    <title lang="es">Worst Cooks in América</title>
+  </programme>
+  <programme start="20211024010000 -0500" stop="20211024013200 -0500" channel="CANAL CLARO">
+    <title lang="es">Larry King Now</title>
+  </programme>
+  <programme start="20211024013200 -0500" stop="20211024020100 -0500" channel="CANAL CLARO">
+    <title lang="es">La caja de Pandora</title>
+  </programme>
+  <programme start="20211024020100 -0500" stop="20211024040100 -0500" channel="CANAL CLARO">
+    <title lang="es">Lawless - Wettest County</title>
+  </programme>
+  <programme start="20211024040100 -0500" stop="20211024043000 -0500" channel="CANAL CLARO">
+    <title lang="es">Hostess</title>
+  </programme>
+  <programme start="20211024043000 -0500" stop="20211024050000 -0500" channel="CANAL CLARO">
+    <title lang="es">La caja de Pandora</title>
+  </programme>
+  <programme start="20211024050000 -0500" stop="20211024053000 -0500" channel="CANAL CLARO">
+    <title lang="es">Club de Teo</title>
+  </programme>
+  <programme start="20211024053000 -0500" stop="20211024060000 -0500" channel="CANAL CLARO">
+    <title lang="es">Club de Teo</title>
+  </programme>
+  <programme start="20211024060000 -0500" stop="20211024063000 -0500" channel="CANAL CLARO">
+    <title lang="es">Kitesurf</title>
+  </programme>
+  <programme start="20211024063000 -0500" stop="20211024070000 -0500" channel="CANAL CLARO">
+    <title lang="es">Diving Apnea</title>
+  </programme>
+  <programme start="20211024070000 -0500" stop="20211024072900 -0500" channel="CANAL CLARO">
+    <title lang="es">Skate</title>
+  </programme>
+  <programme start="20211024072900 -0500" stop="20211024075900 -0500" channel="CANAL CLARO">
+    <title lang="es">Kayak</title>
+  </programme>
+  <programme start="20211024075900 -0500" stop="20211024082900 -0500" channel="CANAL CLARO">
+    <title lang="es">Dress code</title>
+  </programme>
+  <programme start="20211024082900 -0500" stop="20211024090000 -0500" channel="CANAL CLARO">
+    <title lang="es">La caja de Pandora</title>
+  </programme>
+  <programme start="20211024090000 -0500" stop="20211024110000 -0500" channel="CANAL CLARO">
+    <title lang="es">Dos chicanos chiludos</title>
+  </programme>
+  <programme start="20211024110000 -0500" stop="20211024112900 -0500" channel="CANAL CLARO">
+    <title lang="es">Palabra de cine</title>
+  </programme>
+  <programme start="20211024112900 -0500" stop="20211024120000 -0500" channel="CANAL CLARO">
+    <title lang="es">Cooking Up a Fortune</title>
+  </programme>
+  <programme start="20211024120000 -0500" stop="20211024130000 -0500" channel="CANAL CLARO">
+    <title lang="es">Worst Cooks in América</title>
+  </programme>
+  <programme start="20211024130000 -0500" stop="20211024150000 -0500" channel="CANAL CLARO">
+    <title lang="es">Euphoria</title>
+  </programme>
+  <programme start="20211024150000 -0500" stop="20211024170000 -0500" channel="CANAL CLARO">
+    <title lang="es">Sacrifice</title>
+  </programme>
+  <programme start="20211024170000 -0500" stop="20211024180000 -0500" channel="CANAL CLARO">
+    <title lang="es">Worst Cooks in América</title>
+  </programme>
+  <programme start="20211024180000 -0500" stop="20211024183000 -0500" channel="CANAL CLARO">
+    <title lang="es">Cooking Up a Fortune</title>
+  </programme>
+  <programme start="20211024183000 -0500" stop="20211024200000 -0500" channel="CANAL CLARO">
+    <title lang="es">Culture Club</title>
+  </programme>
+  <programme start="20211024200000 -0500" stop="20211024220000 -0500" channel="CANAL CLARO">
+    <title lang="es">Cosmópolis</title>
+  </programme>
+  <programme start="20211023003600 -0500" stop="20211023012400 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Supervivencia al desnudo Edición extrema</title>
   </programme>
-  <programme start="20211022021200 -0500" stop="20211022030000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023012400 -0500" stop="20211023021200 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Sobreviviendo Alaska</title>
+  </programme>
+  <programme start="20211023021200 -0500" stop="20211023030000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Expedientes paranormales</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022034800 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Alaska Hombres primitivos</title>
-  </programme>
-  <programme start="20211022034800 -0500" stop="20211022043600 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Hombres del Ártico</title>
-  </programme>
-  <programme start="20211022043600 -0500" stop="20211022052400 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Mansiones en los Árboles</title>
-  </programme>
-  <programme start="20211022052400 -0500" stop="20211022061200 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Minicazadores de mitos</title>
-  </programme>
-  <programme start="20211022061200 -0500" stop="20211022070800 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Alaska, la última frontera</title>
-  </programme>
-  <programme start="20211022070800 -0500" stop="20211022080400 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Encierro paranormal</title>
-  </programme>
-  <programme start="20211022080400 -0500" stop="20211022090300 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Encierro paranormal</title>
-  </programme>
-  <programme start="20211022090300 -0500" stop="20211022100300 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Encierro paranormal</title>
-  </programme>
-  <programme start="20211022100300 -0500" stop="20211022110300 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Dra. Dee Veterinaria de Alaska</title>
-  </programme>
-  <programme start="20211022110300 -0500" stop="20211022120300 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Fiebre del oro</title>
-  </programme>
-  <programme start="20211022120300 -0500" stop="20211022140300 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Kilos mortales</title>
-  </programme>
-  <programme start="20211022140300 -0500" stop="20211022150300 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Alaska, la última frontera</title>
-  </programme>
-  <programme start="20211022150300 -0500" stop="20211022160000 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Operación Alaska</title>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Monstruos de río</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Vidas remotas</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Vidas remotas</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Supervivencia al desnudo</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Supervivencia al desnudo Edición extrema</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022215800 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Sala de emergencias historias inéditas</title>
-  </programme>
-  <programme start="20211022215800 -0500" stop="20211022225600 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Supervivencia al desnudo</title>
-  </programme>
-  <programme start="20211022225600 -0500" stop="20211022234600 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Vidas remotas</title>
-  </programme>
-  <programme start="20211022234600 -0500" stop="20211023003600 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Vidas remotas</title>
-  </programme>
-  <programme start="20211023234600 -0500" stop="20211024003600 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Vidas remotas</title>
-  </programme>
-  <programme start="20211024003600 -0500" stop="20211024012400 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Supervivencia al desnudo Edición extrema</title>
-  </programme>
-  <programme start="20211024012400 -0500" stop="20211024021200 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023030000 -0500" stop="20211023034800 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Sobreviviendo Alaska</title>
   </programme>
-  <programme start="20211024030000 -0500" stop="20211024034800 -0500" channel="DISCOVERY CHANNEL CL">
-    <title lang="es">Sobreviviendo Alaska</title>
-  </programme>
-  <programme start="20211024034800 -0500" stop="20211024043600 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023034800 -0500" stop="20211023043600 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Cómo funciona el universo</title>
   </programme>
-  <programme start="20211024043600 -0500" stop="20211024052400 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023043600 -0500" stop="20211023052400 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">El Cañón del Diablo</title>
   </programme>
-  <programme start="20211024052400 -0500" stop="20211024061200 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023052400 -0500" stop="20211023061200 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Oro bajo cero</title>
   </programme>
-  <programme start="20211024061200 -0500" stop="20211024070800 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023061200 -0500" stop="20211023070800 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Tesoro en el espacio El secreto del astronauta</title>
   </programme>
-  <programme start="20211024070800 -0500" stop="20211024080400 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023070800 -0500" stop="20211023080400 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Fiebre del oro</title>
   </programme>
-  <programme start="20211024080400 -0500" stop="20211024090000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023080400 -0500" stop="20211023090000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Tesoro en el espacio El secreto del astronauta</title>
   </programme>
-  <programme start="20211024090000 -0500" stop="20211024100000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023090000 -0500" stop="20211023100000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">La Tierra desde el espacio</title>
   </programme>
-  <programme start="20211024100000 -0500" stop="20211024110000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023100000 -0500" stop="20211023110000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Expedición a lo desconocido</title>
   </programme>
-  <programme start="20211024110000 -0500" stop="20211024120000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023110000 -0500" stop="20211023120000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Hombres del Ártico</title>
   </programme>
-  <programme start="20211024120000 -0500" stop="20211024130000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023120000 -0500" stop="20211023130000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Encierro paranormal</title>
   </programme>
-  <programme start="20211024130000 -0500" stop="20211024140000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023130000 -0500" stop="20211023140000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Ríos majestuosos con Jeremy Wade</title>
   </programme>
-  <programme start="20211024140000 -0500" stop="20211024150000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023140000 -0500" stop="20211023150000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Los planetas</title>
   </programme>
-  <programme start="20211024150000 -0500" stop="20211024160000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023150000 -0500" stop="20211023160000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">La maldición del Triángulo de las Bermudas</title>
   </programme>
-  <programme start="20211024160000 -0500" stop="20211024170000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023160000 -0500" stop="20211023170000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">En busca de la Atlántida</title>
   </programme>
-  <programme start="20211024170000 -0500" stop="20211024180000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023170000 -0500" stop="20211023180000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Un viaje a lo desconocido</title>
   </programme>
-  <programme start="20211024180000 -0500" stop="20211024190000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023180000 -0500" stop="20211023190000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Expedientes paranormales</title>
   </programme>
-  <programme start="20211024190000 -0500" stop="20211024200000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023190000 -0500" stop="20211023200000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Extraterrestres entre nosotros España</title>
   </programme>
-  <programme start="20211024200000 -0500" stop="20211024210000 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023200000 -0500" stop="20211023210000 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Portales al infierno</title>
   </programme>
-  <programme start="20211024210000 -0500" stop="20211024215800 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023210000 -0500" stop="20211023215800 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Sala de emergencias historias inéditas</title>
   </programme>
-  <programme start="20211024215800 -0500" stop="20211024225600 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023215800 -0500" stop="20211023225600 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Mi cuerpo, mi desafío</title>
   </programme>
-  <programme start="20211024225600 -0500" stop="20211024234600 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023225600 -0500" stop="20211023234600 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Un viaje a lo desconocido</title>
   </programme>
-  <programme start="20211024234600 -0500" stop="20211025003600 -0500" channel="DISCOVERY CHANNEL CL">
+  <programme start="20211023234600 -0500" stop="20211024003600 -0500" channel="DISCOVERY CHANNEL CL">
     <title lang="es">Expedientes paranormales</title>
   </programme>
-  <programme start="20211022013000 -0500" stop="20211022023000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Programa Jornadas LaLiga</title>
+  <programme start="20211024003600 -0500" stop="20211024012400 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Extraterrestres entre nosotros España</title>
   </programme>
-  <programme start="20211022023000 -0500" stop="20211022030000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Analysing El Clásico</title>
+  <programme start="20211024080400 -0500" stop="20211024090300 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Tesoro en el espacio El secreto del astronauta</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022050000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Sky Sports 16</title>
+  <programme start="20211024090300 -0500" stop="20211024100300 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">La Tierra desde el espacio</title>
   </programme>
-  <programme start="20211022050000 -0500" stop="20211022053000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Analysing El Clásico</title>
+  <programme start="20211024100300 -0500" stop="20211024110300 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Expedición a lo desconocido</title>
   </programme>
-  <programme start="20211022053000 -0500" stop="20211022073000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Espanyol vs. Cádiz Repetición</title>
+  <programme start="20211024110300 -0500" stop="20211024120300 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Hombres del Ártico</title>
   </programme>
-  <programme start="20211022073000 -0500" stop="20211022080000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">La liga show</title>
+  <programme start="20211024120300 -0500" stop="20211024130300 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Encierro paranormal</title>
   </programme>
-  <programme start="20211022080000 -0500" stop="20211022100000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Real Sociedad vs. Mallorca Repetición</title>
+  <programme start="20211024130300 -0500" stop="20211024140300 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Ríos majestuosos con Jeremy Wade</title>
   </programme>
-  <programme start="20211022100000 -0500" stop="20211022120000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Alavés vs. Betis Repetición</title>
+  <programme start="20211024140300 -0500" stop="20211024150300 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Los planetas</title>
   </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Clasico the movie</title>
+  <programme start="20211024150300 -0500" stop="20211024160300 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Ríos majestuosos con Jeremy Wade</title>
   </programme>
-  <programme start="20211022130000 -0500" stop="20211022150000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Barcelona Vs. Valencia</title>
-    <desc lang="es">El FC Barcelona recibe al Valencia CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
+  <programme start="20211024160300 -0500" stop="20211024170000 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Operación Alaska</title>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022170000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Celta de Vigo vs. Sevilla Repetición</title>
+  <programme start="20211024170000 -0500" stop="20211024180000 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Discovery Desafío X 2</title>
   </programme>
-  <programme start="20211022170000 -0500" stop="20211022190000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Real Sociedad vs. Mallorca Repetición</title>
+  <programme start="20211024180000 -0500" stop="20211024190000 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Discovery Desafío X 2</title>
   </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">The Road to El Clásico</title>
+  <programme start="20211024190000 -0500" stop="20211024200000 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Supervivencia al desnudo Edición extrema</title>
   </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Clasico the movie</title>
+  <programme start="20211024200000 -0500" stop="20211024210000 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Supervivencia al desnudo</title>
   </programme>
-  <programme start="20211022210000 -0500" stop="20211022230000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Barcelona Vs. Valencia</title>
-    <desc lang="es">El FC Barcelona recibe al Valencia CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
+  <programme start="20211024210000 -0500" stop="20211024215800 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Supervivencia al desnudo Edición extrema</title>
   </programme>
-  <programme start="20211022230000 -0500" stop="20211023010000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Viva La Liga Friday</title>
+  <programme start="20211024225600 -0500" stop="20211024234600 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Discovery Desafío X 2</title>
+  </programme>
+  <programme start="20211024234600 -0500" stop="20211025003600 -0500" channel="DISCOVERY CHANNEL CL">
+    <title lang="es">Discovery Desafío X 2</title>
   </programme>
   <programme start="20211023010000 -0500" stop="20211023020000 -0500" channel="SKY SPORTS 16">
     <title lang="es">The Road to El Clásico</title>
@@ -956,221 +908,196 @@
   <programme start="20211023230000 -0500" stop="20211024003000 -0500" channel="SKY SPORTS 16">
     <title lang="es">Valencia vs. Mallorca Repetición</title>
   </programme>
-  <programme start="20211022013000 -0500" stop="20211022020000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-World</title>
+  <programme start="20211024003000 -0500" stop="20211024023000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Elche vs. Espanyol Repetición</title>
   </programme>
-  <programme start="20211022020000 -0500" stop="20211022030000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Sky Sports 24</title>
+  <programme start="20211024023000 -0500" stop="20211024034500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Sky Sports 16</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier league today</title>
+  <programme start="20211024034500 -0500" stop="20211024041500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
   </programme>
-  <programme start="20211022040000 -0500" stop="20211022043000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Match pack</title>
+  <programme start="20211024041500 -0500" stop="20211024044500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">La liga show</title>
   </programme>
-  <programme start="20211022043000 -0500" stop="20211022053000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-fanzone</title>
+  <programme start="20211024044500 -0500" stop="20211024051500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Analysing El Clásico</title>
   </programme>
-  <programme start="20211022053000 -0500" stop="20211022060000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the big interview</title>
+  <programme start="20211024051500 -0500" stop="20211024061500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Clasico the movie</title>
   </programme>
-  <programme start="20211022060000 -0500" stop="20211022063000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pl100</title>
+  <programme start="20211024061500 -0500" stop="20211024071500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">The Road to El Clásico</title>
   </programme>
-  <programme start="20211022063000 -0500" stop="20211022070000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier league today</title>
-  </programme>
-  <programme start="20211022070000 -0500" stop="20211022083000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-weekend warm-up</title>
-  </programme>
-  <programme start="20211022083000 -0500" stop="20211022090000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-World</title>
-  </programme>
-  <programme start="20211022090000 -0500" stop="20211022093000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Preview</title>
-  </programme>
-  <programme start="20211022093000 -0500" stop="20211022100000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pl100 Alan Shearer</title>
-  </programme>
-  <programme start="20211022100000 -0500" stop="20211022113000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the weekend preview</title>
-  </programme>
-  <programme start="20211022113000 -0500" stop="20211022120000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Match pack</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022123000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Preview</title>
-  </programme>
-  <programme start="20211022123000 -0500" stop="20211022124500 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Sky Sports 24</title>
-  </programme>
-  <programme start="20211022124500 -0500" stop="20211022130000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211024071500 -0500" stop="20211024081500 -0500" channel="SKY SPORTS 16">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20211022130000 -0500" stop="20211022150000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Arsenal vs. Aston Villa En Vivo</title>
+  <programme start="20211024081500 -0500" stop="20211024101500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Real Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Real Madrid CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022170000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Everton vs. West Ham United Repetición</title>
+  <programme start="20211024101500 -0500" stop="20211024104500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Post Game</title>
   </programme>
-  <programme start="20211022170000 -0500" stop="20211022173000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-World</title>
+  <programme start="20211024104500 -0500" stop="20211024124500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Real Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Real Madrid CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
   </programme>
-  <programme start="20211022173000 -0500" stop="20211022193000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Leicester City vs. Manchester United</title>
+  <programme start="20211024124500 -0500" stop="20211024134500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20211022193000 -0500" stop="20211022213000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Arsenal vs. Aston Villa Repetición</title>
+  <programme start="20211024134500 -0500" stop="20211024154500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Real Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Real Madrid CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
   </programme>
-  <programme start="20211022213000 -0500" stop="20211022223000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
+  <programme start="20211024154500 -0500" stop="20211024161500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Post Game</title>
   </programme>
-  <programme start="20211022223000 -0500" stop="20211022230000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Southampton vs. Leeds United Repetición</title>
+  <programme start="20211024161500 -0500" stop="20211024181500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Real Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Real Madrid CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
   </programme>
-  <programme start="20211022230000 -0500" stop="20211023003000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Southampton vs. Leeds United Repetición</title>
+  <programme start="20211024181500 -0500" stop="20211024191500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20211023230000 -0500" stop="20211024003000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Southampton vs. Leeds United Repetición</title>
+  <programme start="20211024191500 -0500" stop="20211024211500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Real Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Real Madrid CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
   </programme>
-  <programme start="20211024003000 -0500" stop="20211024010000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211024211500 -0500" stop="20211024214500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Post Game</title>
+  </programme>
+  <programme start="20211024214500 -0500" stop="20211024224500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20211024224500 -0500" stop="20211024230000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20211024230000 -0500" stop="20211025010000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Sevilla vs. Levante Repetición</title>
+  </programme>
+  <programme start="20211023003000 -0500" stop="20211023010000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Netbusters</title>
   </programme>
-  <programme start="20211024010000 -0500" stop="20211024013000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023010000 -0500" stop="20211023013000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20211024013000 -0500" stop="20211024020000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023013000 -0500" stop="20211023020000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Soccerbox</title>
   </programme>
-  <programme start="20211024030000 -0500" stop="20211024031500 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20211024031500 -0500" stop="20211024051500 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Arsenal vs. Aston Villa Repetición</title>
-  </programme>
-  <programme start="20211024051500 -0500" stop="20211024053000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20211024053000 -0500" stop="20211024073000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Chelsea vs. Norwich City En Vivo</title>
-  </programme>
-  <programme start="20211024073000 -0500" stop="20211024080000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20211024080000 -0500" stop="20211024100000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Everton vs. Watford En Vivo</title>
-  </programme>
-  <programme start="20211024100000 -0500" stop="20211024101500 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023020000 -0500" stop="20211023030000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20211024101500 -0500" stop="20211024103000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023030000 -0500" stop="20211023031500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20211024103000 -0500" stop="20211024123000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023031500 -0500" stop="20211023051500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Arsenal vs. Aston Villa Repetición</title>
+  </programme>
+  <programme start="20211023051500 -0500" stop="20211023053000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20211023053000 -0500" stop="20211023073000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Chelsea vs. Norwich City En Vivo</title>
+  </programme>
+  <programme start="20211023073000 -0500" stop="20211023080000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20211023080000 -0500" stop="20211023100000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Everton vs. Watford En Vivo</title>
+  </programme>
+  <programme start="20211023100000 -0500" stop="20211023101500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20211023101500 -0500" stop="20211023103000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20211023103000 -0500" stop="20211023123000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Brighton vs. Manchester City</title>
   </programme>
-  <programme start="20211024123000 -0500" stop="20211024143000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023123000 -0500" stop="20211023143000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Chelsea vs. Norwich City Repetición</title>
   </programme>
-  <programme start="20211024143000 -0500" stop="20211024163000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023143000 -0500" stop="20211023163000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Leeds United vs. Wolverhampton</title>
   </programme>
-  <programme start="20211024163000 -0500" stop="20211024170000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023163000 -0500" stop="20211023170000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20211024170000 -0500" stop="20211024190000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023170000 -0500" stop="20211023190000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Everton vs. Watford Repetición</title>
   </programme>
-  <programme start="20211024190000 -0500" stop="20211024210000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023190000 -0500" stop="20211023210000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Brighton vs. Manchester City Repetición</title>
   </programme>
-  <programme start="20211024210000 -0500" stop="20211024230000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023210000 -0500" stop="20211023230000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Crystal Palace vs. Newcastle United Repetición</title>
   </programme>
-  <programme start="20211024230000 -0500" stop="20211025010000 -0500" channel="SKY SPORTS 24">
+  <programme start="20211023230000 -0500" stop="20211024010000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Southampton vs. Burnley Repetición</title>
   </programme>
-  <programme start="20211022020000 -0500" stop="20211022030000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Mujeres al borde</title>
+  <programme start="20211024010000 -0500" stop="20211024013000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Pl100</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Coloquio</title>
+  <programme start="20211024013000 -0500" stop="20211024020000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Netbusters</title>
   </programme>
-  <programme start="20211022040000 -0500" stop="20211022050000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Desafío Súper humanos - Cap Cana</title>
+  <programme start="20211024020000 -0500" stop="20211024033000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20211022050000 -0500" stop="20211022060000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Uno Uno</title>
+  <programme start="20211024033000 -0500" stop="20211024040000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Pltv- world</title>
   </programme>
-  <programme start="20211022060000 -0500" stop="20211022070000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Panorama Mundial</title>
+  <programme start="20211024040000 -0500" stop="20211024060000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Crystal Palace vs. Newcastle United Repetición</title>
   </programme>
-  <programme start="20211022070000 -0500" stop="20211022080000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Wipeout</title>
+  <programme start="20211024060000 -0500" stop="20211024063000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20211022080000 -0500" stop="20211022090000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Festival del humor</title>
+  <programme start="20211024063000 -0500" stop="20211024083000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Everton vs. Watford Repetición</title>
   </programme>
-  <programme start="20211022090000 -0500" stop="20211022100000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Mi Último Deseo</title>
+  <programme start="20211024083000 -0500" stop="20211024093000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20211022100000 -0500" stop="20211022110000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Andrea</title>
+  <programme start="20211024093000 -0500" stop="20211024113000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Manchester United vs. Liverpool</title>
   </programme>
-  <programme start="20211022110000 -0500" stop="20211022113000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Informativos Teleantillas - Emisión vespertina</title>
+  <programme start="20211024113000 -0500" stop="20211024120000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Post Game</title>
   </programme>
-  <programme start="20211022113000 -0500" stop="20211022114500 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Un cuarto deportivo</title>
+  <programme start="20211024120000 -0500" stop="20211024121500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20211022114500 -0500" stop="20211022120000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">A dos camaras</title>
+  <programme start="20211024121500 -0500" stop="20211024141500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">West Ham United vs. Tottenham Hotspur</title>
   </programme>
-  <programme start="20211022120000 -0500" stop="20211022125500 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Karadayi</title>
+  <programme start="20211024141500 -0500" stop="20211024153000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Brighton vs. Manchester City Repetición</title>
   </programme>
-  <programme start="20211022125500 -0500" stop="20211022130000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Lotedom</title>
+  <programme start="20211024153000 -0500" stop="20211024161500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Leeds United vs. Wolverhampton</title>
   </programme>
-  <programme start="20211022130000 -0500" stop="20211022140000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Karadayi</title>
+  <programme start="20211024161500 -0500" stop="20211024171500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Dulce ambición</title>
+  <programme start="20211024171500 -0500" stop="20211024191500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Manchester United vs. Liverpool</title>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Highlander</title>
+  <programme start="20211024191500 -0500" stop="20211024194500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Post Game</title>
   </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Desafío Súper Humanos</title>
+  <programme start="20211024194500 -0500" stop="20211024200000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Impostora</title>
+  <programme start="20211024200000 -0500" stop="20211024220000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Chelsea vs. Norwich City Repetición</title>
   </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Informativos Teleantillas - Emisión estelar</title>
+  <programme start="20211024220000 -0500" stop="20211024230000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Brentford vs. Leicester City Repetición</title>
   </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Pacto de sangre</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Dulce ambición</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Barrio adentro</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022223000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Panorama Mundial</title>
-  </programme>
-  <programme start="20211022223000 -0500" stop="20211022230000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Final Deportivo</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211023000000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Pacto de sangre</title>
-  </programme>
-  <programme start="20211023000000 -0500" stop="20211023010000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Dulce ambición</title>
+  <programme start="20211024230000 -0500" stop="20211025000000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Brentford vs. Leicester City Repetición</title>
   </programme>
   <programme start="20211023010000 -0500" stop="20211023040000 -0500" channel="TELEANTILLAS RD">
     <title lang="es">Más Roberto</title>
@@ -1185,13 +1112,16 @@
     <title lang="es">Battlestar galactica</title>
   </programme>
   <programme start="20211023070000 -0500" stop="20211023090000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">Cine infantil - 2da función</title>
+    <title lang="es">Cine infantil - 1era. función</title>
   </programme>
   <programme start="20211023090000 -0500" stop="20211023110000 -0500" channel="TELEANTILLAS RD">
     <title lang="es">Cine infantil - 2da función</title>
   </programme>
   <programme start="20211023110000 -0500" stop="20211023125500 -0500" channel="TELEANTILLAS RD">
     <title lang="es">Súper Sábados 1</title>
+  </programme>
+  <programme start="20211023125500 -0500" stop="20211023130000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Lotedom</title>
   </programme>
   <programme start="20211023130000 -0500" stop="20211023150000 -0500" channel="TELEANTILLAS RD">
     <title lang="es">Súper Sábados 2</title>
@@ -1200,59 +1130,61 @@
     <title lang="es">Súper Sábados 3</title>
   </programme>
   <programme start="20211023170000 -0500" stop="20211023200000 -0500" channel="TELEANTILLAS RD">
-    <title lang="es">M.L.B</title>
+    <title lang="es">World Series</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022060000 -0500" channel="REPRETEL 4 CR">
+  <programme start="20211023200000 -0500" stop="20211023220000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Zona Hollywood 2</title>
+  </programme>
+  <programme start="20211023220000 -0500" stop="20211024000000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Highlander</title>
+  </programme>
+  <programme start="20211024000000 -0500" stop="20211024010000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Ser humano</title>
+  </programme>
+  <programme start="20211024010000 -0500" stop="20211024020000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Esta misma semana</title>
+  </programme>
+  <programme start="20211024020000 -0500" stop="20211024030000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Coloquio</title>
+  </programme>
+  <programme start="20211024030000 -0500" stop="20211024060000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Revista 110</title>
+  </programme>
+  <programme start="20211024070000 -0500" stop="20211024080000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Triálogo</title>
+  </programme>
+  <programme start="20211024080000 -0500" stop="20211024090000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Lo bueno con Alexandra Izquierdo</title>
+  </programme>
+  <programme start="20211024090000 -0500" stop="20211024120000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Cine familiar 1</title>
+  </programme>
+  <programme start="20211024120000 -0500" stop="20211024125500 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">World Series</title>
+  </programme>
+  <programme start="20211024125500 -0500" stop="20211024130000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Lotedom</title>
+  </programme>
+  <programme start="20211024130000 -0500" stop="20211024153000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">World Series</title>
+  </programme>
+  <programme start="20211024153000 -0500" stop="20211024180000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Sin corte... Como en el cine</title>
+  </programme>
+  <programme start="20211024180000 -0500" stop="20211024200000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Bien de Bien</title>
+  </programme>
+  <programme start="20211024200000 -0500" stop="20211024210000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Ser humano</title>
+  </programme>
+  <programme start="20211024210000 -0500" stop="20211024230000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Highlander</title>
+  </programme>
+  <programme start="20211024230000 -0500" stop="20211025000000 -0500" channel="TELEANTILLAS RD">
+    <title lang="es">Highlander</title>
+  </programme>
+  <programme start="20211023030000 -0500" stop="20211023060000 -0500" channel="REPRETEL 4 CR">
     <title lang="es">Canal 4 Costa Rica</title>
-  </programme>
-  <programme start="20211022060000 -0500" stop="20211022090000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Canal 4 Costa Rica</title>
-  </programme>
-  <programme start="20211022090000 -0500" stop="20211022100000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Canal 4 Costa Rica</title>
-  </programme>
-  <programme start="20211022100000 -0500" stop="20211022120000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Hoy</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Que pobres tan ricos</title>
-  </programme>
-  <programme start="20211022130000 -0500" stop="20211022140000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Mi marido tiene mas familia</title>
-  </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Porque el amor manda</title>
-  </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Lola, érase una vez</title>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Muchachitas</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Miss XV</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Tu voz estéreo</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">America's Next Top Model</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Survivor</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">NCIS: Criminología Naval</title>
-    <title lang="xx">NCIS</title>
-    <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar.(n)</desc>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Flashpoint</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211023000000 -0500" channel="REPRETEL 4 CR">
-    <title lang="es">Fear the Walking Dead</title>
-    <title lang="xx">Fear the Walking Dead</title>
-    <desc lang="es">En los Ángeles California, dos familias deben afrontar el comienzo del apocalipsis zombi donde buscan la manera de sobrevivir al caos de la ciudad.(n)</desc>
   </programme>
   <programme start="20211023060000 -0500" stop="20211023070000 -0500" channel="REPRETEL 4 CR">
     <title lang="es">Canal 4 Costa Rica</title>
@@ -1293,72 +1225,14 @@
   <programme start="20211023230000 -0500" stop="20211024000000 -0500" channel="REPRETEL 4 CR">
     <title lang="es">Medium</title>
   </programme>
-  <programme start="20211022001500 -0500" stop="20211022011500 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">La 3era en discordia</title>
+  <programme start="20211024140000 -0500" stop="20211024153000 -0500" channel="REPRETEL 4 CR">
+    <title lang="es">Números</title>
   </programme>
-  <programme start="20211022011500 -0500" stop="20211022020000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Mujeres al Límite</title>
+  <programme start="20211024153000 -0500" stop="20211024190000 -0500" channel="REPRETEL 4 CR">
+    <title lang="es">Survivor</title>
   </programme>
-  <programme start="20211022020000 -0500" stop="20211022030000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">A cada quien su santo</title>
-    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.(n)</desc>
-  </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Así es la vida</title>
-  </programme>
-  <programme start="20211022040000 -0500" stop="20211022050000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20211022050000 -0500" stop="20211022055000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Llena de amor</title>
-  </programme>
-  <programme start="20211022055000 -0500" stop="20211022080000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Noticias Repretel</title>
-  </programme>
-  <programme start="20211022080000 -0500" stop="20211022100000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Giros</title>
-  </programme>
-  <programme start="20211022100000 -0500" stop="20211022110000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">El Vuelo de la Victoria</title>
-  </programme>
-  <programme start="20211022110000 -0500" stop="20211022120000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">La Usurpadora</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022140000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Noticias Repretel</title>
-  </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Vencer el Desamor</title>
-    <title lang="xx">Vencer el Desamor</title>
-    <desc lang="es">Cuatro mujeres de diferentes estratos sociales se ven obligadas a vivir bajo el mismo techo, ahora deberán aprender a superar las diferencias entre ellas.(n)</desc>
-  </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.(n)</desc>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022190000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Noticias Repretel</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Hercai Amor y venganza</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Piezas rotas</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Amar a Muerte</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211022233000 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Noticias Repretel</title>
-  </programme>
-  <programme start="20211022233000 -0500" stop="20211023001500 -0500" channel="REPRETEL 6 CR">
-    <title lang="es">Rosario tijeras</title>
+  <programme start="20211024190000 -0500" stop="20211024200000 -0500" channel="REPRETEL 4 CR">
+    <title lang="es">WWE Smackdown</title>
   </programme>
   <programme start="20211023001500 -0500" stop="20211023020000 -0500" channel="REPRETEL 6 CR">
     <title lang="es">Dom Hemingway</title>
@@ -1427,59 +1301,79 @@
   <programme start="20211023223000 -0500" stop="20211024001500 -0500" channel="REPRETEL 6 CR">
     <title lang="es">Mar de plástico</title>
   </programme>
-  <programme start="20211022053000 -0500" stop="20211022083000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Hechos A. M</title>
+  <programme start="20211024223000 -0500" stop="20211025001500 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Mar de plástico</title>
   </programme>
-  <programme start="20211022083000 -0500" stop="20211022113000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Hola El Salvador</title>
+  <programme start="20211025001500 -0500" stop="20211025033000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Pompei, imperium apocalypse</title>
   </programme>
-  <programme start="20211022113000 -0500" stop="20211022121500 -0500" channel="CANAL 12 SV">
-    <title lang="es">Cambio de vida</title>
+  <programme start="20211025033000 -0500" stop="20211025041500 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">NCIS: New Orleans</title>
+    <title lang="xx">NCIS: New Orleans</title>
+    <desc lang="es">NCIS: New Orleans es el equipo que se encarga de las investigaciones criminales relacionados con personal militar en esta ciudad conocida por su música.(n)</desc>
   </programme>
-  <programme start="20211022121500 -0500" stop="20211022130000 -0500" channel="CANAL 12 SV">
-    <title lang="es">A cada quien su santo</title>
-    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.(n)</desc>
+  <programme start="20211025041500 -0500" stop="20211025050000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">El transportador</title>
   </programme>
-  <programme start="20211022130000 -0500" stop="20211022143000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Noticiero hechos del mediodía</title>
+  <programme start="20211025050000 -0500" stop="20211025053000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Spot Central</title>
   </programme>
-  <programme start="20211022143000 -0500" stop="20211022153000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Amor de contrabando</title>
+  <programme start="20211025053000 -0500" stop="20211025070000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Clásicos de Fear Factor</title>
   </programme>
-  <programme start="20211022153000 -0500" stop="20211022170000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Karadayi</title>
+  <programme start="20211025070000 -0500" stop="20211025073000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Noticiero Univisión</title>
   </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Pop 12, más música, más poder y farándula</title>
+  <programme start="20211025073000 -0500" stop="20211025080000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Guinness records</title>
   </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Tormenta de Pasiones</title>
+  <programme start="20211025080000 -0500" stop="20211025090000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Wipeout</title>
   </programme>
-  <programme start="20211022190000 -0500" stop="20211022193000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Elif</title>
+  <programme start="20211025090000 -0500" stop="20211025100000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Comisario Rex</title>
   </programme>
-  <programme start="20211022193000 -0500" stop="20211022200000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Pizarrón deportivo</title>
+  <programme start="20211025100000 -0500" stop="20211025110000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Alerta Cobra</title>
   </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Noticiero Hechos de la noche</title>
+  <programme start="20211025110000 -0500" stop="20211025120000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Scorpion</title>
   </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Vikings</title>
-    <title lang="xx">Vikings</title>
-    <desc lang="es">Los guerreros más voraces de todos los tiempos, ladrones y comerciantes, pero también buscadores de tierras y visionarios adelantados a su época.(n)</desc>
+  <programme start="20211025120000 -0500" stop="20211025130000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Noticias Repretel</title>
   </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Los misterios de laura</title>
+  <programme start="20211025130000 -0500" stop="20211025140000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Guerrero Ninja Americano</title>
   </programme>
-  <programme start="20211022230000 -0500" stop="20211023000000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Red de noticias Albavisión</title>
+  <programme start="20211025140000 -0500" stop="20211025150000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">NCIS: Los Ángeles</title>
+    <title lang="xx">NCIS: Los Angeles</title>
+    <desc lang="es">Un equipo altamente entrenado y con lo último en tecnología se encarga de detener delincuentes peligrosos y elusivos que representan una amenaza al país.(n)</desc>
   </programme>
-  <programme start="20211023000000 -0500" stop="20211023060000 -0500" channel="CANAL 12 SV">
-    <title lang="es">Fuera del aire</title>
+  <programme start="20211025150000 -0500" stop="20211025170000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">ParaNorman</title>
+  </programme>
+  <programme start="20211025170000 -0500" stop="20211025180000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">La pensión</title>
+  </programme>
+  <programme start="20211025180000 -0500" stop="20211025190000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Deportes Repretel</title>
+  </programme>
+  <programme start="20211025190000 -0500" stop="20211025200000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20211025200000 -0500" stop="20211025220000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">¿Quién es la Máscara</title>
+  </programme>
+  <programme start="20211025220000 -0500" stop="20211025233000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Killing them Softly</title>
+  </programme>
+  <programme start="20211025233000 -0500" stop="20211026000000 -0500" channel="REPRETEL 6 CR">
+    <title lang="es">Black Sails</title>
+    <desc lang="es">En la edad de oro de los piratas, la isla de Nueva Providencia es un territorio sin ley controlado por el pirata más notorio de la historia, el Capitán Flint.(n)</desc>
   </programme>
   <programme start="20211023060000 -0500" stop="20211023063000 -0500" channel="CANAL 12 SV">
-    <title lang="es">El mundo de Elmo</title>
+    <title lang="es">3, 2, 1, ¡Vamos</title>
   </programme>
   <programme start="20211023063000 -0500" stop="20211023073000 -0500" channel="CANAL 12 SV">
     <title lang="es">Beyblade</title>
@@ -1508,7 +1402,10 @@
   <programme start="20211023120000 -0500" stop="20211023140000 -0500" channel="CANAL 12 SV">
     <title lang="es">Shaka Zulu</title>
   </programme>
-  <programme start="20211023140000 -0500" stop="20211023150000 -0500" channel="CANAL 12 SV">
+  <programme start="20211023140000 -0500" stop="20211023141500 -0500" channel="CANAL 12 SV">
+    <title lang="es">La cruz de los milagros</title>
+  </programme>
+  <programme start="20211023141500 -0500" stop="20211023150000 -0500" channel="CANAL 12 SV">
     <title lang="es">Fear Factor</title>
   </programme>
   <programme start="20211023150000 -0500" stop="20211023160000 -0500" channel="CANAL 12 SV">
@@ -1520,165 +1417,185 @@
   <programme start="20211023170000 -0500" stop="20211023180000 -0500" channel="CANAL 12 SV">
     <title lang="es">Alerta para cobra</title>
   </programme>
-  <programme start="20211022010000 -0500" stop="20211022030000 -0500" channel="TVN PA">
+  <programme start="20211023180000 -0500" stop="20211023193000 -0500" channel="CANAL 12 SV">
+    <title lang="es">El buscabullas</title>
+  </programme>
+  <programme start="20211023193000 -0500" stop="20211023203000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Noticiero hechos - Fin de semana</title>
+  </programme>
+  <programme start="20211023203000 -0500" stop="20211023223000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Mike y Elizabeth</title>
+  </programme>
+  <programme start="20211023223000 -0500" stop="20211023231500 -0500" channel="CANAL 12 SV">
+    <title lang="es">Piratas - Velas negras</title>
+  </programme>
+  <programme start="20211023231500 -0500" stop="20211024000000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Penny dreadful</title>
+  </programme>
+  <programme start="20211024073000 -0500" stop="20211024080000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Bakugan</title>
+  </programme>
+  <programme start="20211024100000 -0500" stop="20211024110000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Saber y ganar</title>
+  </programme>
+  <programme start="20211024110000 -0500" stop="20211024120000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Smackdown</title>
+  </programme>
+  <programme start="20211024120000 -0500" stop="20211024130000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Fear Factor</title>
+  </programme>
+  <programme start="20211024130000 -0500" stop="20211024140000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Ganando en familia</title>
+  </programme>
+  <programme start="20211024140000 -0500" stop="20211024141500 -0500" channel="CANAL 12 SV">
+    <title lang="es">La cruz de los milagros</title>
+  </programme>
+  <programme start="20211024141500 -0500" stop="20211024150000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Guerrero Ninja Americano</title>
+  </programme>
+  <programme start="20211024150000 -0500" stop="20211024160000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Smackdown</title>
+  </programme>
+  <programme start="20211024160000 -0500" stop="20211024170000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Guerrero americano</title>
+  </programme>
+  <programme start="20211024170000 -0500" stop="20211024180000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Alerta para cobra</title>
+  </programme>
+  <programme start="20211024180000 -0500" stop="20211024193000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Pizarrón deportivo</title>
+  </programme>
+  <programme start="20211024193000 -0500" stop="20211024203000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Noticiero hechos - Fin de semana</title>
+  </programme>
+  <programme start="20211024203000 -0500" stop="20211024213000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Al sur de la frontera</title>
+  </programme>
+  <programme start="20211024213000 -0500" stop="20211024233000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Encuentro con el más allá</title>
+  </programme>
+  <programme start="20211024233000 -0500" stop="20211025000000 -0500" channel="CANAL 12 SV">
+    <title lang="es">Penny dreadful</title>
+  </programme>
+  <programme start="20211023020000 -0500" stop="20211023050000 -0500" channel="TVN PA">
     <title lang="es">TVN</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="TVN PA">
-    <title lang="es">TVN</title>
-  </programme>
-  <programme start="20211022040000 -0500" stop="20211022050000 -0500" channel="TVN PA">
-    <title lang="es">Zuleyha</title>
-  </programme>
-  <programme start="20211022050000 -0500" stop="20211022070000 -0500" channel="TVN PA">
-    <title lang="es">Noticiero AM</title>
-  </programme>
-  <programme start="20211022070000 -0500" stop="20211022100000 -0500" channel="TVN PA">
-    <title lang="es">Jelou</title>
-  </programme>
-  <programme start="20211022100000 -0500" stop="20211022110000 -0500" channel="TVN PA">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20211022110000 -0500" stop="20211022120000 -0500" channel="TVN PA">
-    <title lang="es">TVN Noticias -medio día</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="TVN PA">
-    <title lang="es">Al Rojo Vivo</title>
-  </programme>
-  <programme start="20211022130000 -0500" stop="20211022143000 -0500" channel="TVN PA">
-    <title lang="es">El poder del amor</title>
-  </programme>
-  <programme start="20211022143000 -0500" stop="20211022153000 -0500" channel="TVN PA">
-    <title lang="es">Caso Cerrado</title>
-  </programme>
-  <programme start="20211022153000 -0500" stop="20211022170000 -0500" channel="TVN PA">
-    <title lang="es">Pasa Palabra</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022190000 -0500" channel="TVN PA">
-    <title lang="es">Noticiero estelar</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="TVN PA">
-    <title lang="es">Fruto prohíbido</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="TVN PA">
-    <title lang="es">Zuleyha</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="TVN PA">
-    <title lang="es">El poder del amor</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="TVN PA">
-    <title lang="es">Pasa Palabra</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211023020000 -0500" channel="TVN PA">
-    <title lang="es">TVN</title>
-  </programme>
-  <programme start="20211023230000 -0500" stop="20211024020000 -0500" channel="TVN PA">
-    <title lang="es">TVN</title>
-  </programme>
-  <programme start="20211024020000 -0500" stop="20211024050000 -0500" channel="TVN PA">
-    <title lang="es">TVN</title>
-  </programme>
-  <programme start="20211024050000 -0500" stop="20211024070000 -0500" channel="TVN PA">
+  <programme start="20211023050000 -0500" stop="20211023070000 -0500" channel="TVN PA">
     <title lang="es">Casper</title>
   </programme>
-  <programme start="20211024070000 -0500" stop="20211024090000 -0500" channel="TVN PA">
+  <programme start="20211023070000 -0500" stop="20211023090000 -0500" channel="TVN PA">
     <title lang="es">King Julien</title>
   </programme>
-  <programme start="20211024090000 -0500" stop="20211024100000 -0500" channel="TVN PA">
+  <programme start="20211023090000 -0500" stop="20211023100000 -0500" channel="TVN PA">
     <title lang="es">Dragons race to the edge</title>
   </programme>
-  <programme start="20211024100000 -0500" stop="20211024110000 -0500" channel="TVN PA">
+  <programme start="20211023100000 -0500" stop="20211023110000 -0500" channel="TVN PA">
     <title lang="es">The Nanny</title>
   </programme>
-  <programme start="20211024110000 -0500" stop="20211024113000 -0500" channel="TVN PA">
+  <programme start="20211023110000 -0500" stop="20211023113000 -0500" channel="TVN PA">
     <title lang="es">Amigos de Huellas</title>
   </programme>
-  <programme start="20211024113000 -0500" stop="20211024123000 -0500" channel="TVN PA">
+  <programme start="20211023113000 -0500" stop="20211023123000 -0500" channel="TVN PA">
     <title lang="es">Bewitched</title>
   </programme>
-  <programme start="20211024123000 -0500" stop="20211024150000 -0500" channel="TVN PA">
+  <programme start="20211023123000 -0500" stop="20211023150000 -0500" channel="TVN PA">
     <title lang="es">Resumen Fruto Prohibido</title>
   </programme>
-  <programme start="20211024150000 -0500" stop="20211024170000 -0500" channel="TVN PA">
+  <programme start="20211023150000 -0500" stop="20211023170000 -0500" channel="TVN PA">
     <title lang="es">Caso Cerrado</title>
   </programme>
-  <programme start="20211024170000 -0500" stop="20211024180000 -0500" channel="TVN PA">
+  <programme start="20211023170000 -0500" stop="20211023180000 -0500" channel="TVN PA">
     <title lang="es">Noticias fin de semana</title>
   </programme>
-  <programme start="20211024180000 -0500" stop="20211024190000 -0500" channel="TVN PA">
+  <programme start="20211023180000 -0500" stop="20211023190000 -0500" channel="TVN PA">
     <title lang="es">Hecho en Panamá</title>
   </programme>
-  <programme start="20211024190000 -0500" stop="20211024203000 -0500" channel="TVN PA">
+  <programme start="20211023190000 -0500" stop="20211023203000 -0500" channel="TVN PA">
     <title lang="es">La cáscara</title>
   </programme>
-  <programme start="20211024203000 -0500" stop="20211024213000 -0500" channel="TVN PA">
+  <programme start="20211023203000 -0500" stop="20211023213000 -0500" channel="TVN PA">
     <title lang="es">El Parking</title>
   </programme>
-  <programme start="20211024213000 -0500" stop="20211024223000 -0500" channel="TVN PA">
+  <programme start="20211023213000 -0500" stop="20211023223000 -0500" channel="TVN PA">
     <title lang="es">El poder del amor</title>
   </programme>
-  <programme start="20211024223000 -0500" stop="20211024230000 -0500" channel="TVN PA">
+  <programme start="20211023223000 -0500" stop="20211023230000 -0500" channel="TVN PA">
     <title lang="es">Amigos de Huellas</title>
   </programme>
-  <programme start="20211022020000 -0500" stop="20211022040000 -0500" channel="TV MAX PA">
+  <programme start="20211023230000 -0500" stop="20211024010000 -0500" channel="TVN PA">
+    <title lang="es">TVN</title>
+  </programme>
+  <programme start="20211024010000 -0500" stop="20211024030000 -0500" channel="TVN PA">
+    <title lang="es">TVN</title>
+  </programme>
+  <programme start="20211024030000 -0500" stop="20211024040000 -0500" channel="TVN PA">
+    <title lang="es">TVN</title>
+  </programme>
+  <programme start="20211024040000 -0500" stop="20211024053000 -0500" channel="TVN PA">
+    <title lang="es">Resumen Fruto Prohibido</title>
+  </programme>
+  <programme start="20211024053000 -0500" stop="20211024063000 -0500" channel="TVN PA">
+    <title lang="es">King Julien</title>
+  </programme>
+  <programme start="20211024063000 -0500" stop="20211024070000 -0500" channel="TVN PA">
+    <title lang="es">Agro tv</title>
+  </programme>
+  <programme start="20211024070000 -0500" stop="20211024080000 -0500" channel="TVN PA">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20211024080000 -0500" stop="20211024100000 -0500" channel="TVN PA">
+    <title lang="es">Radar</title>
+  </programme>
+  <programme start="20211024100000 -0500" stop="20211024103000 -0500" channel="TVN PA">
+    <title lang="es">Recetas Solidarias</title>
+  </programme>
+  <programme start="20211024103000 -0500" stop="20211024110000 -0500" channel="TVN PA">
+    <title lang="es">Panamá Salvaje</title>
+  </programme>
+  <programme start="20211024110000 -0500" stop="20211024113000 -0500" channel="TVN PA">
+    <title lang="es">El pop corn</title>
+  </programme>
+  <programme start="20211024113000 -0500" stop="20211024120000 -0500" channel="TVN PA">
+    <title lang="es">Dr. oz</title>
+  </programme>
+  <programme start="20211024120000 -0500" stop="20211024123000 -0500" channel="TVN PA">
+    <title lang="es">La lotería</title>
+  </programme>
+  <programme start="20211024123000 -0500" stop="20211024130000 -0500" channel="TVN PA">
+    <title lang="es">Buenos Sabores</title>
+  </programme>
+  <programme start="20211024130000 -0500" stop="20211024133000 -0500" channel="TVN PA">
+    <title lang="es">Súper Mamás</title>
+  </programme>
+  <programme start="20211024133000 -0500" stop="20211024150000 -0500" channel="TVN PA">
+    <title lang="es">Resumen Zuleyha</title>
+  </programme>
+  <programme start="20211024150000 -0500" stop="20211024160000 -0500" channel="TVN PA">
+    <title lang="es">Mi familia cocina Pritty</title>
+  </programme>
+  <programme start="20211024160000 -0500" stop="20211024170000 -0500" channel="TVN PA">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20211024180000 -0500" stop="20211024200000 -0500" channel="TVN PA">
+    <title lang="es">Talenpro</title>
+  </programme>
+  <programme start="20211024200000 -0500" stop="20211024213000 -0500" channel="TVN PA">
+    <title lang="es">El poder del amor</title>
+  </programme>
+  <programme start="20211024213000 -0500" stop="20211024230000 -0500" channel="TVN PA">
+    <title lang="es">Life</title>
+  </programme>
+  <programme start="20211023020000 -0500" stop="20211023040000 -0500" channel="TV MAX PA">
     <title lang="es">TV Max</title>
   </programme>
-  <programme start="20211022040000 -0500" stop="20211022043000 -0500" channel="TV MAX PA">
+  <programme start="20211023040000 -0500" stop="20211023043000 -0500" channel="TV MAX PA">
     <title lang="es">TV Max</title>
   </programme>
-  <programme start="20211022043000 -0500" stop="20211022050000 -0500" channel="TV MAX PA">
+  <programme start="20211023043000 -0500" stop="20211023050000 -0500" channel="TV MAX PA">
     <title lang="es">TV Max</title>
   </programme>
-  <programme start="20211022050000 -0500" stop="20211022053000 -0500" channel="TV MAX PA">
+  <programme start="20211023050000 -0500" stop="20211023053000 -0500" channel="TV MAX PA">
     <title lang="es">Visión cooperativa</title>
-  </programme>
-  <programme start="20211022053000 -0500" stop="20211022060000 -0500" channel="TV MAX PA">
-    <title lang="es">El camino antiguo</title>
-  </programme>
-  <programme start="20211022060000 -0500" stop="20211022070000 -0500" channel="TV MAX PA">
-    <title lang="es">Elementary</title>
-  </programme>
-  <programme start="20211022070000 -0500" stop="20211022080000 -0500" channel="TV MAX PA">
-    <title lang="es">Mesa de periodistas</title>
-  </programme>
-  <programme start="20211022080000 -0500" stop="20211022100000 -0500" channel="TV MAX PA">
-    <title lang="es">Chicago Med</title>
-  </programme>
-  <programme start="20211022100000 -0500" stop="20211022120000 -0500" channel="TV MAX PA">
-    <title lang="es">Conéctate con La Estrella</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="TV MAX PA">
-    <title lang="es">Somos la Sele</title>
-  </programme>
-  <programme start="20211022130000 -0500" stop="20211022140000 -0500" channel="TV MAX PA">
-    <title lang="es">La ley y el orden</title>
-  </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="TV MAX PA">
-    <title lang="es">Chicago Fire</title>
-    <title lang="xx">Chicago Fire</title>
-    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.(n)</desc>
-  </programme>
-  <programme start="20211022150000 -0500" stop="20211022170000 -0500" channel="TV MAX PA">
-    <title lang="es">Chicago PD</title>
-    <title lang="xx">Chicago P.D.</title>
-    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.(n)</desc>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="TV MAX PA">
-    <title lang="es">Magnum P.I</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022200000 -0500" channel="TV MAX PA">
-    <title lang="es">Hard Luck</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="TV MAX PA">
-    <title lang="es">American ninja warrior</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="TV MAX PA">
-    <title lang="es">Music</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="TV MAX PA">
-    <title lang="es">Somos la Sele Repetición</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211023020000 -0500" channel="TV MAX PA">
-    <title lang="es">TV Max</title>
   </programme>
   <programme start="20211023053000 -0500" stop="20211023083000 -0500" channel="TV MAX PA">
     <title lang="es">Elementary</title>
@@ -1705,14 +1622,11 @@
   <programme start="20211023150000 -0500" stop="20211023170000 -0500" channel="TV MAX PA">
     <title lang="es">La ley y el orden</title>
   </programme>
-  <programme start="20211023170000 -0500" stop="20211023180000 -0500" channel="TV MAX PA">
+  <programme start="20211023170000 -0500" stop="20211023190000 -0500" channel="TV MAX PA">
     <title lang="es">American Ninja Warrior (res.)</title>
   </programme>
-  <programme start="20211023180000 -0500" stop="20211023200000 -0500" channel="TV MAX PA">
+  <programme start="20211023190000 -0500" stop="20211023210000 -0500" channel="TV MAX PA">
     <title lang="es">Herrera FC vs. CAI</title>
-  </programme>
-  <programme start="20211023200000 -0500" stop="20211023210000 -0500" channel="TV MAX PA">
-    <title lang="es">The Shield</title>
   </programme>
   <programme start="20211023210000 -0500" stop="20211023220000 -0500" channel="TV MAX PA">
     <title lang="es">Chicago PD</title>
@@ -1722,111 +1636,82 @@
   <programme start="20211023220000 -0500" stop="20211023230000 -0500" channel="TV MAX PA">
     <title lang="es">Secuencia xtrema</title>
   </programme>
-  <programme start="20211022003000 -0500" stop="20211022013000 -0500" channel="PUNTO 2 PR">
+  <programme start="20211024050000 -0500" stop="20211024060000 -0500" channel="TV MAX PA">
+    <title lang="es">Casper</title>
+  </programme>
+  <programme start="20211024060000 -0500" stop="20211024073000 -0500" channel="TV MAX PA">
+    <title lang="es">Elementary</title>
+  </programme>
+  <programme start="20211024073000 -0500" stop="20211024080000 -0500" channel="TV MAX PA">
+    <title lang="es">Visión cooperativa</title>
+  </programme>
+  <programme start="20211024080000 -0500" stop="20211024083000 -0500" channel="TV MAX PA">
+    <title lang="es">Aventureros</title>
+  </programme>
+  <programme start="20211024083000 -0500" stop="20211024090000 -0500" channel="TV MAX PA">
+    <title lang="es">Casper</title>
+  </programme>
+  <programme start="20211024090000 -0500" stop="20211024093000 -0500" channel="TV MAX PA">
+    <title lang="es">Mall Colon Puerto Libre</title>
+  </programme>
+  <programme start="20211024093000 -0500" stop="20211024100000 -0500" channel="TV MAX PA">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
+  </programme>
+  <programme start="20211024100000 -0500" stop="20211024103000 -0500" channel="TV MAX PA">
+    <title lang="es">Sports windows</title>
+  </programme>
+  <programme start="20211024103000 -0500" stop="20211024110000 -0500" channel="TV MAX PA">
+    <title lang="es">Chicago Med</title>
+  </programme>
+  <programme start="20211024110000 -0500" stop="20211024113000 -0500" channel="TV MAX PA">
+    <title lang="es">De paseo pty</title>
+  </programme>
+  <programme start="20211024113000 -0500" stop="20211024120000 -0500" channel="TV MAX PA">
+    <title lang="es">Finca tv</title>
+  </programme>
+  <programme start="20211024120000 -0500" stop="20211024123000 -0500" channel="TV MAX PA">
+    <title lang="es">Revista Inversiones y Negocios</title>
+  </programme>
+  <programme start="20211024123000 -0500" stop="20211024150000 -0500" channel="TV MAX PA">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
+  </programme>
+  <programme start="20211024150000 -0500" stop="20211024153000 -0500" channel="TV MAX PA">
+    <title lang="es">Motocross</title>
+  </programme>
+  <programme start="20211024153000 -0500" stop="20211024160000 -0500" channel="TV MAX PA">
+    <title lang="es">Chicago PD</title>
+    <title lang="xx">Chicago P.D.</title>
+    <desc lang="es">Hombres y mujeres del Departamento de Policía de Chicago formado por dos grupos: uno dedicado a patrullar las calles y el otro a combatir el crimen.(n)</desc>
+  </programme>
+  <programme start="20211024160000 -0500" stop="20211024180000 -0500" channel="TV MAX PA">
+    <title lang="es">Resumen Magnum</title>
+  </programme>
+  <programme start="20211024180000 -0500" stop="20211024190000 -0500" channel="TV MAX PA">
+    <title lang="es">Talenpro</title>
+  </programme>
+  <programme start="20211024190000 -0500" stop="20211024220000 -0500" channel="TV MAX PA">
+    <title lang="es">The Shield</title>
+  </programme>
+  <programme start="20211024220000 -0500" stop="20211024230000 -0500" channel="TV MAX PA">
+    <title lang="es">American Ninja Warrior (res.)</title>
+  </programme>
+  <programme start="20211024230000 -0500" stop="20211025020000 -0500" channel="TV MAX PA">
+    <title lang="es">TV Max</title>
+  </programme>
+  <programme start="20211023003000 -0500" stop="20211023013000 -0500" channel="PUNTO 2 PR">
     <title lang="es">El Señor de los Cielos</title>
     <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.(n)</desc>
   </programme>
-  <programme start="20211022013000 -0500" stop="20211022023000 -0500" channel="PUNTO 2 PR">
+  <programme start="20211023013000 -0500" stop="20211023023000 -0500" channel="PUNTO 2 PR">
     <title lang="es">Sin Senos Sí Hay Paraíso</title>
     <title lang="xx">Sin Senos Sí Hay Paraíso</title>
     <desc lang="es">Ha llegado la hora de elegir a la joven más bella de la región. La pasarela se ha convertido en un campo de batalla donde habrá muchos aliados y enemigos.(n)</desc>
   </programme>
-  <programme start="20211022023000 -0500" stop="20211022030000 -0500" channel="PUNTO 2 PR">
+  <programme start="20211023023000 -0500" stop="20211023030000 -0500" channel="PUNTO 2 PR">
     <title lang="es">Decisiones</title>
     <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.(n)</desc>
-  </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Suelta la Sopa</title>
-  </programme>
-  <programme start="20211022040000 -0500" stop="20211022050000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Comienza el Día con la Pastora Wanda Rolon</title>
-  </programme>
-  <programme start="20211022050000 -0500" stop="20211022053000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022053000 -0500" stop="20211022060000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022060000 -0500" stop="20211022063000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022063000 -0500" stop="20211022070000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022070000 -0500" stop="20211022073000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022073000 -0500" stop="20211022080000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022080000 -0500" stop="20211022083000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Dra. Polo: ¡Alivio a tu alcance</title>
-  </programme>
-  <programme start="20211022083000 -0500" stop="20211022090000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022090000 -0500" stop="20211022093000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022093000 -0500" stop="20211022100000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022100000 -0500" stop="20211022103000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022103000 -0500" stop="20211022110000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022110000 -0500" stop="20211022113000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022113000 -0500" stop="20211022120000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022123000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022123000 -0500" stop="20211022130000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022130000 -0500" stop="20211022140000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Mas sabe el diablo</title>
-  </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">En casa con Telemundo</title>
-  </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Reina de Corazones</title>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">La dona</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">El Señor de los Cielos</title>
-    <desc lang="es">La vida de Amado Carrillo Fuentes, conocido como “El Señor de los Cielos”, uno de los cabecillas del Cuartel de Juárez.(n)</desc>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Suelta la Sopa</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Al rojo vivo</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Sin Senos Sí Hay Paraíso</title>
-    <title lang="xx">Sin Senos Sí Hay Paraíso</title>
-    <desc lang="es">Ha llegado la hora de elegir a la joven más bella de la región. La pasarela se ha convertido en un campo de batalla donde habrá muchos aliados y enemigos.(n)</desc>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022213000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Noticias Telemundo</title>
-  </programme>
-  <programme start="20211022213000 -0500" stop="20211022223000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Mas sabe el diablo</title>
-  </programme>
-  <programme start="20211022223000 -0500" stop="20211022230000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211022233000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20211023030000 -0500" stop="20211023033000 -0500" channel="PUNTO 2 PR">
     <title lang="es">Programa Pagado</title>
@@ -1843,14 +1728,56 @@
   <programme start="20211023050000 -0500" stop="20211023053000 -0500" channel="PUNTO 2 PR">
     <title lang="es">Aprendo con Shabum</title>
   </programme>
+  <programme start="20211023053000 -0500" stop="20211023060000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023060000 -0500" stop="20211023063000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023063000 -0500" stop="20211023070000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023070000 -0500" stop="20211023073000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023073000 -0500" stop="20211023080000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
   <programme start="20211023080000 -0500" stop="20211023083000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023083000 -0500" stop="20211023090000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023090000 -0500" stop="20211023093000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023093000 -0500" stop="20211023100000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023100000 -0500" stop="20211023103000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023103000 -0500" stop="20211023110000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023110000 -0500" stop="20211023113000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023113000 -0500" stop="20211023120000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023120000 -0500" stop="20211023123000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211023123000 -0500" stop="20211023130000 -0500" channel="PUNTO 2 PR">
     <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20211023130000 -0500" stop="20211023133000 -0500" channel="PUNTO 2 PR">
     <title lang="es">En casa con Richie Cortez</title>
   </programme>
   <programme start="20211023133000 -0500" stop="20211023140000 -0500" channel="PUNTO 2 PR">
-    <title lang="es">Dra. Polo: ¡Alivio a tu alcance</title>
+    <title lang="es">Programa Pagado</title>
   </programme>
   <programme start="20211023140000 -0500" stop="20211023143000 -0500" channel="PUNTO 2 PR">
     <title lang="es">Operación Chef</title>
@@ -1896,65 +1823,127 @@
   <programme start="20211023233000 -0500" stop="20211024000000 -0500" channel="PUNTO 2 PR">
     <title lang="es">Operación Chef</title>
   </programme>
-  <programme start="20211022060000 -0500" stop="20211022063000 -0500" channel="CANAL 2 NC">
-    <title lang="es">CNN</title>
+  <programme start="20211024000000 -0500" stop="20211024010000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Al Otro Lado del Muro</title>
+    <title lang="xx">Al Otro Lado del Muro</title>
+    <desc lang="es">Eliza y Sofía son dos mujeres que viajan a Los Ángeles: una para reencontrarse con su esposo y la otra huye de su esposo que la amenaza de muerte.(n)</desc>
   </programme>
-  <programme start="20211022063000 -0500" stop="20211022070000 -0500" channel="CANAL 2 NC">
-    <title lang="es">TV Noticias Edición matutina</title>
+  <programme start="20211024010000 -0500" stop="20211024020000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Señora Acero</title>
   </programme>
-  <programme start="20211022070000 -0500" stop="20211022090000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Primera Hora</title>
+  <programme start="20211024020000 -0500" stop="20211024030000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Señora Acero</title>
   </programme>
-  <programme start="20211022090000 -0500" stop="20211022100000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Lo que callamos las mujeres</title>
-    <desc lang="es">Un programa que presenta dramatizaciones de historias enviadas por los televidentes en México, y en cada episodio trata sobre resolver un problema.(n)</desc>
+  <programme start="20211024030000 -0500" stop="20211024033000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022100000 -0500" stop="20211022110000 -0500" channel="CANAL 2 NC">
-    <title lang="es">A cada quien su santo</title>
-    <desc lang="es">Un programa donde se narran historias donde las personas le piden a su santo predilecto para pedirle para que les solucionen sus problemas.(n)</desc>
+  <programme start="20211024033000 -0500" stop="20211024040000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022110000 -0500" stop="20211022120000 -0500" channel="CANAL 2 NC">
-    <title lang="es">La vida es una canción</title>
-    <desc lang="es">Un programa donde se cuentan las historias siendo acompañadas por el nombre de una canción que mejor la representan.(n)</desc>
+  <programme start="20211024040000 -0500" stop="20211024043000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Corazón que Miente</title>
+  <programme start="20211024043000 -0500" stop="20211024050000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022130000 -0500" stop="20211022140000 -0500" channel="CANAL 2 NC">
-    <title lang="es">TV Noticias - Edición al mediodía</title>
+  <programme start="20211024050000 -0500" stop="20211024053000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">123 Shabum</title>
   </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Cita a ciegas</title>
+  <programme start="20211024053000 -0500" stop="20211024060000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Rock Story</title>
+  <programme start="20211024060000 -0500" stop="20211024063000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="CANAL 2 NC">
-    <title lang="es">El Gordo y la Flaca</title>
+  <programme start="20211024063000 -0500" stop="20211024070000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022170000 -0500" stop="20211022175500 -0500" channel="CANAL 2 NC">
-    <title lang="es">Primer Impacto</title>
+  <programme start="20211024070000 -0500" stop="20211024073000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022175500 -0500" stop="20211022190000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Tv Noticias - Edicion Estelar</title>
+  <programme start="20211024073000 -0500" stop="20211024080000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Fuego Ardiente</title>
+  <programme start="20211024080000 -0500" stop="20211024083000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="CANAL 2 NC">
-    <title lang="es">A través del tiempo</title>
+  <programme start="20211024083000 -0500" stop="20211024090000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022210000 -0500" stop="20211022220000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Querer sin límites</title>
+  <programme start="20211024090000 -0500" stop="20211024093000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Tv noticias Edición Nocturna</title>
+  <programme start="20211024093000 -0500" stop="20211024100000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20211022230000 -0500" stop="20211023000000 -0500" channel="CANAL 2 NC">
-    <title lang="es">Primer Impacto</title>
+  <programme start="20211024100000 -0500" stop="20211024103000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211024103000 -0500" stop="20211024110000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211024110000 -0500" stop="20211024113000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211024113000 -0500" stop="20211024120000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211024120000 -0500" stop="20211024123000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211024123000 -0500" stop="20211024130000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211024130000 -0500" stop="20211024133000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211024133000 -0500" stop="20211024140000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20211024140000 -0500" stop="20211024143000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20211024143000 -0500" stop="20211024150000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20211024150000 -0500" stop="20211024153000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20211024153000 -0500" stop="20211024160000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20211024160000 -0500" stop="20211024163000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Tertuliando con Carlos Salgado</title>
+  </programme>
+  <programme start="20211024163000 -0500" stop="20211024170000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20211024170000 -0500" stop="20211024180000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Sueiro directo</title>
+  </programme>
+  <programme start="20211024180000 -0500" stop="20211024190000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Decisiones extremas</title>
+  </programme>
+  <programme start="20211024190000 -0500" stop="20211024200000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Decisiones: unos ganan, otros pierden</title>
+  </programme>
+  <programme start="20211024200000 -0500" stop="20211024210000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Sangre de mi tierra</title>
+  </programme>
+  <programme start="20211024210000 -0500" stop="20211024220000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Señora Acero</title>
+  </programme>
+  <programme start="20211024220000 -0500" stop="20211024230000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Señora Acero</title>
+  </programme>
+  <programme start="20211024230000 -0500" stop="20211024233000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Operación Chef</title>
+  </programme>
+  <programme start="20211024233000 -0500" stop="20211025000000 -0500" channel="PUNTO 2 PR">
+    <title lang="es">Operación Chef</title>
   </programme>
   <programme start="20211023060000 -0500" stop="20211023063000 -0500" channel="CANAL 2 NC">
-    <title lang="es">3, 2, 1 vamos</title>
+    <title lang="es">3, 2, 1, ¡Vamos</title>
   </programme>
   <programme start="20211023063000 -0500" stop="20211023070000 -0500" channel="CANAL 2 NC">
     <title lang="es">La abeja Maya</title>
@@ -2010,73 +1999,43 @@
   <programme start="20211023170000 -0500" stop="20211023180000 -0500" channel="CANAL 2 NC">
     <title lang="es">Flashpoint</title>
   </programme>
-  <programme start="20211022003000 -0500" stop="20211022010000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Mas que Cine</title>
+  <programme start="20211023180000 -0500" stop="20211023185000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Mentes Criminales</title>
+    <title lang="xx">Criminal Minds</title>
+    <desc lang="es">Un equipo de élite del FBI encargado de analizar las mentes criminales más retorcidas del país y prever sus próximos pasos antes de que vuelvan atacar.(n)</desc>
   </programme>
-  <programme start="20211022010000 -0500" stop="20211022013000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Flor Mizrachi Pregunta</title>
+  <programme start="20211023185000 -0500" stop="20211023190000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Micro - TVN</title>
   </programme>
-  <programme start="20211022013000 -0500" stop="20211022033000 -0500" channel="TELEMTRO PA">
+  <programme start="20211023190000 -0500" stop="20211023200000 -0500" channel="CANAL 2 NC">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20211023200000 -0500" stop="20211023210000 -0500" channel="CANAL 2 NC">
+    <title lang="es">La Niña</title>
+  </programme>
+  <programme start="20211023210000 -0500" stop="20211023220000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Bandolera</title>
+  </programme>
+  <programme start="20211023220000 -0500" stop="20211023230000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Revenge</title>
+  </programme>
+  <programme start="20211023230000 -0500" stop="20211024000000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20211024130000 -0500" stop="20211024140000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Soy Luna</title>
+  </programme>
+  <programme start="20211024140000 -0500" stop="20211024141000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Micro - TVN</title>
+  </programme>
+  <programme start="20211024141000 -0500" stop="20211024150000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Números</title>
+  </programme>
+  <programme start="20211024150000 -0500" stop="20211024160000 -0500" channel="CANAL 2 NC">
+    <title lang="es">Battle Creek</title>
+  </programme>
+  <programme start="20211023013000 -0500" stop="20211023033000 -0500" channel="TELEMTRO PA">
     <title lang="es">Telemetro Reporta</title>
-  </programme>
-  <programme start="20211022033000 -0500" stop="20211022040000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Mamás and CO</title>
-  </programme>
-  <programme start="20211022040000 -0500" stop="20211022050000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Doctor Milagro</title>
-  </programme>
-  <programme start="20211022050000 -0500" stop="20211022070000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Telemetro Reporta</title>
-  </programme>
-  <programme start="20211022070000 -0500" stop="20211022100000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Tu Mañana</title>
-  </programme>
-  <programme start="20211022100000 -0500" stop="20211022110000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20211022110000 -0500" stop="20211022120000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Telemetro Reporta</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022140000 -0500" channel="TELEMTRO PA">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Vencer el Desamor</title>
-    <title lang="xx">Vencer el Desamor</title>
-    <desc lang="es">Cuatro mujeres de diferentes estratos sociales se ven obligadas a vivir bajo el mismo techo, ahora deberán aprender a superar las diferencias entre ellas.(n)</desc>
-  </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Yo soy Betty, la fea</title>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="TELEMTRO PA">
-    <title lang="es">La Gata</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022190500 -0500" channel="TELEMTRO PA">
-    <title lang="es">Telemetro Reporta</title>
-  </programme>
-  <programme start="20211022190500 -0500" stop="20211022201500 -0500" channel="TELEMTRO PA">
-    <title lang="es">Doctor Milagro</title>
-  </programme>
-  <programme start="20211022201500 -0500" stop="20211022213000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Enfermeras</title>
-  </programme>
-  <programme start="20211022213000 -0500" stop="20211022221500 -0500" channel="TELEMTRO PA">
-    <title lang="es">La Desalmada</title>
-  </programme>
-  <programme start="20211022221500 -0500" stop="20211022224000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Telemetro Reporta</title>
-  </programme>
-  <programme start="20211022224000 -0500" stop="20211022230000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Mas que Cine</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211022233000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Mamás and CO</title>
-  </programme>
-  <programme start="20211022233000 -0500" stop="20211023000000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Mas que Cine</title>
-  </programme>
-  <programme start="20211023000000 -0500" stop="20211023013000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Quién TV</title>
   </programme>
   <programme start="20211023033000 -0500" stop="20211023040000 -0500" channel="TELEMTRO PA">
     <title lang="es">Muertos de Hambre</title>
@@ -2111,65 +2070,95 @@
   <programme start="20211023180000 -0500" stop="20211023190000 -0500" channel="TELEMTRO PA">
     <title lang="es">A lo Panameño</title>
   </programme>
-  <programme start="20211023190000 -0500" stop="20211023220000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Boxeo internacional</title>
+  <programme start="20211023190000 -0500" stop="20211023201500 -0500" channel="TELEMTRO PA">
+    <title lang="es">Quién TV</title>
   </programme>
-  <programme start="20211023220000 -0500" stop="20211024010000 -0500" channel="TELEMTRO PA">
-    <title lang="es">Boxeo internacional</title>
+  <programme start="20211023201500 -0500" stop="20211023214500 -0500" channel="TELEMTRO PA">
+    <title lang="es">Da'Flow Internacional</title>
   </programme>
-  <programme start="20211022024500 -0500" stop="20211022033000 -0500" channel="MEGA CL">
-    <title lang="es">Meganoticias amanece</title>
+  <programme start="20211023214500 -0500" stop="20211023230000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Cinema Telemetro</title>
   </programme>
-  <programme start="20211022033000 -0500" stop="20211022050000 -0500" channel="MEGA CL">
-    <title lang="es">Meganoticias conecta</title>
+  <programme start="20211023230000 -0500" stop="20211023233000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Muertos de Hambre</title>
   </programme>
-  <programme start="20211022050000 -0500" stop="20211022094000 -0500" channel="MEGA CL">
-    <title lang="es">Mucho gusto</title>
+  <programme start="20211023233000 -0500" stop="20211024010000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Quién TV</title>
   </programme>
-  <programme start="20211022094000 -0500" stop="20211022100000 -0500" channel="MEGA CL">
-    <title lang="es">Franja Política</title>
+  <programme start="20211024233000 -0500" stop="20211025010000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Quién TV</title>
   </programme>
-  <programme start="20211022100000 -0500" stop="20211022122500 -0500" channel="MEGA CL">
-    <title lang="es">Meganoticias actualiza</title>
+  <programme start="20211025010000 -0500" stop="20211025013000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Mamás and CO</title>
   </programme>
-  <programme start="20211022122500 -0500" stop="20211022123000 -0500" channel="MEGA CL">
-    <title lang="es">El tiempo</title>
+  <programme start="20211025013000 -0500" stop="20211025023000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Telemetro Reporta</title>
   </programme>
-  <programme start="20211022123000 -0500" stop="20211022124500 -0500" channel="MEGA CL">
-    <title lang="es">Verdades ocultas</title>
+  <programme start="20211025023000 -0500" stop="20211025030000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Mas que Cine</title>
   </programme>
-  <programme start="20211022124500 -0500" stop="20211022132000 -0500" channel="MEGA CL">
-    <title lang="es">Verdades ocultas</title>
+  <programme start="20211025030000 -0500" stop="20211025040000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Da'Flow Internacional</title>
   </programme>
-  <programme start="20211022132000 -0500" stop="20211022141000 -0500" channel="MEGA CL">
-    <title lang="es">Dulce ambición</title>
+  <programme start="20211025040000 -0500" stop="20211025043000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Muertos de Hambre</title>
   </programme>
-  <programme start="20211022141000 -0500" stop="20211022150000 -0500" channel="MEGA CL">
-    <title lang="es">Zuleyha</title>
+  <programme start="20211025043000 -0500" stop="20211025050000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Mas que Cine</title>
   </programme>
-  <programme start="20211022150000 -0500" stop="20211022155000 -0500" channel="MEGA CL">
-    <title lang="es">La hora de jugar</title>
+  <programme start="20211025050000 -0500" stop="20211025060000 -0500" channel="TELEMTRO PA">
+    <title lang="es">A lo Panameño</title>
   </programme>
-  <programme start="20211022155000 -0500" stop="20211022164500 -0500" channel="MEGA CL">
-    <title lang="es">Isla paraíso</title>
+  <programme start="20211025060000 -0500" stop="20211025070000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Animados</title>
   </programme>
-  <programme start="20211022164500 -0500" stop="20211022173000 -0500" channel="MEGA CL">
-    <title lang="es">Pobre Novio</title>
+  <programme start="20211025070000 -0500" stop="20211025080000 -0500" channel="TELEMTRO PA">
+    <title lang="es">La santa misa</title>
   </programme>
-  <programme start="20211022173000 -0500" stop="20211022191500 -0500" channel="MEGA CL">
-    <title lang="es">Meganoticias Prime</title>
+  <programme start="20211025080000 -0500" stop="20211025100000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Debate Abierto Dominical</title>
   </programme>
-  <programme start="20211022191500 -0500" stop="20211022192000 -0500" channel="MEGA CL">
-    <title lang="es">El tiempo</title>
+  <programme start="20211025100000 -0500" stop="20211025103000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Cara a Cara</title>
   </programme>
-  <programme start="20211022192000 -0500" stop="20211022211500 -0500" channel="MEGA CL">
-    <title lang="es">The covers</title>
+  <programme start="20211025103000 -0500" stop="20211025110000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Flor Mizrachi Pregunta</title>
   </programme>
-  <programme start="20211022211500 -0500" stop="20211022222000 -0500" channel="MEGA CL">
-    <title lang="es">Red de mentiras</title>
+  <programme start="20211025110000 -0500" stop="20211025113000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Mas que Cine</title>
   </programme>
-  <programme start="20211022222000 -0500" stop="20211023041500 -0500" channel="MEGA CL">
-    <title lang="es">Cierre de transmisiones</title>
+  <programme start="20211025113000 -0500" stop="20211025120000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Animados</title>
+  </programme>
+  <programme start="20211025120000 -0500" stop="20211025123000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Loteria nacional</title>
+  </programme>
+  <programme start="20211025123000 -0500" stop="20211025130000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Muertos de Hambre</title>
+  </programme>
+  <programme start="20211025130000 -0500" stop="20211025140000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Yo Me Llamo</title>
+  </programme>
+  <programme start="20211025140000 -0500" stop="20211025153000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Doctor Milagro</title>
+  </programme>
+  <programme start="20211025153000 -0500" stop="20211025162000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20211025162000 -0500" stop="20211025170000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Documental 40 Años Telemetro</title>
+  </programme>
+  <programme start="20211025180000 -0500" stop="20211025200000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20211025200000 -0500" stop="20211025220000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20211025220000 -0500" stop="20211025230000 -0500" channel="TELEMTRO PA">
+    <title lang="es">Cinema Telemetro</title>
+  </programme>
+  <programme start="20211025230000 -0500" stop="20211025233000 -0500" channel="TELEMTRO PA">
+    <title lang="es">A lo Panameño</title>
   </programme>
   <programme start="20211023041500 -0500" stop="20211023053000 -0500" channel="MEGA CL">
     <title lang="es">A orillas del río</title>
@@ -2210,99 +2199,50 @@
   <programme start="20211023221500 -0500" stop="20211024050000 -0500" channel="MEGA CL">
     <title lang="es">Cierre de transmisiones</title>
   </programme>
-  <programme start="20211022001500 -0500" stop="20211022010000 -0500" channel="TELEAMAZONAS EC">
+  <programme start="20211024221500 -0500" stop="20211025050000 -0500" channel="MEGA CL">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20211025050000 -0500" stop="20211025060000 -0500" channel="MEGA CL">
+    <title lang="es">Secretos Urbanos</title>
+  </programme>
+  <programme start="20211025060000 -0500" stop="20211025100000 -0500" channel="MEGA CL">
+    <title lang="es">Meganoticias Alerta</title>
+  </programme>
+  <programme start="20211025120000 -0500" stop="20211025131500 -0500" channel="MEGA CL">
+    <title lang="es">Seleccion nacional</title>
+  </programme>
+  <programme start="20211025131500 -0500" stop="20211025141500 -0500" channel="MEGA CL">
+    <title lang="es">Viajando Ando</title>
+  </programme>
+  <programme start="20211025141500 -0500" stop="20211025153000 -0500" channel="MEGA CL">
+    <title lang="es">Bicitantes - Chile</title>
+  </programme>
+  <programme start="20211025153000 -0500" stop="20211025173000 -0500" channel="MEGA CL">
+    <title lang="es">Lo mejor de The Covers</title>
+  </programme>
+  <programme start="20211025173000 -0500" stop="20211025192500 -0500" channel="MEGA CL">
+    <title lang="es">Meganoticias Prime</title>
+  </programme>
+  <programme start="20211025192500 -0500" stop="20211025193000 -0500" channel="MEGA CL">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20211025193000 -0500" stop="20211025210000 -0500" channel="MEGA CL">
+    <title lang="es">Lo mejor de The Covers</title>
+  </programme>
+  <programme start="20211025210000 -0500" stop="20211025220000 -0500" channel="MEGA CL">
+    <title lang="es">Demente</title>
+  </programme>
+  <programme start="20211025220000 -0500" stop="20211026024500 -0500" channel="MEGA CL">
+    <title lang="es">Cierre de transmisiones</title>
+  </programme>
+  <programme start="20211023001500 -0500" stop="20211023010000 -0500" channel="TELEAMAZONAS EC">
     <title lang="es">Vivos</title>
   </programme>
-  <programme start="20211022010000 -0500" stop="20211022013000 -0500" channel="TELEAMAZONAS EC">
+  <programme start="20211023010000 -0500" stop="20211023013000 -0500" channel="TELEAMAZONAS EC">
     <title lang="es">Programación no disponible</title>
   </programme>
-  <programme start="20211022013000 -0500" stop="20211022014500 -0500" channel="TELEAMAZONAS EC">
+  <programme start="20211023013000 -0500" stop="20211023014500 -0500" channel="TELEAMAZONAS EC">
     <title lang="es">24 horas</title>
-  </programme>
-  <programme start="20211022014500 -0500" stop="20211022023000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Divino niño</title>
-  </programme>
-  <programme start="20211022023000 -0500" stop="20211022030000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Educa</title>
-  </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Search</title>
-  </programme>
-  <programme start="20211022040000 -0500" stop="20211022050000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Pedro el Escamoso</title>
-  </programme>
-  <programme start="20211022050000 -0500" stop="20211022055500 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20211022055500 -0500" stop="20211022063000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Los Desayunos De 24 Horas</title>
-  </programme>
-  <programme start="20211022063000 -0500" stop="20211022083000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20211022083000 -0500" stop="20211022103000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Madre</title>
-  </programme>
-  <programme start="20211022103000 -0500" stop="20211022113000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Boys Over Flowers</title>
-  </programme>
-  <programme start="20211022113000 -0500" stop="20211022120000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Ace of cakes</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022125500 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20211022125500 -0500" stop="20211022133000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Comunidad</title>
-  </programme>
-  <programme start="20211022133000 -0500" stop="20211022134200 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">En Corto</title>
-  </programme>
-  <programme start="20211022134200 -0500" stop="20211022140000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Deporte Total</title>
-  </programme>
-  <programme start="20211022140000 -0500" stop="20211022150000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Bob Esponja</title>
-  </programme>
-  <programme start="20211022150000 -0500" stop="20211022153000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Los Pingüinos de Madagascar</title>
-    <title lang="xx">The Penguins of Madagascar</title>
-    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
-  </programme>
-  <programme start="20211022153000 -0500" stop="20211022160000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Doraemon</title>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Futurama</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Nuevo rico, nuevo pobre</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Los Simpson</title>
-    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022200000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">24 Horas</title>
-  </programme>
-  <programme start="20211022200000 -0500" stop="20211022210000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">El Doctor milagro</title>
-  </programme>
-  <programme start="20211022210000 -0500" stop="20211022214500 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Enfermeras</title>
-  </programme>
-  <programme start="20211022214500 -0500" stop="20211022220000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Las muñecas de la mafia</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022221000 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">La ley secreta</title>
-  </programme>
-  <programme start="20211022221000 -0500" stop="20211022231500 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Perseguidos</title>
-    <desc lang="es">Un capo perseguido por la justicia ha sido traicionado, ahora las autoridades por fin logran seguirle el rastro y desean capturarlo vivo o muerto.(n)</desc>
-  </programme>
-  <programme start="20211022231500 -0500" stop="20211023001500 -0500" channel="TELEAMAZONAS EC">
-    <title lang="es">Rosewood</title>
   </programme>
   <programme start="20211023014500 -0500" stop="20211023021500 -0500" channel="TELEAMAZONAS EC">
     <title lang="es">Educa</title>
@@ -2374,141 +2314,203 @@
   <programme start="20211023220500 -0500" stop="20211024001500 -0500" channel="TELEAMAZONAS EC">
     <title lang="es">Película</title>
   </programme>
-  <programme start="20211022010000 -0500" stop="20211022013000 -0500" channel="ECUAVISA EC">
-    <title lang="es">V.I.P</title>
+  <programme start="20211024001500 -0500" stop="20211024011500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">UHF</title>
   </programme>
-  <programme start="20211022013000 -0500" stop="20211022020000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Mi último deseo</title>
+  <programme start="20211024011500 -0500" stop="20211024014500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Mitos y Verdades</title>
   </programme>
-  <programme start="20211022020000 -0500" stop="20211022030000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Educa</title>
+  <programme start="20211024014500 -0500" stop="20211024031500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Locuras de un nerd enamorado</title>
   </programme>
-  <programme start="20211022030000 -0500" stop="20211022040000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Totalmente Diva</title>
+  <programme start="20211024031500 -0500" stop="20211024033000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Camaramanía</title>
   </programme>
-  <programme start="20211022040000 -0500" stop="20211022045500 -0500" channel="ECUAVISA EC">
-    <title lang="es">Televistazo</title>
+  <programme start="20211024033000 -0500" stop="20211024040000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Geeks</title>
   </programme>
-  <programme start="20211022045500 -0500" stop="20211022055500 -0500" channel="ECUAVISA EC">
-    <title lang="es">Televistazo</title>
+  <programme start="20211024040000 -0500" stop="20211024043000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Tres Patines</title>
   </programme>
-  <programme start="20211022055500 -0500" stop="20211022063000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Contacto directo</title>
+  <programme start="20211024043000 -0500" stop="20211024063000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Amor bajo la luz de la luna</title>
   </programme>
-  <programme start="20211022063000 -0500" stop="20211022080000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Televistazo</title>
+  <programme start="20211024063000 -0500" stop="20211024070000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Soy yo</title>
   </programme>
-  <programme start="20211022080000 -0500" stop="20211022093000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Dulce Venganza</title>
-  </programme>
-  <programme start="20211022093000 -0500" stop="20211022120000 -0500" channel="ECUAVISA EC">
-    <title lang="es">En Contacto</title>
-  </programme>
-  <programme start="20211022120000 -0500" stop="20211022130000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Televistazo</title>
-  </programme>
-  <programme start="20211022130000 -0500" stop="20211022150000 -0500" channel="ECUAVISA EC">
-    <title lang="es">El poder del amor</title>
-  </programme>
-  <programme start="20211022150000 -0500" stop="20211022160000 -0500" channel="ECUAVISA EC">
-    <title lang="es">La Hija del Mariachi</title>
-  </programme>
-  <programme start="20211022160000 -0500" stop="20211022170000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Escalera al cielo</title>
-  </programme>
-  <programme start="20211022170000 -0500" stop="20211022180000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Hermanas</title>
-  </programme>
-  <programme start="20211022180000 -0500" stop="20211022190000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Televistazo</title>
-  </programme>
-  <programme start="20211022190000 -0500" stop="20211022194500 -0500" channel="ECUAVISA EC">
-    <title lang="es">No me dejes ir</title>
-  </programme>
-  <programme start="20211022194500 -0500" stop="20211022203000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Dónde está mi hija</title>
-  </programme>
-  <programme start="20211022203000 -0500" stop="20211022213000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Amor eterno</title>
-  </programme>
-  <programme start="20211022213000 -0500" stop="20211022220000 -0500" channel="ECUAVISA EC">
-    <title lang="es">100 días para enamorarse</title>
-  </programme>
-  <programme start="20211022220000 -0500" stop="20211022230000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Sharon la hechicera</title>
-  </programme>
-  <programme start="20211022230000 -0500" stop="20211022233000 -0500" channel="ECUAVISA EC">
-    <title lang="es">El poder del amor</title>
-  </programme>
-  <programme start="20211022233000 -0500" stop="20211023010000 -0500" channel="ECUAVISA EC">
-    <title lang="es">El Combo Amarillo</title>
-  </programme>
-  <programme start="20211023233000 -0500" stop="20211024010000 -0500" channel="ECUAVISA EC">
-    <title lang="es">El Combo Amarillo</title>
-  </programme>
-  <programme start="20211024010000 -0500" stop="20211024020000 -0500" channel="ECUAVISA EC">
-    <title lang="es">El Combo Amarillo</title>
-  </programme>
-  <programme start="20211024020000 -0500" stop="20211024030000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Educa</title>
-  </programme>
-  <programme start="20211024030000 -0500" stop="20211024040000 -0500" channel="ECUAVISA EC">
-    <title lang="es">Así pasa</title>
-  </programme>
-  <programme start="20211024040000 -0500" stop="20211024060000 -0500" channel="ECUAVISA EC">
-    <title lang="es">El Hombre Increíble</title>
-  </programme>
-  <programme start="20211024060000 -0500" stop="20211024070000 -0500" channel="ECUAVISA EC">
-    <title lang="es">A-Team</title>
-  </programme>
-  <programme start="20211024070000 -0500" stop="20211024080000 -0500" channel="ECUAVISA EC">
+  <programme start="20211024070000 -0500" stop="20211024090000 -0500" channel="TELEAMAZONAS EC">
     <title lang="es">Tventas</title>
   </programme>
-  <programme start="20211024080000 -0500" stop="20211024083000 -0500" channel="ECUAVISA EC">
+  <programme start="20211024090000 -0500" stop="20211024093000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">La Cocina del Chef</title>
+  </programme>
+  <programme start="20211024093000 -0500" stop="20211024100000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">El Encantador de Perros</title>
+  </programme>
+  <programme start="20211024100000 -0500" stop="20211024103300 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20211024103300 -0500" stop="20211024110000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Documentales de Animales</title>
+  </programme>
+  <programme start="20211024110000 -0500" stop="20211024113000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Mitos y Verdades</title>
+  </programme>
+  <programme start="20211024113000 -0500" stop="20211024133000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">América Vive</title>
+  </programme>
+  <programme start="20211024133000 -0500" stop="20211024144500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Oie</title>
+  </programme>
+  <programme start="20211024144500 -0500" stop="20211024154500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20211024154500 -0500" stop="20211024164500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20211024164500 -0500" stop="20211024181500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20211024181500 -0500" stop="20211024200000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20211024200000 -0500" stop="20211024210000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20211024210000 -0500" stop="20211024213500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20211024213500 -0500" stop="20211024223500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Hora 25</title>
+  </programme>
+  <programme start="20211024223500 -0500" stop="20211024230500 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20211024230500 -0500" stop="20211024233000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20211024233000 -0500" stop="20211025003000 -0500" channel="TELEAMAZONAS EC">
+    <title lang="es">Mitos y verdades</title>
+  </programme>
+  <programme start="20211023010000 -0500" stop="20211023020000 -0500" channel="ECUAVISA EC">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20211023020000 -0500" stop="20211023030000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20211023030000 -0500" stop="20211023040000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20211023040000 -0500" stop="20211023060000 -0500" channel="ECUAVISA EC">
+    <title lang="es">El Hombre Increíble</title>
+  </programme>
+  <programme start="20211023060000 -0500" stop="20211023070000 -0500" channel="ECUAVISA EC">
+    <title lang="es">A-Team</title>
+  </programme>
+  <programme start="20211023070000 -0500" stop="20211023080000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20211023080000 -0500" stop="20211023083000 -0500" channel="ECUAVISA EC">
     <title lang="es">Pan Nuestro</title>
   </programme>
-  <programme start="20211024083000 -0500" stop="20211024093000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023083000 -0500" stop="20211023093000 -0500" channel="ECUAVISA EC">
     <title lang="es">Hacia un Nuevo Estilo de Vida</title>
   </programme>
-  <programme start="20211024093000 -0500" stop="20211024100000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023093000 -0500" stop="20211023100000 -0500" channel="ECUAVISA EC">
     <title lang="es">Tres familias</title>
   </programme>
-  <programme start="20211024100000 -0500" stop="20211024110000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023100000 -0500" stop="20211023110000 -0500" channel="ECUAVISA EC">
     <title lang="es">Wonder Woman</title>
   </programme>
-  <programme start="20211024110000 -0500" stop="20211024120000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023110000 -0500" stop="20211023120000 -0500" channel="ECUAVISA EC">
     <title lang="es">Supergirl</title>
     <title lang="xx">Supergirl</title>
     <desc lang="es">Kara después de haber escapado de Krypton, ha llegado a la tierra mucho después de su primo Superman ahora debe proteger a la tierra de los alienígenas.(n)</desc>
   </programme>
-  <programme start="20211024120000 -0500" stop="20211024140000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023120000 -0500" stop="20211023140000 -0500" channel="ECUAVISA EC">
     <title lang="es">Smallville</title>
   </programme>
-  <programme start="20211024140000 -0500" stop="20211024150000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023140000 -0500" stop="20211023150000 -0500" channel="ECUAVISA EC">
     <title lang="es">The Flash</title>
     <desc lang="es">Barry Allen es un científico que sufre un terrible accidente que para su bien lo convierte en el hombre más rápido del mundo.(n)</desc>
   </programme>
-  <programme start="20211024150000 -0500" stop="20211024160000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023150000 -0500" stop="20211023160000 -0500" channel="ECUAVISA EC">
     <title lang="es">Arrow</title>
     <title lang="xx">Arrow</title>
     <desc lang="es">Después de estar solo en una remota isla durante cinco años, el multimillonario Oliver Queen regresa a casa con una agenda misteriosa y nuevas habilidades.(n)</desc>
   </programme>
-  <programme start="20211024160000 -0500" stop="20211024180000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023160000 -0500" stop="20211023180000 -0500" channel="ECUAVISA EC">
     <title lang="es">Parque jurásico III</title>
   </programme>
-  <programme start="20211024180000 -0500" stop="20211024183000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023180000 -0500" stop="20211023183000 -0500" channel="ECUAVISA EC">
     <title lang="es">Televistazo</title>
   </programme>
-  <programme start="20211024183000 -0500" stop="20211024210000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023183000 -0500" stop="20211023210000 -0500" channel="ECUAVISA EC">
     <title lang="es">Jason Bourne</title>
   </programme>
-  <programme start="20211024210000 -0500" stop="20211024223000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023210000 -0500" stop="20211023223000 -0500" channel="ECUAVISA EC">
     <title lang="es">El poder del amor</title>
   </programme>
-  <programme start="20211024223000 -0500" stop="20211024230000 -0500" channel="ECUAVISA EC">
+  <programme start="20211023223000 -0500" stop="20211023230000 -0500" channel="ECUAVISA EC">
     <title lang="es">Las huecas</title>
   </programme>
-  <programme start="20211024230000 -0500" stop="20211025004500 -0500" channel="ECUAVISA EC">
+  <programme start="20211023230000 -0500" stop="20211024004500 -0500" channel="ECUAVISA EC">
     <title lang="es">Prueba de amor</title>
+  </programme>
+  <programme start="20211024004500 -0500" stop="20211024020000 -0500" channel="ECUAVISA EC">
+    <title lang="es">El Combo Amarillo</title>
+  </programme>
+  <programme start="20211024020000 -0500" stop="20211024031500 -0500" channel="ECUAVISA EC">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20211024031500 -0500" stop="20211024040000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20211024060000 -0500" stop="20211024070000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20211024070000 -0500" stop="20211024073000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Ripley's</title>
+  </programme>
+  <programme start="20211024073000 -0500" stop="20211024083000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20211024083000 -0500" stop="20211024093000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Panorama internacional</title>
+  </programme>
+  <programme start="20211024093000 -0500" stop="20211024103000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Políticamente correcto</title>
+  </programme>
+  <programme start="20211024103000 -0500" stop="20211024113000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Esta Semana con Pedro Jiménez</title>
+  </programme>
+  <programme start="20211024113000 -0500" stop="20211024120000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Entre flashes</title>
+  </programme>
+  <programme start="20211024120000 -0500" stop="20211024130000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Wonder Woman</title>
+  </programme>
+  <programme start="20211024130000 -0500" stop="20211024140000 -0500" channel="ECUAVISA EC">
+    <title lang="es">A-Team</title>
+  </programme>
+  <programme start="20211024140000 -0500" stop="20211024150000 -0500" channel="ECUAVISA EC">
+    <title lang="es">El Hombre Increíble</title>
+  </programme>
+  <programme start="20211024150000 -0500" stop="20211024180000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Batman, el caballero de la noche asciende</title>
+  </programme>
+  <programme start="20211024180000 -0500" stop="20211024190000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20211024190000 -0500" stop="20211024210000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Bumblebee</title>
+    <title lang="xx">Bumblebee</title>
+    <desc lang="es">En el año de 1987, Bumblebee encuentra refugio en un depósito de chatarra donde una jovencita lo resucita dándose cuenta que este VW amarillo no es común.(n)</desc>
+  </programme>
+  <programme start="20211024210000 -0500" stop="20211024230000 -0500" channel="ECUAVISA EC">
+    <title lang="es">El poder del amor</title>
+  </programme>
+  <programme start="20211024230000 -0500" stop="20211025000000 -0500" channel="ECUAVISA EC">
+    <title lang="es">Los Originales</title>
   </programme>
 </tv>
