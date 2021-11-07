@@ -457,9 +457,6 @@
   <programme start="20211107093000 -0600" stop="20211107100000 -0600" channel="CANAL 11 GT">
     <title lang="es">Batman The Brave and the Bold</title>
   </programme>
-  <programme start="20211107180000 -0600" stop="20211107190000 -0600" channel="CANAL 11 GT">
-    <title lang="es">Las vegas</title>
-  </programme>
   <programme start="20211107190000 -0600" stop="20211107210000 -0600" channel="CANAL 11 GT">
     <title lang="es">Por unos cuantos dólares mas</title>
   </programme>
@@ -1269,6 +1266,9 @@
   <programme start="20211107180000 -0600" stop="20211107190000 -0600" channel="REPRETEL 4 CR">
     <title lang="es">WWE Smackdown</title>
   </programme>
+  <programme start="20211107200000 -0600" stop="20211107210000 -0600" channel="REPRETEL 4 CR">
+    <title lang="es">Leverage</title>
+  </programme>
   <programme start="20211106010000 -0600" stop="20211106023000 -0600" channel="REPRETEL 6 CR">
     <title lang="es">Tycus</title>
   </programme>
@@ -2063,8 +2063,8 @@
   <programme start="20211107131000 -0600" stop="20211107140000 -0600" channel="CANAL 2 NC">
     <title lang="es">Números</title>
   </programme>
-  <programme start="20211107180000 -0600" stop="20211107190000 -0600" channel="CANAL 2 NC">
-    <title lang="es">La ley secreta</title>
+  <programme start="20211107200000 -0600" stop="20211107210000 -0600" channel="CANAL 2 NC">
+    <title lang="es">Bandolera</title>
   </programme>
   <programme start="20211106003000 -0600" stop="20211106023000 -0600" channel="TELEMTRO PA">
     <title lang="es">Telemetro Reporta</title>
