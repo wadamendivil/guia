@@ -8,67 +8,11 @@
     <display-name lang="es">SKY SPORTS 24</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20211212010000 -0600" stop="20211212030000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Espanyol vs. Levante Repetición</title>
-  </programme>
-  <programme start="20211212030000 -0600" stop="20211212050000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Sky Sports 16</title>
-  </programme>
-  <programme start="20211212050000 -0600" stop="20211212051500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20211212051500 -0600" stop="20211212071500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Valencia vs. Elche</title>
-  </programme>
-  <programme start="20211212071500 -0600" stop="20211212074500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga show</title>
-  </programme>
-  <programme start="20211212074500 -0600" stop="20211212080000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Sky Sports 16</title>
-  </programme>
-  <programme start="20211212080000 -0600" stop="20211212081500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20211212081500 -0600" stop="20211212101500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Osasuna Vs. Barcelona</title>
-    <desc lang="es">El Club Atlético Osasuna recibe al F. C. Barcelona en el estadio El Sadar en Pamplona, Navarra, España.(n)</desc>
-  </programme>
-  <programme start="20211212101500 -0600" stop="20211212103000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20211212103000 -0600" stop="20211212123000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Betis vs. Real Sociedad En Vivo</title>
-  </programme>
-  <programme start="20211212123000 -0600" stop="20211212130000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20211212130000 -0600" stop="20211212150000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Osasuna Vs. Barcelona</title>
-    <desc lang="es">El Club Atlético Osasuna recibe al F. C. Barcelona en el estadio El Sadar en Pamplona, Navarra, España.(n)</desc>
-  </programme>
-  <programme start="20211212150000 -0600" stop="20211212170000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Valencia vs. Elche</title>
-  </programme>
-  <programme start="20211212170000 -0600" stop="20211212190000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Betis vs. Real Sociedad Repetición</title>
-  </programme>
-  <programme start="20211212190000 -0600" stop="20211212200000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
-  </programme>
-  <programme start="20211212200000 -0600" stop="20211212220000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Athletic de Bilbao vs. Sevilla</title>
-  </programme>
-  <programme start="20211212220000 -0600" stop="20211212230000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Espanyol vs. Levante Repetición</title>
-  </programme>
-  <programme start="20211212230000 -0600" stop="20211213000000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Espanyol vs. Levante Repetición</title>
-  </programme>
-  <programme start="20211213000000 -0600" stop="20211213010000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
-  </programme>
   <programme start="20211213010000 -0600" stop="20211213030000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Valencia vs. Elche</title>
+  </programme>
+  <programme start="20211213030000 -0600" stop="20211213050000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Sky Sports 16</title>
   </programme>
   <programme start="20211213050000 -0600" stop="20211213053000 -0600" channel="SKY SPORTS 16">
     <title lang="es">La liga World</title>
@@ -113,6 +57,9 @@
   <programme start="20211213230000 -0600" stop="20211214010000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Cádiz vs. Granada Repetición</title>
   </programme>
+  <programme start="20211214010000 -0600" stop="20211214030000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Espanyol vs. Levante Repetición</title>
+  </programme>
   <programme start="20211214050000 -0600" stop="20211214070000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Espanyol vs. Levante Repetición</title>
   </programme>
@@ -127,6 +74,10 @@
   </programme>
   <programme start="20211214120000 -0600" stop="20211214130000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Programa Jornadas LaLiga</title>
+  </programme>
+  <programme start="20211214130000 -0600" stop="20211214150000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Osasuna Vs. Barcelona</title>
+    <desc lang="es">El Club Atlético Osasuna recibe al F. C. Barcelona en el estadio El Sadar en Pamplona, Navarra, España.(n)</desc>
   </programme>
   <programme start="20211214150000 -0600" stop="20211214170000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Cádiz vs. Granada Repetición</title>
@@ -292,71 +243,50 @@
   <programme start="20211218230000 -0600" stop="20211219010000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Valencia vs. Elche</title>
   </programme>
-  <programme start="20211212010000 -0600" stop="20211212013000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-World</title>
+  <programme start="20211219010000 -0600" stop="20211219030000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Viva La Liga Friday</title>
   </programme>
-  <programme start="20211212013000 -0600" stop="20211212020000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pl100</title>
+  <programme start="20211219053000 -0600" stop="20211219073000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Celta de Vigo vs. Espanyol Repetición</title>
   </programme>
-  <programme start="20211212020000 -0600" stop="20211212031500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Sky Sports 24</title>
+  <programme start="20211219073000 -0600" stop="20211219080000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga show</title>
   </programme>
-  <programme start="20211212031500 -0600" stop="20211212034500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pl100</title>
+  <programme start="20211219080000 -0600" stop="20211219100000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Rayo Vallecano vs. Alavés Repetición</title>
   </programme>
-  <programme start="20211212034500 -0600" stop="20211212041500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
-  </programme>
-  <programme start="20211212041500 -0600" stop="20211212044500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV- World - Raúl Jiménez</title>
-  </programme>
-  <programme start="20211212044500 -0600" stop="20211212064500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Brentford vs. Watford Repetición</title>
-  </programme>
-  <programme start="20211212064500 -0600" stop="20211212070000 -0600" channel="SKY SPORTS 24">
+  <programme start="20211219100000 -0600" stop="20211219103000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20211212070000 -0600" stop="20211212090000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Norwich City vs. Manchester United</title>
+  <programme start="20211219103000 -0600" stop="20211219123000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Elche</title>
+    <desc lang="es">El FC Barcelona recibe al Elche CF en el estadio Camp Nou ubicado en la ciudad de Barcelona, España.(n)</desc>
   </programme>
-  <programme start="20211212090000 -0600" stop="20211212091500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Sky Sports 24</title>
+  <programme start="20211219123000 -0600" stop="20211219143000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Celta de Vigo vs. Espanyol Repetición</title>
   </programme>
-  <programme start="20211212091500 -0600" stop="20211212093000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Previo</title>
+  <programme start="20211219143000 -0600" stop="20211219163000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Rayo Vallecano vs. Alavés Repetición</title>
   </programme>
-  <programme start="20211212093000 -0600" stop="20211212113000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Crystal Palace vs. Everton En Vivo</title>
+  <programme start="20211219163000 -0600" stop="20211219183000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Elche</title>
+    <desc lang="es">El FC Barcelona recibe al Elche CF en el estadio Camp Nou ubicado en la ciudad de Barcelona, España.(n)</desc>
   </programme>
-  <programme start="20211212113000 -0600" stop="20211212133000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Leicester vs. Newcastle United Repetición</title>
+  <programme start="20211219183000 -0600" stop="20211219203000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Celta de Vigo vs. Espanyol Repetición</title>
   </programme>
-  <programme start="20211212133000 -0600" stop="20211212140000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV- World - Raúl Jiménez</title>
+  <programme start="20211219203000 -0600" stop="20211219223000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Elche</title>
+    <desc lang="es">El FC Barcelona recibe al Elche CF en el estadio Camp Nou ubicado en la ciudad de Barcelona, España.(n)</desc>
   </programme>
-  <programme start="20211212140000 -0600" stop="20211212160000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Liverpool vs. Aston Villa Repetición</title>
+  <programme start="20211219223000 -0600" stop="20211219230000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Rayo Vallecano vs. Alavés Repetición</title>
   </programme>
-  <programme start="20211212160000 -0600" stop="20211212161500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Previo</title>
+  <programme start="20211219230000 -0600" stop="20211220003000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Rayo Vallecano vs. Alavés Repetición</title>
   </programme>
-  <programme start="20211212161500 -0600" stop="20211212181500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Crystal Palace vs. Everton Repetición</title>
-  </programme>
-  <programme start="20211212181500 -0600" stop="20211212183000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20211212183000 -0600" stop="20211212203000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Brighton vs. Tottenham Hotspur Repetición</title>
-  </programme>
-  <programme start="20211212203000 -0600" stop="20211212223000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Burnley vs. West Ham United Repetición</title>
-  </programme>
-  <programme start="20211212223000 -0600" stop="20211212230000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Leicester vs. Newcastle United Repetición</title>
-  </programme>
-  <programme start="20211212230000 -0600" stop="20211213003000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Leicester vs. Newcastle United Repetición</title>
+  <programme start="20211220230000 -0600" stop="20211221003000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Rayo Vallecano vs. Alavés Repetición</title>
   </programme>
   <programme start="20211213003000 -0600" stop="20211213010000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Pl100</title>
@@ -499,6 +429,9 @@
   <programme start="20211217010000 -0600" stop="20211217013000 -0600" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Netbusters</title>
   </programme>
+  <programme start="20211217013000 -0600" stop="20211217020000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pl100</title>
+  </programme>
   <programme start="20211217020000 -0600" stop="20211217030000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
@@ -594,5 +527,56 @@
   </programme>
   <programme start="20211219233000 -0600" stop="20211220013000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Crystal Palace vs. Southampton</title>
+  </programme>
+  <programme start="20211220013000 -0600" stop="20211220020000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20211220043000 -0600" stop="20211220053000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-fanzone</title>
+  </programme>
+  <programme start="20211220053000 -0600" stop="20211220060000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-the big interview</title>
+  </programme>
+  <programme start="20211220060000 -0600" stop="20211220063000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Match pack</title>
+  </programme>
+  <programme start="20211220070000 -0600" stop="20211220083000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-weekend warm-up</title>
+  </programme>
+  <programme start="20211220083000 -0600" stop="20211220090000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-the catch up show</title>
+  </programme>
+  <programme start="20211220090000 -0600" stop="20211220100000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Wednesday review</title>
+  </programme>
+  <programme start="20211220100000 -0600" stop="20211220113000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-the weekend review</title>
+  </programme>
+  <programme start="20211220113000 -0600" stop="20211220120000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-the big interview</title>
+  </programme>
+  <programme start="20211220120000 -0600" stop="20211220123000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Preview</title>
+  </programme>
+  <programme start="20211220123000 -0600" stop="20211220130000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20211220150000 -0600" stop="20211220160000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Premier League Show</title>
+  </programme>
+  <programme start="20211220160000 -0600" stop="20211220180000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Arsenal vs. West Ham United Repetición</title>
+  </programme>
+  <programme start="20211220180000 -0600" stop="20211220200000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Liverpool vs. Newcastle United Repetición</title>
+  </programme>
+  <programme start="20211220200000 -0600" stop="20211220220000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Chelsea vs. Everton Repetición</title>
+  </programme>
+  <programme start="20211220220000 -0600" stop="20211220230000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Brentford vs. Manchester United</title>
+  </programme>
+  <programme start="20211220230000 -0600" stop="20211221000000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Brentford vs. Manchester United</title>
   </programme>
 </tv>
