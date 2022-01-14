@@ -8,464 +8,605 @@
     <display-name lang="es">SKY SPORTS 24</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20220107003000 -0600" stop="20220107010000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga show</title>
-  </programme>
-  <programme start="20220107010000 -0600" stop="20220107030000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Osasuna vs. Athletic de Bilbao</title>
-  </programme>
-  <programme start="20220107030000 -0600" stop="20220107050000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20220107050000 -0600" stop="20220107070000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Alavés vs. Real Sociedad Repetición</title>
-  </programme>
-  <programme start="20220107070000 -0600" stop="20220107090000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Valencia vs. Espanyol Repetición</title>
-  </programme>
-  <programme start="20220107090000 -0600" stop="20220107110000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Osasuna vs. Athletic de Bilbao</title>
-  </programme>
-  <programme start="20220107110000 -0600" stop="20220107130000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Elche vs. Granada Repetición</title>
-  </programme>
-  <programme start="20220107130000 -0600" stop="20220107150000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Betis vs. Celta de Vigo Repetición</title>
-  </programme>
-  <programme start="20220107150000 -0600" stop="20220107160000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Programa Jornadas LaLiga</title>
-  </programme>
-  <programme start="20220107160000 -0600" stop="20220107180000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Mallorca vs. Barcelona Repetición</title>
-  </programme>
-  <programme start="20220107180000 -0600" stop="20220107190000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
-  </programme>
-  <programme start="20220107190000 -0600" stop="20220107203000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Viva La Liga Friday</title>
-  </programme>
-  <programme start="20220107203000 -0600" stop="20220107223000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Cádiz vs. Sevilla Repetición</title>
-  </programme>
-  <programme start="20220107223000 -0600" stop="20220108003000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Alavés vs. Real Sociedad Repetición</title>
-  </programme>
-  <programme start="20220108003000 -0600" stop="20220108020000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Viva La Liga Friday</title>
-  </programme>
-  <programme start="20220108020000 -0600" stop="20220108023000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga World</title>
-  </programme>
-  <programme start="20220108023000 -0600" stop="20220108030000 -0600" channel="SKY SPORTS 16">
+  <programme start="20220113003000 -0600" stop="20220113010000 -0600" channel="SKY SPORTS 16">
     <title lang="es">La Liga Chronicles</title>
   </programme>
-  <programme start="20220108030000 -0600" stop="20220108050000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
+  <programme start="20220113010000 -0600" stop="20220113030000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Lugo vs. Mirandés Repetición</title>
   </programme>
-  <programme start="20220108050000 -0600" stop="20220108070000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Osasuna vs. Athletic de Bilbao</title>
+  <programme start="20220113030000 -0600" stop="20220113050000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Sky Sports 16</title>
   </programme>
-  <programme start="20220108070000 -0600" stop="20220108073000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga World</title>
-  </programme>
-  <programme start="20220108073000 -0600" stop="20220108093000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Cádiz vs. Sevilla Repetición</title>
-  </programme>
-  <programme start="20220108093000 -0600" stop="20220108100000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga show</title>
-  </programme>
-  <programme start="20220108100000 -0600" stop="20220108103000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220108103000 -0600" stop="20220108123000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Granada vs. Barcelona En Vivo</title>
-  </programme>
-  <programme start="20220108123000 -0600" stop="20220108130000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220108130000 -0600" stop="20220108150000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Real Madrid Vs. Valencia</title>
-    <desc lang="es">El Real Madrid CF recibe al Valencia CF en el estadio Santiago Bernabéu desde la ciudad de Madrid, España.(n)</desc>
-  </programme>
-  <programme start="20220108150000 -0600" stop="20220108170000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
-  </programme>
-  <programme start="20220108170000 -0600" stop="20220108173000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220108173000 -0600" stop="20220108193000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Granada vs. Barcelona Repetición</title>
-  </programme>
-  <programme start="20220108193000 -0600" stop="20220108200000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220108200000 -0600" stop="20220108220000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Real Madrid Vs. Valencia</title>
-    <desc lang="es">El Real Madrid CF recibe al Valencia CF en el estadio Santiago Bernabéu desde la ciudad de Madrid, España.(n)</desc>
-  </programme>
-  <programme start="20220108220000 -0600" stop="20220109000000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
-  </programme>
-  <programme start="20220109000000 -0600" stop="20220109003000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga World</title>
-  </programme>
-  <programme start="20220109003000 -0600" stop="20220109023000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Levante vs. Mallorca Repetición</title>
-  </programme>
-  <programme start="20220109023000 -0600" stop="20220109030000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga show</title>
-  </programme>
-  <programme start="20220109030000 -0600" stop="20220109044500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20220109044500 -0600" stop="20220109051500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga World</title>
-  </programme>
-  <programme start="20220109051500 -0600" stop="20220109054500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La liga show</title>
-  </programme>
-  <programme start="20220109054500 -0600" stop="20220109060000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220109060000 -0600" stop="20220109080000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Rayo Vallecano vs. Betis En Vivo</title>
-  </programme>
-  <programme start="20220109080000 -0600" stop="20220109081500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220109081500 -0600" stop="20220109101500 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Sevilla vs. Getafe En Vivo</title>
-  </programme>
-  <programme start="20220109101500 -0600" stop="20220109103000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220109103000 -0600" stop="20220109123000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Alavés vs. Athletic de Bilbao</title>
-  </programme>
-  <programme start="20220109123000 -0600" stop="20220109143000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Rayo Vallecano vs. Betis Repetición</title>
-  </programme>
-  <programme start="20220109143000 -0600" stop="20220109150000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220109150000 -0600" stop="20220109170000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Real Madrid Vs. Valencia</title>
-    <desc lang="es">El Real Madrid CF recibe al Valencia CF en el estadio Santiago Bernabéu desde la ciudad de Madrid, España.(n)</desc>
-  </programme>
-  <programme start="20220109170000 -0600" stop="20220109190000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Sevilla vs. Getafe Repetición</title>
-  </programme>
-  <programme start="20220109190000 -0600" stop="20220109200000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
-  </programme>
-  <programme start="20220109200000 -0600" stop="20220109220000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Granada vs. Barcelona Repetición</title>
-  </programme>
-  <programme start="20220109220000 -0600" stop="20220110000000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Alavés vs. Athletic de Bilbao</title>
-  </programme>
-  <programme start="20220110000000 -0600" stop="20220110020000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Osasuna vs. Cádiz Repetición</title>
-  </programme>
-  <programme start="20220110020000 -0600" stop="20220110030000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
-  </programme>
-  <programme start="20220110050000 -0600" stop="20220110070000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Levante vs. Mallorca Repetición</title>
-  </programme>
-  <programme start="20220110070000 -0600" stop="20220110080000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
-  </programme>
-  <programme start="20220110080000 -0600" stop="20220110100000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Osasuna vs. Cádiz Repetición</title>
-  </programme>
-  <programme start="20220110100000 -0600" stop="20220110120000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Alavés vs. Athletic de Bilbao</title>
-  </programme>
-  <programme start="20220110120000 -0600" stop="20220110130000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
-  </programme>
-  <programme start="20220110130000 -0600" stop="20220110150000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Sevilla vs. Getafe Repetición</title>
-  </programme>
-  <programme start="20220110160000 -0600" stop="20220110180000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Alavés vs. Athletic de Bilbao</title>
-  </programme>
-  <programme start="20220110180000 -0600" stop="20220110200000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Real Madrid Vs. Valencia</title>
-    <desc lang="es">El Real Madrid CF recibe al Valencia CF en el estadio Santiago Bernabéu desde la ciudad de Madrid, España.(n)</desc>
-  </programme>
-  <programme start="20220110200000 -0600" stop="20220110220000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">Rayo Vallecano vs. Betis Repetición</title>
-  </programme>
-  <programme start="20220110220000 -0600" stop="20220110230000 -0600" channel="SKY SPORTS 16">
+  <programme start="20220113050000 -0600" stop="20220113060000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Programa Jornadas LaLiga</title>
   </programme>
-  <programme start="20220110230000 -0600" stop="20220111030000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
+  <programme start="20220113060000 -0600" stop="20220113080000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Leganés vs. Real Sociedad b Repetición</title>
   </programme>
-  <programme start="20220111030000 -0600" stop="20220111070000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
+  <programme start="20220113080000 -0600" stop="20220113083000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga Chronicles</title>
   </programme>
-  <programme start="20220111070000 -0600" stop="20220111110000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
+  <programme start="20220113083000 -0600" stop="20220113093000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
   </programme>
-  <programme start="20220111110000 -0600" stop="20220111150000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
+  <programme start="20220113093000 -0600" stop="20220113113000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
   </programme>
-  <programme start="20220111150000 -0600" stop="20220111190000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20220111190000 -0600" stop="20220111230000 -0600" channel="SKY SPORTS 16">
-    <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20220107010000 -0600" stop="20220107020000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
-  </programme>
-  <programme start="20220107020000 -0600" stop="20220107030000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20220107030000 -0600" stop="20220107040000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier league today</title>
-  </programme>
-  <programme start="20220107040000 -0600" stop="20220107043000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
-  </programme>
-  <programme start="20220107043000 -0600" stop="20220107053000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-fanzone</title>
-  </programme>
-  <programme start="20220107053000 -0600" stop="20220107060000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Pl100</title>
-  </programme>
-  <programme start="20220107060000 -0600" stop="20220107063000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the catch up show</title>
-  </programme>
-  <programme start="20220107063000 -0600" stop="20220107070000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier league today</title>
-  </programme>
-  <programme start="20220107070000 -0600" stop="20220107083000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier League Daily</title>
-  </programme>
-  <programme start="20220107083000 -0600" stop="20220107090000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
-  </programme>
-  <programme start="20220107090000 -0600" stop="20220107100000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
-  </programme>
-  <programme start="20220107100000 -0600" stop="20220107120000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Watford vs. Tottenham Hotspur Repetición</title>
-  </programme>
-  <programme start="20220107120000 -0600" stop="20220107123000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv- world</title>
-  </programme>
-  <programme start="20220107123000 -0600" stop="20220107130000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Soccerbox</title>
-  </programme>
-  <programme start="20220107130000 -0600" stop="20220107150000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Manchester United vs. Wolverham</title>
-  </programme>
-  <programme start="20220107150000 -0600" stop="20220107170000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Everton vs. Brighton Repetición</title>
-  </programme>
-  <programme start="20220107170000 -0600" stop="20220107190000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Arsenal vs. Manchester City Repetición</title>
-  </programme>
-  <programme start="20220107190000 -0600" stop="20220107210000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Chelsea vs. Tottenham Hotspur Repetición</title>
-  </programme>
-  <programme start="20220107210000 -0600" stop="20220107230000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Crystal Palace vs. West Ham United United</title>
-  </programme>
-  <programme start="20220107230000 -0600" stop="20220108000000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
-  </programme>
-  <programme start="20220108000000 -0600" stop="20220108020000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Reading vs. Derby County Repetición</title>
-  </programme>
-  <programme start="20220108020000 -0600" stop="20220108040000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">SKY Sports</title>
-  </programme>
-  <programme start="20220108040000 -0600" stop="20220108043000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Pl100</title>
-  </programme>
-  <programme start="20220108043000 -0600" stop="20220108053000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-greatest goals</title>
-  </programme>
-  <programme start="20220108053000 -0600" stop="20220108060000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv - 20-in-20</title>
-  </programme>
-  <programme start="20220108060000 -0600" stop="20220108070000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-1-to-11</title>
-  </programme>
-  <programme start="20220108070000 -0600" stop="20220108090000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Everton vs. Brighton Repetición</title>
-  </programme>
-  <programme start="20220108090000 -0600" stop="20220108103000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier League Daily</title>
-  </programme>
-  <programme start="20220108103000 -0600" stop="20220108110000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv- world</title>
-  </programme>
-  <programme start="20220108110000 -0600" stop="20220108120000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
-  </programme>
-  <programme start="20220108120000 -0600" stop="20220108123000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Soccerbox</title>
-  </programme>
-  <programme start="20220108123000 -0600" stop="20220108130000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
-  </programme>
-  <programme start="20220108130000 -0600" stop="20220108151500 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Liverpool vs. Leicester city Repetición</title>
-  </programme>
-  <programme start="20220108151500 -0600" stop="20220108153000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220113113000 -0600" stop="20220113120000 -0600" channel="SKY SPORTS 16">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220108153000 -0600" stop="20220108173000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Tottenham Hotspur vs. West Ham United</title>
+  <programme start="20220113120000 -0600" stop="20220113140000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Atlético de Madrid vs. Athletic de Bilb</title>
   </programme>
-  <programme start="20220108173000 -0600" stop="20220108193000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Brentford vs. Chelsea Repetición</title>
+  <programme start="20220113140000 -0600" stop="20220113143000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga Chronicles</title>
   </programme>
-  <programme start="20220108193000 -0600" stop="20220108213000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Arsenal vs. Sunderland Repetición</title>
+  <programme start="20220113143000 -0600" stop="20220113163000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Sevilla vs. Getafe Repetición</title>
   </programme>
-  <programme start="20220108213000 -0600" stop="20220108230000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Leeds United vs. Burnley Repetición</title>
+  <programme start="20220113163000 -0600" stop="20220113170000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20220108230000 -0600" stop="20220108233000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Leeds United vs. Burnley Repetición</title>
+  <programme start="20220113170000 -0600" stop="20220113190000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Atlético de Madrid vs. Athletic de Bilb</title>
   </programme>
-  <programme start="20220108233000 -0600" stop="20220109013000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Crystal Palace vs. West Ham United United</title>
+  <programme start="20220113190000 -0600" stop="20220113200000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Programa Jornadas LaLiga</title>
   </programme>
-  <programme start="20220109233000 -0600" stop="20220110013000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Crystal Palace vs. West Ham United United</title>
+  <programme start="20220113200000 -0600" stop="20220113220000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Madrid Vs. Valencia</title>
+    <desc lang="es">El Real Madrid CF recibe al Valencia CF en el estadio Santiago Bernabéu desde la ciudad de Madrid, España.(n)</desc>
   </programme>
-  <programme start="20220110013000 -0600" stop="20220110030000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220113220000 -0600" stop="20220113223000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20220113223000 -0600" stop="20220113230000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20220113230000 -0600" stop="20220114003000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20220114230000 -0600" stop="20220115003000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20220115003000 -0600" stop="20220115023000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Rayo Vallecano vs. Betis Repetición</title>
+  </programme>
+  <programme start="20220115023000 -0600" stop="20220115030000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20220115050000 -0600" stop="20220115053000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga Chronicles</title>
+  </programme>
+  <programme start="20220115053000 -0600" stop="20220115073000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Las Palmas vs. Almería Repetición</title>
+  </programme>
+  <programme start="20220115073000 -0600" stop="20220115083000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20220115083000 -0600" stop="20220115103000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Alavés vs. Athletic de Bilbao</title>
+  </programme>
+  <programme start="20220115103000 -0600" stop="20220115123000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Sevilla vs. Getafe Repetición</title>
+  </programme>
+  <programme start="20220115123000 -0600" stop="20220115130000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220115130000 -0600" stop="20220115150000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Madrid Vs. Valencia</title>
+    <desc lang="es">El Real Madrid CF recibe al Valencia CF en el estadio Santiago Bernabéu desde la ciudad de Madrid, España.(n)</desc>
+  </programme>
+  <programme start="20220115150000 -0600" stop="20220115170000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Espanyol vs. Elche Repetición</title>
+  </programme>
+  <programme start="20220115170000 -0600" stop="20220115173000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220115173000 -0600" stop="20220115193000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Real Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Real Madrid CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
+  </programme>
+  <programme start="20220115193000 -0600" stop="20220115200000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20220115200000 -0600" stop="20220115220000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20220115220000 -0600" stop="20220115230000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Osasuna vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20220115230000 -0600" stop="20220116000000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Osasuna vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20220116000000 -0600" stop="20220116020000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Málaga vs. Sporting Repetición</title>
+  </programme>
+  <programme start="20220116020000 -0600" stop="20220116030000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20220116030000 -0600" stop="20220116050000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20220116050000 -0600" stop="20220116053000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20220116053000 -0600" stop="20220116073000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Lugo vs. Mirandés Repetición</title>
+  </programme>
+  <programme start="20220116073000 -0600" stop="20220116093000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Espanyol vs. Elche Repetición</title>
+  </programme>
+  <programme start="20220116093000 -0600" stop="20220116103000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Programa Jornadas LaLiga</title>
+  </programme>
+  <programme start="20220116103000 -0600" stop="20220116123000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20220116123000 -0600" stop="20220116150000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Barcelona vs. Real Madrid</title>
+    <desc lang="es">El FC Barcelona recibe al Real Madrid CF en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
+  </programme>
+  <programme start="20220116150000 -0600" stop="20220116153000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga Chronicles</title>
+  </programme>
+  <programme start="20220116153000 -0600" stop="20220116173000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Alavés vs. Athletic de Bilbao</title>
+  </programme>
+  <programme start="20220116173000 -0600" stop="20220116193000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Atlético de Madrid vs. Athletic de Bilb</title>
+  </programme>
+  <programme start="20220116193000 -0600" stop="20220116203000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20220116203000 -0600" stop="20220116223000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Espanyol vs. Elche Repetición</title>
+  </programme>
+  <programme start="20220117010000 -0600" stop="20220117030000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Las Palmas vs. Almería Repetición</title>
+  </programme>
+  <programme start="20220117030000 -0600" stop="20220117051500 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Sky Sports 16</title>
+  </programme>
+  <programme start="20220117051500 -0600" stop="20220117053000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117053000 -0600" stop="20220117073000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Osasuna vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20220117073000 -0600" stop="20220117083000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Programa Jornadas LaLiga</title>
+  </programme>
+  <programme start="20220117083000 -0600" stop="20220117103000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Sevilla vs. Getafe Repetición</title>
+  </programme>
+  <programme start="20220117103000 -0600" stop="20220117110000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20220117110000 -0600" stop="20220117113000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117113000 -0600" stop="20220117133000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Supercopa de España 2022</title>
+  </programme>
+  <programme start="20220117133000 -0600" stop="20220117140000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Post Game</title>
+  </programme>
+  <programme start="20220117140000 -0600" stop="20220117143000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga Chronicles</title>
+  </programme>
+  <programme start="20220117143000 -0600" stop="20220117150000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20220117150000 -0600" stop="20220117170000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Sevilla vs. Getafe Repetición</title>
+  </programme>
+  <programme start="20220117170000 -0600" stop="20220117173000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20220117173000 -0600" stop="20220117180000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117180000 -0600" stop="20220117200000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Supercopa de España 2022</title>
+  </programme>
+  <programme start="20220117200000 -0600" stop="20220117203000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Post Game</title>
+  </programme>
+  <programme start="20220117203000 -0600" stop="20220117210000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga Chronicles</title>
+  </programme>
+  <programme start="20220117210000 -0600" stop="20220117213000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20220117213000 -0600" stop="20220117230000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Osasuna vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20220117230000 -0600" stop="20220117233000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Osasuna vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20220117233000 -0600" stop="20220118003000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20220118233000 -0600" stop="20220119003000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20220119003000 -0600" stop="20220119023000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Lugo vs. Mirandés Repetición</title>
+  </programme>
+  <programme start="20220119050000 -0600" stop="20220119070000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Espanyol vs. Elche Repetición</title>
+  </programme>
+  <programme start="20220119070000 -0600" stop="20220119090000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20220119090000 -0600" stop="20220119100000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Programa Jornadas LaLiga</title>
+  </programme>
+  <programme start="20220119100000 -0600" stop="20220119120000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Osasuna vs. Cádiz Repetición</title>
+  </programme>
+  <programme start="20220119120000 -0600" stop="20220119130000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20220119130000 -0600" stop="20220119150000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Rayo Vallecano vs. Betis Repetición</title>
+  </programme>
+  <programme start="20220119150000 -0600" stop="20220119170000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Alavés vs. Athletic de Bilbao</title>
+  </programme>
+  <programme start="20220119170000 -0600" stop="20220119173000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220119173000 -0600" stop="20220119193000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Madrid Vs. Valencia</title>
+    <desc lang="es">El Real Madrid CF recibe al Valencia CF en el estadio Santiago Bernabéu desde la ciudad de Madrid, España.(n)</desc>
+  </programme>
+  <programme start="20220119193000 -0600" stop="20220119203000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Programa Jornadas LaLiga</title>
+  </programme>
+  <programme start="20220119203000 -0600" stop="20220119223000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Real Sociedad vs. Celta de Vigo</title>
+  </programme>
+  <programme start="20220119223000 -0600" stop="20220119230000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">Espanyol vs. Elche Repetición</title>
+  </programme>
+  <programme start="20220119230000 -0600" stop="20220120030000 -0600" channel="SKY SPORTS 16">
     <title lang="es">SKY Sports</title>
   </programme>
-  <programme start="20220110030000 -0600" stop="20220110033000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
+  <programme start="20220120030000 -0600" stop="20220120070000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">SKY Sports</title>
   </programme>
-  <programme start="20220110033000 -0600" stop="20220110040000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv - 20-in-20</title>
+  <programme start="20220120070000 -0600" stop="20220120110000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">SKY Sports</title>
   </programme>
-  <programme start="20220110040000 -0600" stop="20220110050000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-1-to-11</title>
+  <programme start="20220120110000 -0600" stop="20220120150000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">SKY Sports</title>
   </programme>
-  <programme start="20220110050000 -0600" stop="20220110053000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the big interview</title>
+  <programme start="20220120150000 -0600" stop="20220120190000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">SKY Sports</title>
   </programme>
-  <programme start="20220110053000 -0600" stop="20220110060000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Soccerbox</title>
+  <programme start="20220120190000 -0600" stop="20220120230000 -0600" channel="SKY SPORTS 16">
+    <title lang="es">SKY Sports</title>
   </programme>
-  <programme start="20220110060000 -0600" stop="20220110080000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Classic</title>
+  <programme start="20220113011500 -0600" stop="20220113014500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pl100</title>
   </programme>
-  <programme start="20220110080000 -0600" stop="20220110093000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the analysis show</title>
+  <programme start="20220113014500 -0600" stop="20220113030000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220110093000 -0600" stop="20220110113000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Reading vs. Derby County Repetición</title>
+  <programme start="20220113030000 -0600" stop="20220113040000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Premier league today</title>
   </programme>
-  <programme start="20220110113000 -0600" stop="20220110120000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Soccerbox</title>
+  <programme start="20220113040000 -0600" stop="20220113043000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20220110120000 -0600" stop="20220110123000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the catch up show</title>
+  <programme start="20220113043000 -0600" stop="20220113050000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pl100 Peter Schmeichel</title>
   </programme>
-  <programme start="20220110123000 -0600" stop="20220110133000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220113050000 -0600" stop="20220113063000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-The Kelly &amp; Wrighty show</title>
+  </programme>
+  <programme start="20220113063000 -0600" stop="20220113070000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Premier league today</title>
+  </programme>
+  <programme start="20220113070000 -0600" stop="20220113080000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Pltv-Fantasy Premier League</title>
   </programme>
-  <programme start="20220110133000 -0600" stop="20220110153000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Chelsea vs. Liverpool Repetición</title>
-  </programme>
-  <programme start="20220110153000 -0600" stop="20220110173000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Watford vs. Tottenham Hotspur Repetición</title>
-  </programme>
-  <programme start="20220110173000 -0600" stop="20220110193000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Chelsea vs. Tottenham Hotspur Repetición</title>
-  </programme>
-  <programme start="20220110193000 -0600" stop="20220110213000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Arsenal vs. Manchester City Repetición</title>
-  </programme>
-  <programme start="20220110213000 -0600" stop="20220110230000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Everton vs. Brighton Repetición</title>
-  </programme>
-  <programme start="20220110230000 -0600" stop="20220110233000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Everton vs. Brighton Repetición</title>
-  </programme>
-  <programme start="20220110233000 -0600" stop="20220111013000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Leeds United vs. Burnley Repetición</title>
-  </programme>
-  <programme start="20220111233000 -0600" stop="20220112013000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Leeds United vs. Burnley Repetición</title>
-  </programme>
-  <programme start="20220112013000 -0600" stop="20220112020000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Pl100</title>
-  </programme>
-  <programme start="20220112040000 -0600" stop="20220112043000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv- world</title>
-  </programme>
-  <programme start="20220112043000 -0600" stop="20220112063000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier League Daily</title>
-  </programme>
-  <programme start="20220112070000 -0600" stop="20220112080000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220113080000 -0600" stop="20220113090000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Pltv-fanzone</title>
   </programme>
-  <programme start="20220112080000 -0600" stop="20220112083000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Pltv- world</title>
+  <programme start="20220113090000 -0600" stop="20220113093000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20220112083000 -0600" stop="20220112093000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-the goalscorers</title>
-  </programme>
-  <programme start="20220112093000 -0600" stop="20220112100000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220113093000 -0600" stop="20220113100000 -0600" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Soccerbox</title>
   </programme>
-  <programme start="20220112100000 -0600" stop="20220112110000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220113100000 -0600" stop="20220113110000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Pltv-the headline makers</title>
   </programme>
-  <programme start="20220112110000 -0600" stop="20220112130000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier League Daily</title>
+  <programme start="20220113110000 -0600" stop="20220113113000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Match pack</title>
   </programme>
-  <programme start="20220112130000 -0600" stop="20220112150000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Arsenal vs. Manchester City Repetición</title>
+  <programme start="20220113113000 -0600" stop="20220113120000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pl100</title>
   </programme>
-  <programme start="20220112150000 -0600" stop="20220112170000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Chelsea vs. Tottenham Hotspur Repetición</title>
+  <programme start="20220113120000 -0600" stop="20220113121500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220112170000 -0600" stop="20220112190000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Chelsea vs. Liverpool Repetición</title>
+  <programme start="20220113121500 -0600" stop="20220113124500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20220112190000 -0600" stop="20220112200000 -0600" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
+  <programme start="20220113124500 -0600" stop="20220113144500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Liverpool vs. Arsenal En Vivo</title>
   </programme>
-  <programme start="20220112200000 -0600" stop="20220112220000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220113144500 -0600" stop="20220113151500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pl100 Peter Schmeichel</title>
+  </programme>
+  <programme start="20220113151500 -0600" stop="20220113154500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220113154500 -0600" stop="20220113174500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Watford vs. Tottenham Hotspur Repetición</title>
+  </programme>
+  <programme start="20220113174500 -0600" stop="20220113181500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220113181500 -0600" stop="20220113201500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Liverpool vs. Arsenal Repetición</title>
+  </programme>
+  <programme start="20220113201500 -0600" stop="20220113204500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pl100 Peter Schmeichel</title>
+  </programme>
+  <programme start="20220113204500 -0600" stop="20220113211500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220113211500 -0600" stop="20220113230000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Manchester United vs. Wolverham</title>
   </programme>
-  <programme start="20220112220000 -0600" stop="20220112230000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220113230000 -0600" stop="20220113231500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Manchester United vs. Wolverham</title>
+  </programme>
+  <programme start="20220113231500 -0600" stop="20220114011500 -0600" channel="SKY SPORTS 24">
     <title lang="es">Reading vs. Derby County Repetición</title>
   </programme>
-  <programme start="20220112230000 -0600" stop="20220113030000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220114231500 -0600" stop="20220115011500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Reading vs. Derby County Repetición</title>
+  </programme>
+  <programme start="20220115011500 -0600" stop="20220115014500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220115040000 -0600" stop="20220115043000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV--the big interview</title>
+  </programme>
+  <programme start="20220115043000 -0600" stop="20220115053000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-fanzone</title>
+  </programme>
+  <programme start="20220115053000 -0600" stop="20220115060000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220115060000 -0600" stop="20220115063000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Soccerbox</title>
+  </programme>
+  <programme start="20220115063000 -0600" stop="20220115070000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Premier league today</title>
+  </programme>
+  <programme start="20220115070000 -0600" stop="20220115083000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-weekend warm-up</title>
+  </programme>
+  <programme start="20220115083000 -0600" stop="20220115090000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220115090000 -0600" stop="20220115093000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Preview</title>
+  </programme>
+  <programme start="20220115093000 -0600" stop="20220115100000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Match pack</title>
+  </programme>
+  <programme start="20220115100000 -0600" stop="20220115113000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-the weekend preview</title>
+  </programme>
+  <programme start="20220115113000 -0600" stop="20220115120000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV--the big interview</title>
+  </programme>
+  <programme start="20220115120000 -0600" stop="20220115123000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Preview</title>
+  </programme>
+  <programme start="20220115123000 -0600" stop="20220115130000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220115130000 -0600" stop="20220115150000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Tottenham Hotspur vs. Chelsea Repetición</title>
+  </programme>
+  <programme start="20220115150000 -0600" stop="20220115153000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220115153000 -0600" stop="20220115160000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Soccerbox</title>
+  </programme>
+  <programme start="20220115160000 -0600" stop="20220115180000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Reading vs. Derby County Repetición</title>
+  </programme>
+  <programme start="20220115180000 -0600" stop="20220115200000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Arsenal vs. Manchester City Repetición</title>
+  </programme>
+  <programme start="20220115200000 -0600" stop="20220115201500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220115201500 -0600" stop="20220115221500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Brighton vs. Crystal Palace Repetición</title>
+  </programme>
+  <programme start="20220115221500 -0600" stop="20220115230000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Blackpool vs. Hull City Repetición</title>
+  </programme>
+  <programme start="20220115230000 -0600" stop="20220116001500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Blackpool vs. Hull City Repetición</title>
+  </programme>
+  <programme start="20220116230000 -0600" stop="20220117001500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Blackpool vs. Hull City Repetición</title>
+  </programme>
+  <programme start="20220117001500 -0600" stop="20220117021500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Reading vs. Derby County Repetición</title>
+  </programme>
+  <programme start="20220117021500 -0600" stop="20220117030000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220113230000 -0600" stop="20220114030000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220117030000 -0600" stop="20220117050000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Brighton vs. Crystal Palace Repetición</title>
+  </programme>
+  <programme start="20220117050000 -0600" stop="20220117053000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117053000 -0600" stop="20220117073000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Manchester City vs. Chelsea En Vivo</title>
+  </programme>
+  <programme start="20220117073000 -0600" stop="20220117080000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117080000 -0600" stop="20220117100000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Wolverhampton W vs. Southampton</title>
+  </programme>
+  <programme start="20220117100000 -0600" stop="20220117101500 -0600" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220114030000 -0600" stop="20220114070000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220117101500 -0600" stop="20220117103000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117103000 -0600" stop="20220117123000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Aston Villa vs. Manchester United En Vivo</title>
+  </programme>
+  <programme start="20220117123000 -0600" stop="20220117130000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117130000 -0600" stop="20220117150000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Manchester City vs. Chelsea Repetición</title>
+  </programme>
+  <programme start="20220117150000 -0600" stop="20220117170000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Burnley vs. Leicester City Repetición</title>
+  </programme>
+  <programme start="20220117170000 -0600" stop="20220117171500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117171500 -0600" stop="20220117191500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Aston Villa vs. Manchester Unitednit</title>
+  </programme>
+  <programme start="20220117191500 -0600" stop="20220117194500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220117194500 -0600" stop="20220117214500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Wolverhampton W vs. Southampton</title>
+  </programme>
+  <programme start="20220117214500 -0600" stop="20220117230000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Norwich City vs. Everton Repetición</title>
+  </programme>
+  <programme start="20220117230000 -0600" stop="20220117234500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Norwich City vs. Everton Repetición</title>
+  </programme>
+  <programme start="20220117234500 -0600" stop="20220118014500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Newcastle United vs. Watford Repetición</title>
+  </programme>
+  <programme start="20220118014500 -0600" stop="20220118024500 -0600" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220114070000 -0600" stop="20220114110000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220118024500 -0600" stop="20220118044500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Norwich City vs. Everton Repetición</title>
+  </programme>
+  <programme start="20220118044500 -0600" stop="20220118064500 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Burnley vs. Leicester City Repetición</title>
+  </programme>
+  <programme start="20220118064500 -0600" stop="20220118070000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220118070000 -0600" stop="20220118090000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Liverpool vs. Brentford En Vivo</title>
+  </programme>
+  <programme start="20220118090000 -0600" stop="20220118091500 -0600" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220114110000 -0600" stop="20220114150000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220118091500 -0600" stop="20220118093000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220118093000 -0600" stop="20220118113000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Tottenham Hotspur Vs. Arsenal</title>
+    <desc lang="es">El Tottenham Hotspur F.C. recibe al Arsenal F.C. en el estadio White Hart Lane en la ciudad de Londres, Inglaterra.(n)</desc>
+  </programme>
+  <programme start="20220118113000 -0600" stop="20220118133000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Wolverhampton W vs. Southampton</title>
+  </programme>
+  <programme start="20220118133000 -0600" stop="20220118153000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Liverpool vs. Brentford Repetición</title>
+  </programme>
+  <programme start="20220118153000 -0600" stop="20220118173000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Brighton vs. Crystal Palace Repetición</title>
+  </programme>
+  <programme start="20220118173000 -0600" stop="20220118193000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Tottenham Hotspur Vs. Arsenal</title>
+    <desc lang="es">El Tottenham Hotspur F.C. recibe al Arsenal F.C. en el estadio White Hart Lane en la ciudad de Londres, Inglaterra.(n)</desc>
+  </programme>
+  <programme start="20220118193000 -0600" stop="20220118213000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Manchester City vs. Chelsea Repetición</title>
+  </programme>
+  <programme start="20220118213000 -0600" stop="20220118230000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">West Ham United vs. Leeds Unite</title>
+  </programme>
+  <programme start="20220118230000 -0600" stop="20220118233000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">West Ham United vs. Leeds Unite</title>
+  </programme>
+  <programme start="20220118233000 -0600" stop="20220119013000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Brighton vs. Crystal Palace Repetición</title>
+  </programme>
+  <programme start="20220119013000 -0600" stop="20220119030000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220114150000 -0600" stop="20220114190000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220119030000 -0600" stop="20220119040000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Premier league today</title>
+  </programme>
+  <programme start="20220119040000 -0600" stop="20220119043000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220119043000 -0600" stop="20220119063000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-the weekend review</title>
+  </programme>
+  <programme start="20220119070000 -0600" stop="20220119080000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-fanzone</title>
+  </programme>
+  <programme start="20220119080000 -0600" stop="20220119090000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-the goalscorers</title>
+  </programme>
+  <programme start="20220119090000 -0600" stop="20220119093000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Match of the week</title>
+  </programme>
+  <programme start="20220119093000 -0600" stop="20220119100000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220119110000 -0600" stop="20220119130000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-the weekend review</title>
+  </programme>
+  <programme start="20220119130000 -0600" stop="20220119150000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Aston Villa vs. Manchester Unitednit</title>
+  </programme>
+  <programme start="20220119150000 -0600" stop="20220119153000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Pl100 Peter Schmeichel</title>
+  </programme>
+  <programme start="20220119153000 -0600" stop="20220119173000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Norwich City vs. Everton Repetición</title>
+  </programme>
+  <programme start="20220119173000 -0600" stop="20220119180000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220119180000 -0600" stop="20220119200000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Liverpool vs. Brentford Repetición</title>
+  </programme>
+  <programme start="20220119200000 -0600" stop="20220119210000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Premier League Show</title>
+  </programme>
+  <programme start="20220119210000 -0600" stop="20220119230000 -0600" channel="SKY SPORTS 24">
+    <title lang="es">Burnley vs. Leicester City Repetición</title>
+  </programme>
+  <programme start="20220119230000 -0600" stop="20220120030000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220114190000 -0600" stop="20220114230000 -0600" channel="SKY SPORTS 24">
+  <programme start="20220120230000 -0600" stop="20220121030000 -0600" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
 </tv>
