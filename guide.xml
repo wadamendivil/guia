@@ -61,6 +61,18 @@
     <display-name lang="en">CANAL 2</display-name>
     <url>http://www.tvguide.com</url>
   </channel>
+  <channel id="AZTECA HONDURAS">
+    <display-name lang="en">AZTECA HONDURAS</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="TELEVICENTRO">
+    <display-name lang="en">TELEVICENTRO</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
+  <channel id="OROMAR">
+    <display-name lang="en">OROMAR</display-name>
+    <url>http://www.tvguide.com</url>
+  </channel>
   <programme start="20220329231500 -0300" stop="20220330000000 -0300" channel="UNIVERSAL PREMIERE">
     <title lang="es">Chicago Fire</title>
     <sub-title lang="es">Todas las partes duras</sub-title>
@@ -13331,5 +13343,1997 @@
   <programme start="20220406233000 +0000" stop="20220407010000 +0000" channel="CANAL 2">
     <title lang="en">Llévatelo</title>
     <desc lang="en">Una variedad diaria de concursos a cuyos ganadores se les regalan dinero, aparatos electrodomésticos y automóviles.(n)</desc>
+  </programme>
+  <programme start="20220329003000 +0000" stop="20220329013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220329013000 +0000" stop="20220329020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220329020000 +0000" stop="20220329030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos Estelar</title>
+    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220329030000 +0000" stop="20220329040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220329040000 +0000" stop="20220329050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220329050000 +0000" stop="20220329060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  </programme>
+  <programme start="20220329060000 +0000" stop="20220329070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220329070000 +0000" stop="20220329080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220329080000 +0000" stop="20220329090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220329090000 +0000" stop="20220329110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Qué buena tarde!</title>
+    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  </programme>
+  <programme start="20220329110000 +0000" stop="20220329120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220329120000 +0000" stop="20220329123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al despertar</title>
+    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  </programme>
+  <programme start="20220329123000 +0000" stop="20220329140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  </programme>
+  <programme start="20220329140000 +0000" stop="20220329150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al momento</title>
+    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  </programme>
+  <programme start="20220329150000 +0000" stop="20220329180000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  </programme>
+  <programme start="20220329180000 +0000" stop="20220329190000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos meridiano Honduras</title>
+    <desc lang="en">Las noticias más importante del momento.(n)</desc>
+  </programme>
+  <programme start="20220329190000 +0000" stop="20220329210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Que buena la tarde!</title>
+  </programme>
+  <programme start="20220329210000 +0000" stop="20220329220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220329220000 +0000" stop="20220329230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  </programme>
+  <programme start="20220329230000 +0000" stop="20220330003000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ventaneando</title>
+    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  </programme>
+  <programme start="20220330003000 +0000" stop="20220330013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220330013000 +0000" stop="20220330020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220330020000 +0000" stop="20220330030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos Estelar</title>
+    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220330030000 +0000" stop="20220330040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220330040000 +0000" stop="20220330050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220330050000 +0000" stop="20220330060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  </programme>
+  <programme start="20220330060000 +0000" stop="20220330070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220330070000 +0000" stop="20220330080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220330080000 +0000" stop="20220330090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220330090000 +0000" stop="20220330110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Qué buena tarde!</title>
+    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  </programme>
+  <programme start="20220330110000 +0000" stop="20220330120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220330120000 +0000" stop="20220330123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al despertar</title>
+    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  </programme>
+  <programme start="20220330123000 +0000" stop="20220330140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  </programme>
+  <programme start="20220330140000 +0000" stop="20220330150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al momento</title>
+    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  </programme>
+  <programme start="20220330150000 +0000" stop="20220330180000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  </programme>
+  <programme start="20220330180000 +0000" stop="20220330190000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos meridiano Honduras</title>
+    <desc lang="en">Las noticias más importante del momento.(n)</desc>
+  </programme>
+  <programme start="20220330190000 +0000" stop="20220330210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Que buena la tarde!</title>
+  </programme>
+  <programme start="20220330210000 +0000" stop="20220330220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220330220000 +0000" stop="20220330230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  </programme>
+  <programme start="20220330230000 +0000" stop="20220331003000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ventaneando</title>
+    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  </programme>
+  <programme start="20220331003000 +0000" stop="20220331013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220331013000 +0000" stop="20220331020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220331020000 +0000" stop="20220331030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos Estelar</title>
+    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220331030000 +0000" stop="20220331040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220331040000 +0000" stop="20220331050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220331050000 +0000" stop="20220331060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  </programme>
+  <programme start="20220331060000 +0000" stop="20220331070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220331070000 +0000" stop="20220331080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220331080000 +0000" stop="20220331090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220331090000 +0000" stop="20220331110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Qué buena tarde!</title>
+    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  </programme>
+  <programme start="20220331110000 +0000" stop="20220331120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220331120000 +0000" stop="20220331123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al despertar</title>
+    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  </programme>
+  <programme start="20220331123000 +0000" stop="20220331140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  </programme>
+  <programme start="20220331140000 +0000" stop="20220331150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al momento</title>
+    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  </programme>
+  <programme start="20220331150000 +0000" stop="20220331180000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  </programme>
+  <programme start="20220331180000 +0000" stop="20220331190000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos meridiano Honduras</title>
+    <desc lang="en">Las noticias más importante del momento.(n)</desc>
+  </programme>
+  <programme start="20220331190000 +0000" stop="20220331210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Que buena la tarde!</title>
+  </programme>
+  <programme start="20220331210000 +0000" stop="20220331220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220331220000 +0000" stop="20220331230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  </programme>
+  <programme start="20220331230000 +0000" stop="20220401003000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ventaneando</title>
+    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  </programme>
+  <programme start="20220401003000 +0000" stop="20220401013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220401013000 +0000" stop="20220401020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220401020000 +0000" stop="20220401030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos Estelar</title>
+    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220401030000 +0000" stop="20220401040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220401040000 +0000" stop="20220401050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220401050000 +0000" stop="20220401060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  </programme>
+  <programme start="20220401060000 +0000" stop="20220401070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220401070000 +0000" stop="20220401080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220401080000 +0000" stop="20220401090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220401090000 +0000" stop="20220401110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Qué buena tarde!</title>
+    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  </programme>
+  <programme start="20220401110000 +0000" stop="20220401120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220401120000 +0000" stop="20220401123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al despertar</title>
+    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  </programme>
+  <programme start="20220401123000 +0000" stop="20220401140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  </programme>
+  <programme start="20220401140000 +0000" stop="20220401150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al momento</title>
+    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  </programme>
+  <programme start="20220401150000 +0000" stop="20220401180000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  </programme>
+  <programme start="20220401180000 +0000" stop="20220401190000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos meridiano Honduras</title>
+    <desc lang="en">Las noticias más importante del momento.(n)</desc>
+  </programme>
+  <programme start="20220401190000 +0000" stop="20220401210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Que buena la tarde!</title>
+  </programme>
+  <programme start="20220401210000 +0000" stop="20220401220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  </programme>
+  <programme start="20220401220000 +0000" stop="20220401230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220401230000 +0000" stop="20220402003000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ventaneando</title>
+    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  </programme>
+  <programme start="20220402003000 +0000" stop="20220402013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220402013000 +0000" stop="20220402020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220402020000 +0000" stop="20220402030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos Estelar</title>
+    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220402030000 +0000" stop="20220402040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220402040000 +0000" stop="20220402050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220402050000 +0000" stop="20220402060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  </programme>
+  <programme start="20220402060000 +0000" stop="20220402070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220402070000 +0000" stop="20220402080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220402080000 +0000" stop="20220402090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220402090000 +0000" stop="20220402110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Qué buena tarde!</title>
+    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  </programme>
+  <programme start="20220402110000 +0000" stop="20220402120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220402120000 +0000" stop="20220402123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Difícil de creer</title>
+    <desc lang="en">Se exploran sucesos paranormales, misterios no resueltos, acontecimientos sobrenaturales y mitos.(n)</desc>
+  </programme>
+  <programme start="20220402123000 +0000" stop="20220402131500 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Reino infantil</title>
+    <desc lang="en">Un divertido recorrido por el Zoológico y las hermosas especies que lo habitan.(n)</desc>
+  </programme>
+  <programme start="20220402131500 +0000" stop="20220402140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Pocoyo</title>
+    <desc lang="en">La historia de un niño en edad preescolar y sus descubrimientos acerca del mundo que lo rodea.(n)</desc>
+  </programme>
+  <programme start="20220402140000 +0000" stop="20220402143000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Sésamo</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  </programme>
+  <programme start="20220402143000 +0000" stop="20220402150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Molang</title>
+    <desc lang="en">Molang y Piu Piu son grandes amigos, que pasan divertidos y alegres momentos juntos. Cada día, viven diferentes aventuras, desde las más espectaculares - como viajar hasta la Luna- hasta las más comunes, como regar las plantas.(n)</desc>
+  </programme>
+  <programme start="20220402150000 +0000" stop="20220402200000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo mejor de "Venga la alegría"</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  </programme>
+  <programme start="20220402200000 +0000" stop="20220402210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220402210000 +0000" stop="20220402220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220402220000 +0000" stop="20220402230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca radio</title>
+  </programme>
+  <programme start="20220402230000 +0000" stop="20220403010000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Cine</title>
+  </programme>
+  <programme start="20220403010000 +0000" stop="20220403020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220403020000 +0000" stop="20220403030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ripley's ¡Aunque Usted No lo Crea!</title>
+    <desc lang="en">Las aventuras de un grupo de investigadores y sus increíbles eventos.(n)</desc>
+  </programme>
+  <programme start="20220403030000 +0000" stop="20220403040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ripley's ¡Aunque Usted No lo Crea!</title>
+    <desc lang="en">Las aventuras de un grupo de investigadores y sus increíbles eventos.(n)</desc>
+  </programme>
+  <programme start="20220403040000 +0000" stop="20220403050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">La resolana nius</title>
+    <desc lang="en">Espacio que resume los acontecimientos más importantes que se desencadenaron en la semana, desde una óptica humorística y pícara, propia del Capi Pérez.(n)</desc>
+  </programme>
+  <programme start="20220403050000 +0000" stop="20220403060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220403060000 +0000" stop="20220403073000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Tercer milenio</title>
+    <desc lang="en">Jaime Maussan presenta los fenómenos extraterrestres en un espacio dedicado a la investigación de nuestra galaxia. Además, expondrá los casos más impactantes, videos inexpicables y testimonios que pretenden revelar los misterios del cosmos.(n)</desc>
+  </programme>
+  <programme start="20220403073000 +0000" stop="20220403080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220403080000 +0000" stop="20220403090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220403090000 +0000" stop="20220403100000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220403100000 +0000" stop="20220403110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca radio</title>
+  </programme>
+  <programme start="20220403110000 +0000" stop="20220403120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220403120000 +0000" stop="20220403123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Difícil de creer</title>
+    <desc lang="en">Se exploran sucesos paranormales, misterios no resueltos, acontecimientos sobrenaturales y mitos.(n)</desc>
+  </programme>
+  <programme start="20220403123000 +0000" stop="20220403131500 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Reino infantil</title>
+    <desc lang="en">Un divertido recorrido por el Zoológico y las hermosas especies que lo habitan.(n)</desc>
+  </programme>
+  <programme start="20220403131500 +0000" stop="20220403140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Pocoyo</title>
+    <desc lang="en">La historia de un niño en edad preescolar y sus descubrimientos acerca del mundo que lo rodea.(n)</desc>
+  </programme>
+  <programme start="20220403140000 +0000" stop="20220403143000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Sésamo</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  </programme>
+  <programme start="20220403143000 +0000" stop="20220403150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Molang</title>
+    <desc lang="en">Molang y Piu Piu son grandes amigos, que pasan divertidos y alegres momentos juntos. Cada día, viven diferentes aventuras, desde las más espectaculares - como viajar hasta la Luna- hasta las más comunes, como regar las plantas.(n)</desc>
+  </programme>
+  <programme start="20220403150000 +0000" stop="20220403200000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo mejor de "Venga la alegría"</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  </programme>
+  <programme start="20220403200000 +0000" stop="20220403210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220403210000 +0000" stop="20220403220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Las entrañas de lo prohibido</title>
+    <desc lang="en">Investigación periodística sobre temas como el narcotráfico y los crímenes seriales.(n)</desc>
+  </programme>
+  <programme start="20220403220000 +0000" stop="20220403230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca radio</title>
+  </programme>
+  <programme start="20220403230000 +0000" stop="20220404010000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Cine en Casa</title>
+    <desc lang="en">El cine se traslada hasta la comodidad de tu casa, a través de este espacio que te presenta las mejores producciones de Hollywood, con tus artistas favoritos y extraordinarias escenas, para que te entretengas.(n)</desc>
+  </programme>
+  <programme start="20220404010000 +0000" stop="20220404013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220404013000 +0000" stop="20220404020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220404020000 +0000" stop="20220404040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Cine Estelar</title>
+    <desc lang="en">Sé parte de grandes aventuras que traen para ti las producciones cinematográficas, las cuales son realizadas por maestros del séptimo arte.(n)</desc>
+  </programme>
+  <programme start="20220404040000 +0000" stop="20220404043000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">La resolana con el capi</title>
+    <desc lang="en">Espacio que resume los acontecimientos más importantes que se desencadenaron en la semana, desde una óptica humorística y pícara, propia del Capi Pérez.(n)</desc>
+  </programme>
+  <programme start="20220404043000 +0000" stop="20220404053000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">La resolana con el capi</title>
+    <desc lang="en">Espacio que resume los acontecimientos más importantes que se desencadenaron en la semana, desde una óptica humorística y pícara, propia del Capi Pérez.(n)</desc>
+  </programme>
+  <programme start="20220404053000 +0000" stop="20220404060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220404060000 +0000" stop="20220404070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero: lo mejor de la semana</title>
+    <desc lang="en">Disfruta de lo mejor del entretenimiento en un solo lugar.(n)</desc>
+  </programme>
+  <programme start="20220404070000 +0000" stop="20220404080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220404080000 +0000" stop="20220404090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220404090000 +0000" stop="20220404100000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220404100000 +0000" stop="20220404110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca radio</title>
+  </programme>
+  <programme start="20220404110000 +0000" stop="20220404120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220404120000 +0000" stop="20220404123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al despertar</title>
+    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  </programme>
+  <programme start="20220404123000 +0000" stop="20220404140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  </programme>
+  <programme start="20220404140000 +0000" stop="20220404150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al momento</title>
+    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  </programme>
+  <programme start="20220404150000 +0000" stop="20220404180000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  </programme>
+  <programme start="20220404180000 +0000" stop="20220404190000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos meridiano Honduras</title>
+    <desc lang="en">Las noticias más importante del momento.(n)</desc>
+  </programme>
+  <programme start="20220404190000 +0000" stop="20220404210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Que buena la tarde!</title>
+  </programme>
+  <programme start="20220404210000 +0000" stop="20220404220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  </programme>
+  <programme start="20220404220000 +0000" stop="20220404230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220404230000 +0000" stop="20220405003000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ventaneando</title>
+    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  </programme>
+  <programme start="20220405003000 +0000" stop="20220405013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220405013000 +0000" stop="20220405020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos Estelar</title>
+    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220405030000 +0000" stop="20220405040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220405050000 +0000" stop="20220405060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  </programme>
+  <programme start="20220405060000 +0000" stop="20220405070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220405070000 +0000" stop="20220405080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220405080000 +0000" stop="20220405090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220405090000 +0000" stop="20220405110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Qué buena tarde!</title>
+    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  </programme>
+  <programme start="20220405110000 +0000" stop="20220405120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220405120000 +0000" stop="20220405123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al despertar</title>
+    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  </programme>
+  <programme start="20220405123000 +0000" stop="20220405140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  </programme>
+  <programme start="20220405140000 +0000" stop="20220405150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al momento</title>
+    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  </programme>
+  <programme start="20220405150000 +0000" stop="20220405180000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  </programme>
+  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos meridiano Honduras</title>
+    <desc lang="en">Las noticias más importante del momento.(n)</desc>
+  </programme>
+  <programme start="20220405190000 +0000" stop="20220405210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Que buena la tarde!</title>
+  </programme>
+  <programme start="20220405210000 +0000" stop="20220405220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  </programme>
+  <programme start="20220405220000 +0000" stop="20220405230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220405230000 +0000" stop="20220406003000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ventaneando</title>
+    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  </programme>
+  <programme start="20220406003000 +0000" stop="20220406013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220406013000 +0000" stop="20220406020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220406020000 +0000" stop="20220406030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos Estelar</title>
+    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220406030000 +0000" stop="20220406040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220406040000 +0000" stop="20220406050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220406050000 +0000" stop="20220406060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  </programme>
+  <programme start="20220406060000 +0000" stop="20220406070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220406070000 +0000" stop="20220406080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220406080000 +0000" stop="20220406090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220406090000 +0000" stop="20220406110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Qué buena tarde!</title>
+    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  </programme>
+  <programme start="20220406110000 +0000" stop="20220406120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220406120000 +0000" stop="20220406123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al despertar</title>
+    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  </programme>
+  <programme start="20220406123000 +0000" stop="20220406140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  </programme>
+  <programme start="20220406140000 +0000" stop="20220406150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al momento</title>
+    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  </programme>
+  <programme start="20220406150000 +0000" stop="20220406180000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  </programme>
+  <programme start="20220406180000 +0000" stop="20220406190000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos meridiano Honduras</title>
+    <desc lang="en">Las noticias más importante del momento.(n)</desc>
+  </programme>
+  <programme start="20220406190000 +0000" stop="20220406210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Que buena la tarde!</title>
+  </programme>
+  <programme start="20220406210000 +0000" stop="20220406220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  </programme>
+  <programme start="20220406220000 +0000" stop="20220406230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220406230000 +0000" stop="20220407003000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ventaneando</title>
+    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  </programme>
+  <programme start="20220329010000 +0000" stop="20220329020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Nuevo sol</title>
+    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
+  </programme>
+  <programme start="20220329020000 +0000" stop="20220329030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
+  </programme>
+  <programme start="20220329030000 +0000" stop="20220329040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Querer sin límites</title>
+    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
+  </programme>
+  <programme start="20220329040000 +0000" stop="20220329050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias: Edición Nocturna</title>
+    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
+  </programme>
+  <programme start="20220329050000 +0000" stop="20220329060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220329060000 +0000" stop="20220329120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220329120000 +0000" stop="20220329123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">CNN</title>
+    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
+  </programme>
+  <programme start="20220329123000 +0000" stop="20220329130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias: Edición matutina</title>
+    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
+  </programme>
+  <programme start="20220329130000 +0000" stop="20220329160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revista - Primera hora</title>
+    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
+  </programme>
+  <programme start="20220329160000 +0000" stop="20220329170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Luces, cámara y ¡sazón!</title>
+  </programme>
+  <programme start="20220329170000 +0000" stop="20220329180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Estrella de amor</title>
+    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
+  </programme>
+  <programme start="20220329180000 +0000" stop="20220329190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Loquito por ti</title>
+    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
+  </programme>
+  <programme start="20220329190000 +0000" stop="20220329200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias edición al mediodía</title>
+    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220329200000 +0000" stop="20220329210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Diseñando tu amor</title>
+    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
+  </programme>
+  <programme start="20220329210000 +0000" stop="20220329220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La Gloria de Lucho</title>
+    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  </programme>
+  <programme start="20220329220000 +0000" stop="20220329230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  </programme>
+  <programme start="20220329230000 +0000" stop="20220329235500 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220329235500 +0000" stop="20220330010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias - Edición Estelar</title>
+    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
+  </programme>
+  <programme start="20220330010000 +0000" stop="20220330020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Nuevo sol</title>
+    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
+  </programme>
+  <programme start="20220330020000 +0000" stop="20220330030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
+  </programme>
+  <programme start="20220330030000 +0000" stop="20220330040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Querer sin límites</title>
+    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
+  </programme>
+  <programme start="20220330040000 +0000" stop="20220330050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias: Edición Nocturna</title>
+    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
+  </programme>
+  <programme start="20220330050000 +0000" stop="20220330060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220330060000 +0000" stop="20220330120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220330120000 +0000" stop="20220330123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">CNN</title>
+    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
+  </programme>
+  <programme start="20220330123000 +0000" stop="20220330130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias: Edición matutina</title>
+    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
+  </programme>
+  <programme start="20220330130000 +0000" stop="20220330160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revista - Primera hora</title>
+    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
+  </programme>
+  <programme start="20220330160000 +0000" stop="20220330170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Luces, cámara y ¡sazón!</title>
+  </programme>
+  <programme start="20220330170000 +0000" stop="20220330180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Estrella de amor</title>
+    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
+  </programme>
+  <programme start="20220330180000 +0000" stop="20220330190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Loquito por ti</title>
+    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
+  </programme>
+  <programme start="20220330190000 +0000" stop="20220330200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias edición al mediodía</title>
+    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220330200000 +0000" stop="20220330210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Diseñando tu amor</title>
+    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
+  </programme>
+  <programme start="20220330210000 +0000" stop="20220330220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La Gloria de Lucho</title>
+    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  </programme>
+  <programme start="20220330220000 +0000" stop="20220330230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  </programme>
+  <programme start="20220330230000 +0000" stop="20220330235500 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220330235500 +0000" stop="20220331010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias - Edición Estelar</title>
+    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
+  </programme>
+  <programme start="20220331010000 +0000" stop="20220331020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Nuevo sol</title>
+    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
+  </programme>
+  <programme start="20220331020000 +0000" stop="20220331030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
+  </programme>
+  <programme start="20220331030000 +0000" stop="20220331040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Querer sin límites</title>
+    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
+  </programme>
+  <programme start="20220331040000 +0000" stop="20220331050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias: Edición Nocturna</title>
+    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
+  </programme>
+  <programme start="20220331050000 +0000" stop="20220331060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220331060000 +0000" stop="20220331120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220331120000 +0000" stop="20220331123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">CNN</title>
+    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
+  </programme>
+  <programme start="20220331123000 +0000" stop="20220331130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias: Edición matutina</title>
+    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
+  </programme>
+  <programme start="20220331130000 +0000" stop="20220331160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revista - Primera hora</title>
+    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
+  </programme>
+  <programme start="20220331160000 +0000" stop="20220331170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Luces, cámara y ¡sazón!</title>
+  </programme>
+  <programme start="20220331170000 +0000" stop="20220331180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Estrella de amor</title>
+    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
+  </programme>
+  <programme start="20220331180000 +0000" stop="20220331190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Loquito por ti</title>
+    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
+  </programme>
+  <programme start="20220331190000 +0000" stop="20220331200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias edición al mediodía</title>
+    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220331200000 +0000" stop="20220331210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Diseñando tu amor</title>
+    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
+  </programme>
+  <programme start="20220331210000 +0000" stop="20220331220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La Gloria de Lucho</title>
+    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  </programme>
+  <programme start="20220331220000 +0000" stop="20220331230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  </programme>
+  <programme start="20220331230000 +0000" stop="20220331235500 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220331235500 +0000" stop="20220401010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias - Edición Estelar</title>
+    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
+  </programme>
+  <programme start="20220401010000 +0000" stop="20220401020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Nuevo sol</title>
+    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
+  </programme>
+  <programme start="20220401020000 +0000" stop="20220401030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
+  </programme>
+  <programme start="20220401030000 +0000" stop="20220401040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Querer sin límites</title>
+    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
+  </programme>
+  <programme start="20220401040000 +0000" stop="20220401050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias: Edición Nocturna</title>
+    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
+  </programme>
+  <programme start="20220401050000 +0000" stop="20220401060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220401060000 +0000" stop="20220401120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220401120000 +0000" stop="20220401123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">CNN</title>
+    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
+  </programme>
+  <programme start="20220401123000 +0000" stop="20220401130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias: Edición matutina</title>
+    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
+  </programme>
+  <programme start="20220401130000 +0000" stop="20220401160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revista - Primera hora</title>
+    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
+  </programme>
+  <programme start="20220401160000 +0000" stop="20220401170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Luces, cámara y ¡sazón!</title>
+  </programme>
+  <programme start="20220401170000 +0000" stop="20220401180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Estrella de amor</title>
+    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
+  </programme>
+  <programme start="20220401180000 +0000" stop="20220401190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Loquito por ti</title>
+    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
+  </programme>
+  <programme start="20220401190000 +0000" stop="20220401200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias edición al mediodía</title>
+    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220401200000 +0000" stop="20220401210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Diseñando tu amor</title>
+    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
+  </programme>
+  <programme start="20220401210000 +0000" stop="20220401220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La Gloria de Lucho</title>
+    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  </programme>
+  <programme start="20220401220000 +0000" stop="20220401230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  </programme>
+  <programme start="20220401230000 +0000" stop="20220401235500 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220401235500 +0000" stop="20220402010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias - Edición Estelar</title>
+    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
+  </programme>
+  <programme start="20220402010000 +0000" stop="20220402020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Nuevo sol</title>
+    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
+  </programme>
+  <programme start="20220402020000 +0000" stop="20220402030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
+  </programme>
+  <programme start="20220402030000 +0000" stop="20220402040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Querer sin límites</title>
+    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
+  </programme>
+  <programme start="20220402040000 +0000" stop="20220402050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias: Edición Nocturna</title>
+    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
+  </programme>
+  <programme start="20220402050000 +0000" stop="20220402060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220402060000 +0000" stop="20220402120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220402120000 +0000" stop="20220402123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">3,2,1 ¡Vamos!</title>
+    <desc lang="en">Programa educativo para niños preescolares de animación en plastilina.(n)</desc>
+  </programme>
+  <programme start="20220402123000 +0000" stop="20220402130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La abeja Maya</title>
+    <desc lang="en">La pequeña abeja Maya es muy curiosa a la que le gusta explorar el mundo fuera de las cómodas paredes de la colmena. La abejita vivirá numerosas aventuras.(n)</desc>
+  </programme>
+  <programme start="20220402130000 +0000" stop="20220402133000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Doctora juguetes</title>
+    <desc lang="en">Doctora Juguetes es una serie de animación que se centra en la vida de una niña de seis años que puede hablar con sus animalitos y otros muñecos, a quienes cuida en su clínica para juguetes, cuando la pequeña doctora se coloca el estetoscopio, sus pacientes cobran vida.(n)</desc>
+  </programme>
+  <programme start="20220402133000 +0000" stop="20220402140000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La princesa Sofía</title>
+    <desc lang="en">Sofía es una niña con el fondo de un plebeyo, hasta que su madre se casa con el rey de su reino y de repente se convierte en princesa. Sofía se entera de que ser princesa no es tan difícil, y debe aprender a comportarse como le diga su corazón.(n)</desc>
+  </programme>
+  <programme start="20220402140000 +0000" stop="20220402143000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Elena de Ávalor</title>
+    <desc lang="en">Luego de salvar a su reino, una joven princesa debe aprender las responsabilidades de gobernar. La joven Elena se apoya en sus abuelos para tomar decisiones y confía en los amigos que la rodean, ya que su tarea no es nada fácil. En el camino, encuentra varias dificultades y personas que quieren que su reinado no prospere. Pero su bondad y consideración no son cualidades difíciles de derrotar.(n)</desc>
+  </programme>
+  <programme start="20220402143000 +0000" stop="20220402150000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Miles del mañana</title>
+    <desc lang="en">Un niño y su familia viajan por toda la galaxia a través de la Autoridad de Tránsito de Tomorrowland.(n)</desc>
+  </programme>
+  <programme start="20220402150000 +0000" stop="20220402153000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El Chavo animado</title>
+    <desc lang="en">El profesor Jirafales llega a la vecindad y cae en un hoyo el Chavo le explica que los están cavando para plantar árboles y tener animalitos. El Sr. Barriga les explica a todos los inquilinos que ha decidido vender la vecindad a su amigo Rufino Malacara. Todos se asustan y se preocupan, pero Rufino les asegura que él hará que sus vidas cambien. Le entrega un cheque al Sr. Barriga, y toma posesión de la vecindad.(n)</desc>
+  </programme>
+  <programme start="20220402153000 +0000" stop="20220402160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El Chapulín Colorado animado</title>
+    <desc lang="en">Versión de dibujos animados de la serie de comedia de imágenes reales de los años 70 "El Chapulín Colorado".(n)</desc>
+  </programme>
+  <programme start="20220402160000 +0000" stop="20220402170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">A pura risa</title>
+    <desc lang="en">Disfruta de este espacio de cámaras escondidas para jugar bromas tontas sobre temas insospechados, mientras que capturan la reacción de la gente.(n)</desc>
+  </programme>
+  <programme start="20220402170000 +0000" stop="20220402173000 +0000" channel="TELEVICENTRO">
+    <title lang="en">¡Buena Suerte, Charlie!</title>
+    <desc lang="en">Una adolescente ayuda a cuidar a su hermanita y crea diarios de videos para que proporcionen consejos útiles en los próximos años de su hermana.(n)</desc>
+  </programme>
+  <programme start="20220402173000 +0000" stop="20220402180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Los hechiceros de Waverly Place</title>
+    <desc lang="en">Comedia centrada en una familia de hechiceros modernos que viven en Nueva York y recurren a la magia para salir de apuros.(n)</desc>
+  </programme>
+  <programme start="20220402180000 +0000" stop="20220402183000 +0000" channel="TELEVICENTRO">
+    <title lang="en">MECH-X4</title>
+    <desc lang="en">Ryan Walker es un estudiante de primer año en Bay City High que tiene la capacidad de controlar la tecnología con su mente. Su talento despierta misteriosamente el MECH-X4, un gigantesco robot de 150 pies construido por un elusivo genio escondido...(n)</desc>
+  </programme>
+  <programme start="20220402183000 +0000" stop="20220402190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Zeke y Luther</title>
+    <desc lang="en">Dos mejores amigos tratan de convertirse en monopatinadores famosos.(n)</desc>
+  </programme>
+  <programme start="20220402190000 +0000" stop="20220402191000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Micro TVN</title>
+    <desc lang="en">Los temas cotidianos de Nicaragua.(n)</desc>
+  </programme>
+  <programme start="20220402191000 +0000" stop="20220402200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Soy Luna</title>
+    <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional.(n)</desc>
+  </programme>
+  <programme start="20220402200000 +0000" stop="20220402210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Números</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  </programme>
+  <programme start="20220402210000 +0000" stop="20220402220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">The Mob Doctor</title>
+    <desc lang="en">Una doctora está en deuda con la mafia de Chicago, tiene que pagar las deudas de su hermano atiendiendo las innumerables necesidades médicas de la mafia: operaciones secretas, eliminación de pruebas incriminatorias, y ocultar su doble vida de amigos y compañeros de trabajo.(n)</desc>
+  </programme>
+  <programme start="20220402220000 +0000" stop="20220402230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Saber y ganar</title>
+    <desc lang="en">Concurso en el que tres concursantes participan en diversas pruebas demostrando sus conocimientos y agilidad mental.(n)</desc>
+  </programme>
+  <programme start="20220402230000 +0000" stop="20220403005000 +0000" channel="TELEVICENTRO">
+    <title lang="en">A Confirmar</title>
+    <desc lang="en">Programa de entretenimiento musical.(n)</desc>
+  </programme>
+  <programme start="20220403005000 +0000" stop="20220403010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Micro TVN</title>
+    <desc lang="en">Los temas cotidianos de Nicaragua.(n)</desc>
+  </programme>
+  <programme start="20220403010000 +0000" stop="20220403020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La ley secreta</title>
+    <desc lang="en">Sandra, Amelia y Tatiana, tres agentes secretas ponen en riesgo no solo sus vidas, sino también las de sus familiares, al infiltrarse en grandes bandas criminales para desmantelarlas y así poder cumplir la función de la ley.(n)</desc>
+  </programme>
+  <programme start="20220403020000 +0000" stop="20220403030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La niña</title>
+    <desc lang="en">Su vida comenzó en la guerrilla, pudo salir, y ahora tendrá que empezar de nuevo.(n)</desc>
+  </programme>
+  <programme start="20220403030000 +0000" stop="20220403040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Bandolera</title>
+    <desc lang="en">Una estudiante se enamora de un teniente en Andalucía del siglo XIX.(n)</desc>
+  </programme>
+  <programme start="20220403040000 +0000" stop="20220403050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revenge</title>
+    <desc lang="en">Una joven regresa a Los Hamptons para vengarse de los responsables que destruyeron a su familia.(n)</desc>
+  </programme>
+  <programme start="20220403050000 +0000" stop="20220403060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Lo que la gente cuenta</title>
+    <desc lang="en">La serie de misterio y espanto, relata leyendas populares escalofriantes que aterrorizan hasta los más valientes. El programa cuenta estas historias y trata en lo posible de grabar en las localidades, algunas de estas son lugares históricos en que supuestamente las leyendas sucedieron o visita lugares parecidos para así tratar de reflejar la historia original y hacerla tan parecida como sea posible.(n)</desc>
+  </programme>
+  <programme start="20220403060000 +0000" stop="20220403120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220403120000 +0000" stop="20220403123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">3,2,1 ¡Vamos!</title>
+    <desc lang="en">Programa educativo para niños preescolares de animación en plastilina.(n)</desc>
+  </programme>
+  <programme start="20220403123000 +0000" stop="20220403130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La abeja Maya</title>
+    <desc lang="en">La pequeña abeja Maya es muy curiosa a la que le gusta explorar el mundo fuera de las cómodas paredes de la colmena. La abejita vivirá numerosas aventuras.(n)</desc>
+  </programme>
+  <programme start="20220403130000 +0000" stop="20220403133000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Doctora juguetes</title>
+    <desc lang="en">Doctora Juguetes es una serie de animación que se centra en la vida de una niña de seis años que puede hablar con sus animalitos y otros muñecos, a quienes cuida en su clínica para juguetes, cuando la pequeña doctora se coloca el estetoscopio, sus pacientes cobran vida.(n)</desc>
+  </programme>
+  <programme start="20220403133000 +0000" stop="20220403140000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La princesa Sofía</title>
+    <desc lang="en">Sofía es una niña con el fondo de un plebeyo, hasta que su madre se casa con el rey de su reino y de repente se convierte en princesa. Sofía se entera de que ser princesa no es tan difícil, y debe aprender a comportarse como le diga su corazón.(n)</desc>
+  </programme>
+  <programme start="20220403140000 +0000" stop="20220403143000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Elena de Ávalor</title>
+    <desc lang="en">Luego de salvar a su reino, una joven princesa debe aprender las responsabilidades de gobernar. La joven Elena se apoya en sus abuelos para tomar decisiones y confía en los amigos que la rodean, ya que su tarea no es nada fácil. En el camino, encuentra varias dificultades y personas que quieren que su reinado no prospere. Pero su bondad y consideración no son cualidades difíciles de derrotar.(n)</desc>
+  </programme>
+  <programme start="20220403143000 +0000" stop="20220403150000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Miles del mañana</title>
+    <desc lang="en">Un niño y su familia viajan por toda la galaxia a través de la Autoridad de Tránsito de Tomorrowland.(n)</desc>
+  </programme>
+  <programme start="20220403150000 +0000" stop="20220403153000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El Chavo animado</title>
+    <desc lang="en">El profesor Jirafales llega a la vecindad y cae en un hoyo el Chavo le explica que los están cavando para plantar árboles y tener animalitos. El Sr. Barriga les explica a todos los inquilinos que ha decidido vender la vecindad a su amigo Rufino Malacara. Todos se asustan y se preocupan, pero Rufino les asegura que él hará que sus vidas cambien. Le entrega un cheque al Sr. Barriga, y toma posesión de la vecindad.(n)</desc>
+  </programme>
+  <programme start="20220403153000 +0000" stop="20220403160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El Chapulín Colorado animado</title>
+    <desc lang="en">Versión de dibujos animados de la serie de comedia de imágenes reales de los años 70 "El Chapulín Colorado".(n)</desc>
+  </programme>
+  <programme start="20220403160000 +0000" stop="20220403170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">A pura risa</title>
+    <desc lang="en">Disfruta de este espacio de cámaras escondidas para jugar bromas tontas sobre temas insospechados, mientras que capturan la reacción de la gente.(n)</desc>
+  </programme>
+  <programme start="20220403170000 +0000" stop="20220403173000 +0000" channel="TELEVICENTRO">
+    <title lang="en">¡Buena Suerte, Charlie!</title>
+    <desc lang="en">Una adolescente ayuda a cuidar a su hermanita y crea diarios de videos para que proporcionen consejos útiles en los próximos años de su hermana.(n)</desc>
+  </programme>
+  <programme start="20220403173000 +0000" stop="20220403180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Los hechiceros de Waverly Place</title>
+    <desc lang="en">Comedia centrada en una familia de hechiceros modernos que viven en Nueva York y recurren a la magia para salir de apuros.(n)</desc>
+  </programme>
+  <programme start="20220403180000 +0000" stop="20220403183000 +0000" channel="TELEVICENTRO">
+    <title lang="en">MECH-X4</title>
+    <desc lang="en">Ryan Walker es un estudiante de primer año en Bay City High que tiene la capacidad de controlar la tecnología con su mente. Su talento despierta misteriosamente el MECH-X4, un gigantesco robot de 150 pies construido por un elusivo genio escondido...(n)</desc>
+  </programme>
+  <programme start="20220403183000 +0000" stop="20220403190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Zeke y Luther</title>
+    <desc lang="en">Dos mejores amigos tratan de convertirse en monopatinadores famosos.(n)</desc>
+  </programme>
+  <programme start="20220403190000 +0000" stop="20220403200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Soy Luna</title>
+    <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional.(n)</desc>
+  </programme>
+  <programme start="20220403200000 +0000" stop="20220403201000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Micro TVN</title>
+    <desc lang="en">Los temas cotidianos de Nicaragua.(n)</desc>
+  </programme>
+  <programme start="20220403201000 +0000" stop="20220403210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Números</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  </programme>
+  <programme start="20220403210000 +0000" stop="20220403220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">The Mob Doctor</title>
+    <desc lang="en">Una doctora está en deuda con la mafia de Chicago, tiene que pagar las deudas de su hermano atiendiendo las innumerables necesidades médicas de la mafia: operaciones secretas, eliminación de pruebas incriminatorias, y ocultar su doble vida de amigos y compañeros de trabajo.(n)</desc>
+  </programme>
+  <programme start="20220403220000 +0000" stop="20220403230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Saber y ganar</title>
+    <desc lang="en">Concurso en el que tres concursantes participan en diversas pruebas demostrando sus conocimientos y agilidad mental.(n)</desc>
+  </programme>
+  <programme start="20220403230000 +0000" stop="20220404005000 +0000" channel="TELEVICENTRO">
+    <title lang="en">A Confirmar</title>
+    <desc lang="en">Programa de entretenimiento musical.(n)</desc>
+  </programme>
+  <programme start="20220404005000 +0000" stop="20220404010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Micro TVN</title>
+    <desc lang="en">Los temas cotidianos de Nicaragua.(n)</desc>
+  </programme>
+  <programme start="20220404010000 +0000" stop="20220404020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La ley secreta</title>
+    <desc lang="en">Sandra, Amelia y Tatiana, tres agentes secretas ponen en riesgo no solo sus vidas, sino también las de sus familiares, al infiltrarse en grandes bandas criminales para desmantelarlas y así poder cumplir la función de la ley.(n)</desc>
+  </programme>
+  <programme start="20220404020000 +0000" stop="20220404030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La niña</title>
+    <desc lang="en">Su vida comenzó en la guerrilla, pudo salir, y ahora tendrá que empezar de nuevo.(n)</desc>
+  </programme>
+  <programme start="20220404030000 +0000" stop="20220404040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Bandolera</title>
+    <desc lang="en">Una estudiante se enamora de un teniente en Andalucía del siglo XIX.(n)</desc>
+  </programme>
+  <programme start="20220404040000 +0000" stop="20220404050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revenge</title>
+    <desc lang="en">Una joven regresa a Los Hamptons para vengarse de los responsables que destruyeron a su familia.(n)</desc>
+  </programme>
+  <programme start="20220404050000 +0000" stop="20220404060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Lo que la gente cuenta</title>
+    <desc lang="en">La serie de misterio y espanto, relata leyendas populares escalofriantes que aterrorizan hasta los más valientes. El programa cuenta estas historias y trata en lo posible de grabar en las localidades, algunas de estas son lugares históricos en que supuestamente las leyendas sucedieron o visita lugares parecidos para así tratar de reflejar la historia original y hacerla tan parecida como sea posible.(n)</desc>
+  </programme>
+  <programme start="20220404060000 +0000" stop="20220404120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220404120000 +0000" stop="20220404123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">CNN</title>
+    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
+  </programme>
+  <programme start="20220404123000 +0000" stop="20220404130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias: Edición matutina</title>
+    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
+  </programme>
+  <programme start="20220404130000 +0000" stop="20220404160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revista - Primera hora</title>
+    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
+  </programme>
+  <programme start="20220404160000 +0000" stop="20220404170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Luces, cámara y ¡sazón! (live)</title>
+  </programme>
+  <programme start="20220404170000 +0000" stop="20220404180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Estrella de amor</title>
+    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
+  </programme>
+  <programme start="20220404180000 +0000" stop="20220404190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Loquito por ti</title>
+    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
+  </programme>
+  <programme start="20220404190000 +0000" stop="20220404200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias edición al mediodía</title>
+    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220404200000 +0000" stop="20220404210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Diseñando tu amor</title>
+    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
+  </programme>
+  <programme start="20220404210000 +0000" stop="20220404220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La Gloria de Lucho</title>
+    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  </programme>
+  <programme start="20220404220000 +0000" stop="20220404230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  </programme>
+  <programme start="20220404230000 +0000" stop="20220404235500 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220404235500 +0000" stop="20220405010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias - Edición Estelar</title>
+    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
+  </programme>
+  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Nuevo sol</title>
+    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
+  </programme>
+  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
+  </programme>
+  <programme start="20220405030000 +0000" stop="20220405040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Querer sin límites</title>
+    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
+  </programme>
+  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias: Edición Nocturna</title>
+    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
+  </programme>
+  <programme start="20220405050000 +0000" stop="20220405060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220405060000 +0000" stop="20220405120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220405120000 +0000" stop="20220405123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">CNN</title>
+    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
+  </programme>
+  <programme start="20220405123000 +0000" stop="20220405130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias: Edición matutina</title>
+    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
+  </programme>
+  <programme start="20220405130000 +0000" stop="20220405160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revista - Primera hora</title>
+    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
+  </programme>
+  <programme start="20220405160000 +0000" stop="20220405170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Luces, cámara y ¡sazón!</title>
+  </programme>
+  <programme start="20220405170000 +0000" stop="20220405180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Estrella de amor</title>
+    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
+  </programme>
+  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Loquito por ti</title>
+    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
+  </programme>
+  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias edición al mediodía</title>
+    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220405200000 +0000" stop="20220405210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Diseñando tu amor</title>
+    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
+  </programme>
+  <programme start="20220405210000 +0000" stop="20220405220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La Gloria de Lucho</title>
+    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  </programme>
+  <programme start="20220405220000 +0000" stop="20220405230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  </programme>
+  <programme start="20220405230000 +0000" stop="20220405235500 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220405235500 +0000" stop="20220406010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias - Edición Estelar</title>
+    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
+  </programme>
+  <programme start="20220406010000 +0000" stop="20220406020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Nuevo sol</title>
+    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
+  </programme>
+  <programme start="20220406020000 +0000" stop="20220406030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
+  </programme>
+  <programme start="20220406030000 +0000" stop="20220406040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Querer sin límites</title>
+    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
+  </programme>
+  <programme start="20220406040000 +0000" stop="20220406050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias: Edición Nocturna</title>
+    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
+  </programme>
+  <programme start="20220406050000 +0000" stop="20220406060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220406060000 +0000" stop="20220406120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
+  </programme>
+  <programme start="20220406120000 +0000" stop="20220406123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">CNN</title>
+    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
+  </programme>
+  <programme start="20220406123000 +0000" stop="20220406130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias: Edición matutina</title>
+    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
+  </programme>
+  <programme start="20220406130000 +0000" stop="20220406160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revista - Primera hora</title>
+    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
+  </programme>
+  <programme start="20220406160000 +0000" stop="20220406170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Luces, cámara y ¡sazón!</title>
+  </programme>
+  <programme start="20220406170000 +0000" stop="20220406180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Estrella de amor</title>
+    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
+  </programme>
+  <programme start="20220406180000 +0000" stop="20220406190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Loquito por ti</title>
+    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
+  </programme>
+  <programme start="20220406190000 +0000" stop="20220406200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias edición al mediodía</title>
+    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220406200000 +0000" stop="20220406210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Diseñando tu amor</title>
+    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
+  </programme>
+  <programme start="20220406210000 +0000" stop="20220406220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La Gloria de Lucho</title>
+    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  </programme>
+  <programme start="20220406220000 +0000" stop="20220406230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  </programme>
+  <programme start="20220406230000 +0000" stop="20220406235500 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220406235500 +0000" stop="20220407010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias - Edición Estelar</title>
+    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
+  </programme>
+  <programme start="20220329000000 +0000" stop="20220329010000 +0000" channel="OROMAR">
+    <title lang="en">La esclava blanca</title>
+    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
+  </programme>
+  <programme start="20220329010000 +0000" stop="20220329020000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220329020000 +0000" stop="20220329031500 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220329031500 +0000" stop="20220329040000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220329040000 +0000" stop="20220329110000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220329110000 +0000" stop="20220329114500 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220329114500 +0000" stop="20220329130000 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220329130000 +0000" stop="20220329140000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220329140000 +0000" stop="20220329160000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220329160000 +0000" stop="20220329170000 +0000" channel="OROMAR">
+    <title lang="en">El Cartel de los Sapos</title>
+    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
+  </programme>
+  <programme start="20220329170000 +0000" stop="20220329180000 +0000" channel="OROMAR">
+    <title lang="en">Melek</title>
+    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  </programme>
+  <programme start="20220329180000 +0000" stop="20220329190000 +0000" channel="OROMAR">
+    <title lang="en">NTI emisión central</title>
+    <desc lang="en">Te mantenemos informado sobre lo que ocurre a nivel local y nacional.(n)</desc>
+  </programme>
+  <programme start="20220329190000 +0000" stop="20220329200000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220329200000 +0000" stop="20220329220000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220329220000 +0000" stop="20220330000000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220330000000 +0000" stop="20220330010000 +0000" channel="OROMAR">
+    <title lang="en">La esclava blanca</title>
+    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
+  </programme>
+  <programme start="20220330010000 +0000" stop="20220330020000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220330020000 +0000" stop="20220330031500 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220330031500 +0000" stop="20220330040000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220330040000 +0000" stop="20220330110000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220330110000 +0000" stop="20220330114500 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220330114500 +0000" stop="20220330130000 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220330130000 +0000" stop="20220330140000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220330140000 +0000" stop="20220330160000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220330160000 +0000" stop="20220330170000 +0000" channel="OROMAR">
+    <title lang="en">El Cartel de los Sapos</title>
+    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
+  </programme>
+  <programme start="20220330170000 +0000" stop="20220330180000 +0000" channel="OROMAR">
+    <title lang="en">Melek</title>
+    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  </programme>
+  <programme start="20220330180000 +0000" stop="20220330190000 +0000" channel="OROMAR">
+    <title lang="en">NTI emisión central</title>
+    <desc lang="en">Te mantenemos informado sobre lo que ocurre a nivel local y nacional.(n)</desc>
+  </programme>
+  <programme start="20220330190000 +0000" stop="20220330200000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220330200000 +0000" stop="20220330220000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220330220000 +0000" stop="20220331000000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220331000000 +0000" stop="20220331010000 +0000" channel="OROMAR">
+    <title lang="en">La esclava blanca</title>
+    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
+  </programme>
+  <programme start="20220331010000 +0000" stop="20220331020000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220331020000 +0000" stop="20220331031500 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220331031500 +0000" stop="20220331040000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220331040000 +0000" stop="20220331110000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220331110000 +0000" stop="20220331114500 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220331114500 +0000" stop="20220331130000 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220331130000 +0000" stop="20220331140000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220331140000 +0000" stop="20220331160000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220331160000 +0000" stop="20220331170000 +0000" channel="OROMAR">
+    <title lang="en">El Cartel de los Sapos</title>
+    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
+  </programme>
+  <programme start="20220331170000 +0000" stop="20220331180000 +0000" channel="OROMAR">
+    <title lang="en">Melek</title>
+    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  </programme>
+  <programme start="20220331180000 +0000" stop="20220331190000 +0000" channel="OROMAR">
+    <title lang="en">NTI emisión central</title>
+    <desc lang="en">Te mantenemos informado sobre lo que ocurre a nivel local y nacional.(n)</desc>
+  </programme>
+  <programme start="20220331190000 +0000" stop="20220331200000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220331200000 +0000" stop="20220331220000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220331220000 +0000" stop="20220401000000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220401000000 +0000" stop="20220401010000 +0000" channel="OROMAR">
+    <title lang="en">La esclava blanca</title>
+    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
+  </programme>
+  <programme start="20220401010000 +0000" stop="20220401020000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220401020000 +0000" stop="20220401031500 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220401031500 +0000" stop="20220401040000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220401040000 +0000" stop="20220401110000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220401110000 +0000" stop="20220401114500 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220401114500 +0000" stop="20220401130000 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220401130000 +0000" stop="20220401140000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220401140000 +0000" stop="20220401160000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220401160000 +0000" stop="20220401170000 +0000" channel="OROMAR">
+    <title lang="en">El Cartel de los Sapos</title>
+    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
+  </programme>
+  <programme start="20220401170000 +0000" stop="20220401180000 +0000" channel="OROMAR">
+    <title lang="en">Melek</title>
+    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  </programme>
+  <programme start="20220401180000 +0000" stop="20220401190000 +0000" channel="OROMAR">
+    <title lang="en">NTI emisión central</title>
+    <desc lang="en">Te mantenemos informado sobre lo que ocurre a nivel local y nacional.(n)</desc>
+  </programme>
+  <programme start="20220401190000 +0000" stop="20220401200000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220401200000 +0000" stop="20220401220000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220401220000 +0000" stop="20220402000000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220402000000 +0000" stop="20220402003000 +0000" channel="OROMAR">
+    <title lang="en">Lady, La Vendedora de Rosas</title>
+    <desc lang="en">La historia real de Lady Tabares , una humilde joven de las comunas de Medellín, quien asciende al estrellato tras protagonizar la película La vendedora de rosas, nominada a la Palma de Oro del Festival de Cine de Cannes.(n)</desc>
+  </programme>
+  <programme start="20220402003000 +0000" stop="20220402010000 +0000" channel="OROMAR">
+    <title lang="en">La esclava blanca</title>
+    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
+  </programme>
+  <programme start="20220402010000 +0000" stop="20220402020000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220402020000 +0000" stop="20220402031500 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220402031500 +0000" stop="20220402040000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220402040000 +0000" stop="20220402080000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220402080000 +0000" stop="20220402090000 +0000" channel="OROMAR">
+    <title lang="en">Así se hace Ecuador</title>
+    <desc lang="en">Espacio para conocer el motor de un país, comprometido con su gente en hacer productos de primera calidad.(n)</desc>
+  </programme>
+  <programme start="20220402090000 +0000" stop="20220402093000 +0000" channel="OROMAR">
+    <title lang="en">Ecuador Multicolor</title>
+    <desc lang="en">Un espacio para dar a conocer la diversidad cultural del país mediante entrevistas y reportajes.(n)</desc>
+  </programme>
+  <programme start="20220402093000 +0000" stop="20220402100000 +0000" channel="OROMAR">
+    <title lang="en">Madre selva</title>
+    <desc lang="en">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades.(n)</desc>
+  </programme>
+  <programme start="20220402100000 +0000" stop="20220402103000 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220402103000 +0000" stop="20220402110000 +0000" channel="OROMAR">
+    <title lang="en">Madre selva</title>
+    <desc lang="en">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades.(n)</desc>
+  </programme>
+  <programme start="20220402110000 +0000" stop="20220402120000 +0000" channel="OROMAR">
+    <title lang="en">Novunted</title>
+    <desc lang="en">Productos ofrecidos para el hogar del televidente.(n)</desc>
+  </programme>
+  <programme start="20220402120000 +0000" stop="20220402123000 +0000" channel="OROMAR">
+    <title lang="en">Promo TV</title>
+  </programme>
+  <programme start="20220402123000 +0000" stop="20220402130000 +0000" channel="OROMAR">
+    <title lang="en">renueva tu mente</title>
+  </programme>
+  <programme start="20220402130000 +0000" stop="20220402133000 +0000" channel="OROMAR">
+    <title lang="en">LABMAC</title>
+    <desc lang="en">Espacio a través del cual podrás conocer los productos más idóneos para mejorar tu salud y nutrición, otorgándote cien por ciento de seguridad y confianza.(n)</desc>
+  </programme>
+  <programme start="20220402133000 +0000" stop="20220402140000 +0000" channel="OROMAR">
+    <title lang="en">Promo TV</title>
+  </programme>
+  <programme start="20220402140000 +0000" stop="20220402143000 +0000" channel="OROMAR">
+    <title lang="en">Madre selva</title>
+    <desc lang="en">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades.(n)</desc>
+  </programme>
+  <programme start="20220402143000 +0000" stop="20220402150000 +0000" channel="OROMAR">
+    <title lang="en">Video control</title>
+    <desc lang="en">Videos musicales.(n)</desc>
+  </programme>
+  <programme start="20220402150000 +0000" stop="20220402153000 +0000" channel="OROMAR">
+    <title lang="en">La ruta ideal</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  </programme>
+  <programme start="20220402153000 +0000" stop="20220402170000 +0000" channel="OROMAR">
+    <title lang="en">El Gran Chaparral</title>
+    <desc lang="en">La familia Cannon lucha para establecer un rancho en el territorio de Arizona en los años 1870, en medio de conflictos con familiares y la amenaza de indígenas hostiles. La cabeza fuerte de la familia John recibe ayuda de su hermano Buck y su hijo Billy, cuya madre se muere en el primer episodio. Después de la tragedia, John une la familia con la adinerada familia Montoya al casarse con su hija Victoria, y así la serie se centra en los retos internos y externos de dos familias poderosas.(n)</desc>
+  </programme>
+  <programme start="20220402170000 +0000" stop="20220402190000 +0000" channel="OROMAR">
+    <title lang="en">Daniel Boone</title>
+    <desc lang="en">En 1775, 30 colonos americanos, junto con sus esposas e hijos, se disponían a seguir al héroe americano Daniel Boone desde su colonia natal en Yadkin, Carolina del Norte, hasta el valle de Ken-tu-ki, llamada por los indios "la tierra oscura y...(n)</desc>
+  </programme>
+  <programme start="20220402190000 +0000" stop="20220402210000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220402210000 +0000" stop="20220402230000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220402230000 +0000" stop="20220403010000 +0000" channel="OROMAR">
+    <title lang="en">Butaca Premiere</title>
+    <desc lang="en">Disfruta los grandes éxitos del cine.(n)</desc>
+  </programme>
+  <programme start="20220403010000 +0000" stop="20220403030000 +0000" channel="OROMAR">
+    <title lang="en">Butaca Premiere</title>
+    <desc lang="en">Disfruta los grandes éxitos del cine.(n)</desc>
+  </programme>
+  <programme start="20220403030000 +0000" stop="20220403040000 +0000" channel="OROMAR">
+    <title lang="en">La lista negra</title>
+    <desc lang="en">Uno de los fugitivos más buscados trabaja con una investigadora novata del FBI para acabar con criminales y terroristas.(n)</desc>
+  </programme>
+  <programme start="20220403040000 +0000" stop="20220403080000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220403080000 +0000" stop="20220403090000 +0000" channel="OROMAR">
+    <title lang="en">Así se hace Ecuador</title>
+    <desc lang="en">Espacio para conocer el motor de un país, comprometido con su gente en hacer productos de primera calidad.(n)</desc>
+  </programme>
+  <programme start="20220403090000 +0000" stop="20220403093000 +0000" channel="OROMAR">
+    <title lang="en">Ecuador Multicolor</title>
+    <desc lang="en">Un espacio para dar a conocer la diversidad cultural del país mediante entrevistas y reportajes.(n)</desc>
+  </programme>
+  <programme start="20220403093000 +0000" stop="20220403100000 +0000" channel="OROMAR">
+    <title lang="en">Madre selva</title>
+    <desc lang="en">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades.(n)</desc>
+  </programme>
+  <programme start="20220403100000 +0000" stop="20220403103000 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220403103000 +0000" stop="20220403110000 +0000" channel="OROMAR">
+    <title lang="en">Madre selva</title>
+    <desc lang="en">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades.(n)</desc>
+  </programme>
+  <programme start="20220403110000 +0000" stop="20220403120000 +0000" channel="OROMAR">
+    <title lang="en">Novunted</title>
+    <desc lang="en">Productos ofrecidos para el hogar del televidente.(n)</desc>
+  </programme>
+  <programme start="20220403120000 +0000" stop="20220403130000 +0000" channel="OROMAR">
+    <title lang="en">Promo TV</title>
+  </programme>
+  <programme start="20220403130000 +0000" stop="20220403150000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220403150000 +0000" stop="20220403170000 +0000" channel="OROMAR">
+    <title lang="en">El Gran Chaparral</title>
+    <desc lang="en">La familia Cannon lucha para establecer un rancho en el territorio de Arizona en los años 1870, en medio de conflictos con familiares y la amenaza de indígenas hostiles. La cabeza fuerte de la familia John recibe ayuda de su hermano Buck y su hijo Billy, cuya madre se muere en el primer episodio. Después de la tragedia, John une la familia con la adinerada familia Montoya al casarse con su hija Victoria, y así la serie se centra en los retos internos y externos de dos familias poderosas.(n)</desc>
+  </programme>
+  <programme start="20220403170000 +0000" stop="20220403190000 +0000" channel="OROMAR">
+    <title lang="en">Daniel Boone</title>
+    <desc lang="en">En 1775, 30 colonos americanos, junto con sus esposas e hijos, se disponían a seguir al héroe americano Daniel Boone desde su colonia natal en Yadkin, Carolina del Norte, hasta el valle de Ken-tu-ki, llamada por los indios "la tierra oscura y...(n)</desc>
+  </programme>
+  <programme start="20220403190000 +0000" stop="20220403210000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220403210000 +0000" stop="20220403230000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220403230000 +0000" stop="20220404010000 +0000" channel="OROMAR">
+    <title lang="en">Butaca Premiere</title>
+    <desc lang="en">Disfruta los grandes éxitos del cine.(n)</desc>
+  </programme>
+  <programme start="20220404010000 +0000" stop="20220404030000 +0000" channel="OROMAR">
+    <title lang="en">Butaca Premiere</title>
+    <desc lang="en">Disfruta los grandes éxitos del cine.(n)</desc>
+  </programme>
+  <programme start="20220404030000 +0000" stop="20220404040000 +0000" channel="OROMAR">
+    <title lang="en">La lista negra</title>
+    <desc lang="en">Uno de los fugitivos más buscados trabaja con una investigadora novata del FBI para acabar con criminales y terroristas.(n)</desc>
+  </programme>
+  <programme start="20220404040000 +0000" stop="20220404110000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220404110000 +0000" stop="20220404114500 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220404114500 +0000" stop="20220404130000 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220404130000 +0000" stop="20220404140000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220404140000 +0000" stop="20220404160000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220404160000 +0000" stop="20220404170000 +0000" channel="OROMAR">
+    <title lang="en">El Cartel de los Sapos</title>
+    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
+  </programme>
+  <programme start="20220404170000 +0000" stop="20220404180000 +0000" channel="OROMAR">
+    <title lang="en">Melek</title>
+    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  </programme>
+  <programme start="20220404180000 +0000" stop="20220404190000 +0000" channel="OROMAR">
+    <title lang="en">NTI emisión central</title>
+    <desc lang="en">Te mantenemos informado sobre lo que ocurre a nivel local y nacional.(n)</desc>
+  </programme>
+  <programme start="20220404190000 +0000" stop="20220404200000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220404200000 +0000" stop="20220404220000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220404220000 +0000" stop="20220405000000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220405000000 +0000" stop="20220405003000 +0000" channel="OROMAR">
+    <title lang="en">Lady, La Vendedora de Rosas</title>
+    <desc lang="en">La historia real de Lady Tabares , una humilde joven de las comunas de Medellín, quien asciende al estrellato tras protagonizar la película La vendedora de rosas, nominada a la Palma de Oro del Festival de Cine de Cannes.(n)</desc>
+  </programme>
+  <programme start="20220405003000 +0000" stop="20220405010000 +0000" channel="OROMAR">
+    <title lang="en">La esclava blanca</title>
+    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
+  </programme>
+  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220405020000 +0000" stop="20220405031500 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220405031500 +0000" stop="20220405040000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220405040000 +0000" stop="20220405110000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220405110000 +0000" stop="20220405114500 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220405114500 +0000" stop="20220405130000 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220405130000 +0000" stop="20220405140000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220405140000 +0000" stop="20220405160000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220405160000 +0000" stop="20220405170000 +0000" channel="OROMAR">
+    <title lang="en">El Cartel de los Sapos</title>
+    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
+  </programme>
+  <programme start="20220405170000 +0000" stop="20220405180000 +0000" channel="OROMAR">
+    <title lang="en">Melek</title>
+    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  </programme>
+  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="OROMAR">
+    <title lang="en">NTI emisión central</title>
+    <desc lang="en">Te mantenemos informado sobre lo que ocurre a nivel local y nacional.(n)</desc>
+  </programme>
+  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220405200000 +0000" stop="20220405220000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220405220000 +0000" stop="20220406000000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220406000000 +0000" stop="20220406003000 +0000" channel="OROMAR">
+    <title lang="en">Lady, La Vendedora de Rosas</title>
+    <desc lang="en">La historia real de Lady Tabares , una humilde joven de las comunas de Medellín, quien asciende al estrellato tras protagonizar la película La vendedora de rosas, nominada a la Palma de Oro del Festival de Cine de Cannes.(n)</desc>
+  </programme>
+  <programme start="20220406003000 +0000" stop="20220406010000 +0000" channel="OROMAR">
+    <title lang="en">La esclava blanca</title>
+    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
+  </programme>
+  <programme start="20220406010000 +0000" stop="20220406020000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220406020000 +0000" stop="20220406031500 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220406031500 +0000" stop="20220406040000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220406040000 +0000" stop="20220406110000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220406110000 +0000" stop="20220406114500 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220406114500 +0000" stop="20220406130000 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220406130000 +0000" stop="20220406140000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220406140000 +0000" stop="20220406160000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  </programme>
+  <programme start="20220406160000 +0000" stop="20220406170000 +0000" channel="OROMAR">
+    <title lang="en">El Cartel de los Sapos</title>
+    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
+  </programme>
+  <programme start="20220406170000 +0000" stop="20220406180000 +0000" channel="OROMAR">
+    <title lang="en">Melek</title>
+    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  </programme>
+  <programme start="20220406180000 +0000" stop="20220406190000 +0000" channel="OROMAR">
+    <title lang="en">NTI emisión central</title>
+    <desc lang="en">Te mantenemos informado sobre lo que ocurre a nivel local y nacional.(n)</desc>
+  </programme>
+  <programme start="20220406190000 +0000" stop="20220406200000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  </programme>
+  <programme start="20220406200000 +0000" stop="20220406220000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  </programme>
+  <programme start="20220406220000 +0000" stop="20220407000000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
   </programme>
 </tv>
