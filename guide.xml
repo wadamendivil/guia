@@ -635,7 +635,7 @@
   </programme>
   <programme start="20220408130000 -0300" stop="20220408134500 -0300" channel="UNIVERSAL PREMIERE">
     <title lang="es">FBI: Most Wanted</title>
-    <sub-title lang="es">El pincho</sub-title>
+    <sub-title lang="es">El Pincho</sub-title>
     <desc lang="es">Una serie que muestra el trabajo de la división del FBI que debe perseguir y capturar a los notorios criminales que integran la lista de los más buscados.(n)</desc>
   </programme>
   <programme start="20220408134500 -0300" stop="20220408143000 -0300" channel="UNIVERSAL PREMIERE">
@@ -790,7 +790,7 @@
   </programme>
   <programme start="20220409130000 -0300" stop="20220409134500 -0300" channel="UNIVERSAL PREMIERE">
     <title lang="es">FBI: Most Wanted</title>
-    <sub-title lang="es">El pincho</sub-title>
+    <sub-title lang="es">El Pincho</sub-title>
     <desc lang="es">Una serie que muestra el trabajo de la división del FBI que debe perseguir y capturar a los notorios criminales que integran la lista de los más buscados.(n)</desc>
   </programme>
   <programme start="20220409134500 -0300" stop="20220409143000 -0300" channel="UNIVERSAL PREMIERE">
@@ -8205,72 +8205,6 @@
     <sub-title lang="es">Episodio 12</sub-title>
     <desc lang="es">Dick y Angel ayudan a familias británicas que deciden abandonar su hogar y perseguir su sueño de vivir en un elegante castillo francés.(n)</desc>
   </programme>
-  <programme start="20220405000000 +0000" stop="20220405010000 +0000" channel="CANAL 3">
-    <title lang="en">María la del barrio</title>
-    <desc lang="en">Un millonario hospeda a una pobre huérfana a disgusto de su mujer y su hijo mayor, quienes conspiran para librarse de ella, pero un mar de resultados inesperados les espera.(n)</desc>
-  </programme>
-  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="CANAL 3">
-    <title lang="en">Telediario Nocturno</title>
-  </programme>
-  <programme start="20220405020000 +0000" stop="20220405040000 +0000" channel="CANAL 3">
-    <title lang="en">Combate</title>
-    <desc lang="en">Laura Fernández y Joaquín "Pollo" Álvarez conducen este reality en el que compiten dos equipos: el rojo y el verde. Ambos conformados por artistas, influencers, deportistas y modelos se enfrentan en diferentes pruebas físicas y de destreza.(n)</desc>
-  </programme>
-  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="CANAL 3">
-    <title lang="en">Anónima</title>
-    <desc lang="en">La historia de Victoria Cuartas, una mujer que paso 10 años en la cárcel por puro amor.(n)</desc>
-  </programme>
-  <programme start="20220405050000 +0000" stop="20220405060000 +0000" channel="CANAL 3">
-    <title lang="en">Criminal Minds</title>
-    <desc lang="en">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías...(n)</desc>
-  </programme>
-  <programme start="20220405060000 +0000" stop="20220405120000 +0000" channel="CANAL 3">
-    <title lang="en">Fin de transmisión</title>
-  </programme>
-  <programme start="20220405120000 +0000" stop="20220405150000 +0000" channel="CANAL 3">
-    <title lang="en">Telediario matutino</title>
-    <desc lang="en">Noticias y el tiempo.(n)</desc>
-  </programme>
-  <programme start="20220405150000 +0000" stop="20220405153000 +0000" channel="CANAL 3">
-    <title lang="en">Secretos de cocina</title>
-    <desc lang="en">Programa de recetas de cocina.(n)</desc>
-  </programme>
-  <programme start="20220405153000 +0000" stop="20220405163000 +0000" channel="CANAL 3">
-    <title lang="en">La tercera en discordia</title>
-    <desc lang="en">Programa de discusión sobre los conflictos familiares y las relaciones humanas, donde participan las partes.(n)</desc>
-  </programme>
-  <programme start="20220405163000 +0000" stop="20220405170000 +0000" channel="CANAL 3">
-    <title lang="en">¿Dónde diablos está Umaña?</title>
-    <desc lang="en">La hilarante y divertida historia de Patricio Umaña, un hombre bueno y soñador de la capital en el interior del país, de estrato alto y organizador de eventos, que después de muchos fracasos empresariales termina escapando de la justicia con toda su familia.(n)</desc>
-  </programme>
-  <programme start="20220405170000 +0000" stop="20220405180000 +0000" channel="CANAL 3">
-    <title lang="en">Todo es Prestao</title>
-    <desc lang="en">La vida y los secretos del cantante Galy Galiano.(n)</desc>
-  </programme>
-  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="CANAL 3">
-    <title lang="en">Telediario Vespertino</title>
-    <desc lang="en">Noticias y el tiempo.(n)</desc>
-  </programme>
-  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="CANAL 3">
-    <title lang="en">Tarde lo Conocí</title>
-    <desc lang="en">Patricia Teherán, a puro talento musical, logró conquistar un mundo de hombres. Gracias a su virtuosismo y optimismo, tomó por asalto con su música a un ambiente machista hasta ese momento. Fue una victoria para ella y para todas las mujeres, aunque, en el campo del amor, tuvo más fracasos que éxitos.(n)</desc>
-  </programme>
-  <programme start="20220405200000 +0000" stop="20220405210000 +0000" channel="CANAL 3">
-    <title lang="en">Sin miedo a la verdad</title>
-    <desc lang="en">Manu es un héroe cibernético que tiene un vlog, el cual utilizada de manera anónima bajo el seudónimo de Gus, con esta identidad anónima, el protege a todos los que han sido víctimas alguna injusticia. En cada episodio con sus habilidades, el resuelve casos diferentes relacionados con diversos problemas como el acoso, cyberbullying, sexting, corrupción, impunidad, tráfico de órganos, narcomenudeo on-line, retos suicidas, trata de personas, y robos de bebés.(n)</desc>
-  </programme>
-  <programme start="20220405210000 +0000" stop="20220405220000 +0000" channel="CANAL 3">
-    <title lang="en">Comisario Rex</title>
-    <desc lang="en">Un policia y su valiente compañero, un pastor alemán, luchan contra el crimen en esta popular serie alemana.(n)</desc>
-  </programme>
-  <programme start="20220405220000 +0000" stop="20220405230000 +0000" channel="CANAL 3">
-    <title lang="en">American Ninja Warrior</title>
-    <desc lang="en">Cientos de concursantes deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, para poder lograr ser el guerrero ninja americano. La competencia tiene varias etapas, que van incrementando su complejidad...(n)</desc>
-  </programme>
-  <programme start="20220405230000 +0000" stop="20220406000000 +0000" channel="CANAL 3">
-    <title lang="en">Alerta cobra</title>
-    <desc lang="en">Unos valientes policías arriesgan su vida con el único fin de hacer justicia.(n)</desc>
-  </programme>
   <programme start="20220406000000 +0000" stop="20220406010000 +0000" channel="CANAL 3">
     <title lang="en">María la del barrio</title>
     <desc lang="en">Un millonario hospeda a una pobre huérfana a disgusto de su mujer y su hijo mayor, quienes conspiran para librarse de ella, pero un mar de resultados inesperados les espera.(n)</desc>
@@ -8733,68 +8667,71 @@
     <title lang="en">Alerta cobra</title>
     <desc lang="en">Unos valientes policías arriesgan su vida con el único fin de hacer justicia.(n)</desc>
   </programme>
-  <programme start="20220405000000 +0000" stop="20220405010000 +0000" channel="TELEVISIETE">
-    <title lang="en">Si nos dejan</title>
-    <desc lang="en">Relato de la vida de Alicia Montiel una mujer de 50 años que cree tener la familia de ensueño. Ella se dedica mucho a su hogar y principalmente de su marido, el político Sergio Carranza, con el cual tuvo tres hijos.(n)</desc>
+  <programme start="20220414000000 +0000" stop="20220414010000 +0000" channel="CANAL 3">
+    <title lang="en">María la del barrio</title>
+    <desc lang="en">Un millonario hospeda a una pobre huérfana a disgusto de su mujer y su hijo mayor, quienes conspiran para librarse de ella, pero un mar de resultados inesperados les espera.(n)</desc>
   </programme>
-  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="TELEVISIETE">
-    <title lang="en">La Rosa de Guadalupe</title>
-    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
+  <programme start="20220414010000 +0000" stop="20220414020000 +0000" channel="CANAL 3">
+    <title lang="en">Telediario Nocturno</title>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="TELEVISIETE">
-    <title lang="en">Elif</title>
-    <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.(n)</desc>
+  <programme start="20220414020000 +0000" stop="20220414040000 +0000" channel="CANAL 3">
+    <title lang="en">Combate</title>
+    <desc lang="en">Laura Fernández y Joaquín "Pollo" Álvarez conducen este reality en el que compiten dos equipos: el rojo y el verde. Ambos conformados por artistas, influencers, deportistas y modelos se enfrentan en diferentes pruebas físicas y de destreza.(n)</desc>
   </programme>
-  <programme start="20220405030000 +0000" stop="20220405040000 +0000" channel="TELEVISIETE">
-    <title lang="en">Me robó mi vida</title>
-    <desc lang="en">Una joven desconoce su pasado, mientras su hermanastra le roba la identidad.(n)</desc>
+  <programme start="20220414040000 +0000" stop="20220414050000 +0000" channel="CANAL 3">
+    <title lang="en">Lady, La Vendedora de Rosas</title>
+    <desc lang="en">La historia real de Lady Tabares , una humilde joven de las comunas de Medellín, quien asciende al estrellato tras protagonizar la película La vendedora de rosas, nominada a la Palma de Oro del Festival de Cine de Cannes.(n)</desc>
   </programme>
-  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="TELEVISIETE">
-    <title lang="en">Noti 7 Nocturno</title>
-    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  <programme start="20220414050000 +0000" stop="20220414060000 +0000" channel="CANAL 3">
+    <title lang="en">Criminal Minds</title>
+    <desc lang="en">La Unidad de Análisis de Conducta es una sección del FBI sobre casos criminales con sede en Quantico, Virginia. Allí trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías...(n)</desc>
   </programme>
-  <programme start="20220405050000 +0000" stop="20220405060000 +0000" channel="TELEVISIETE">
-    <title lang="en">Primer impacto</title>
-    <desc lang="en">Espacio informativo en el que se muestran contenidos fuertes e imágenes espectaculares,.(n)</desc>
+  <programme start="20220414060000 +0000" stop="20220414120000 +0000" channel="CANAL 3">
+    <title lang="en">Fin de transmisión</title>
   </programme>
-  <programme start="20220405060000 +0000" stop="20220405120000 +0000" channel="TELEVISIETE">
-    <title lang="en">Cierre de Transmisión</title>
+  <programme start="20220414120000 +0000" stop="20220414150000 +0000" channel="CANAL 3">
+    <title lang="en">Telediario matutino</title>
+    <desc lang="en">Noticias y el tiempo.(n)</desc>
   </programme>
-  <programme start="20220405120000 +0000" stop="20220405143000 +0000" channel="TELEVISIETE">
-    <title lang="en">Noti 7 Matutino</title>
-    <desc lang="en">Programa de entretenimiento.(n)</desc>
+  <programme start="20220414150000 +0000" stop="20220414153000 +0000" channel="CANAL 3">
+    <title lang="en">Secretos de cocina</title>
+    <desc lang="en">Programa de recetas de cocina.(n)</desc>
   </programme>
-  <programme start="20220405143000 +0000" stop="20220405170000 +0000" channel="TELEVISIETE">
-    <title lang="en">Buenos días nuestro mundo</title>
-    <desc lang="en">Revista de información, turismo, medicina, deportes y diversión.(n)</desc>
+  <programme start="20220414153000 +0000" stop="20220414163000 +0000" channel="CANAL 3">
+    <title lang="en">La tercera en discordia</title>
+    <desc lang="en">Programa de discusión sobre los conflictos familiares y las relaciones humanas, donde participan las partes.(n)</desc>
   </programme>
-  <programme start="20220405170000 +0000" stop="20220405180000 +0000" channel="TELEVISIETE">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos.(n)</desc>
+  <programme start="20220414163000 +0000" stop="20220414170000 +0000" channel="CANAL 3">
+    <title lang="en">¿Dónde diablos está Umaña?</title>
+    <desc lang="en">La hilarante y divertida historia de Patricio Umaña, un hombre bueno y soñador de la capital en el interior del país, de estrato alto y organizador de eventos, que después de muchos fracasos empresariales termina escapando de la justicia con toda su familia.(n)</desc>
   </programme>
-  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="TELEVISIETE">
-    <title lang="en">Ezel</title>
-    <desc lang="en">Cuenta la historia de un hombre enamorado que es traicionado por sus amigos y por el amor de su vida.(n)</desc>
+  <programme start="20220414170000 +0000" stop="20220414180000 +0000" channel="CANAL 3">
+    <title lang="en">Todo es Prestao</title>
+    <desc lang="en">La vida y los secretos del cantante Galy Galiano.(n)</desc>
   </programme>
-  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="TELEVISIETE">
-    <title lang="en">Noti 7 - Vespertino</title>
-    <desc lang="en">Presentamos la actualidad de Guatemala y el mundo en este espacio informativo. Conoce los sucesos, datos de economía, salud, lo que ocurre en política, lo último en tecnología, cultura, reportajes, cocina y deportes.(n)</desc>
+  <programme start="20220414180000 +0000" stop="20220414190000 +0000" channel="CANAL 3">
+    <title lang="en">Telediario Vespertino</title>
+    <desc lang="en">Noticias y el tiempo.(n)</desc>
   </programme>
-  <programme start="20220405200000 +0000" stop="20220405210000 +0000" channel="TELEVISIETE">
-    <title lang="en">Amor de Contrabando</title>
-    <desc lang="en">Todo cambia en la vida de un oficial de policía cuando su prometida muere de extraña manera. Después de reponerse del enorme dolor por su pérdida, Omar sólo tiene una cosa en mente: descubrir la verdad y vengarse de los culpables, a quienes jura perseguir por todos lados hasta atraparlos.(n)</desc>
+  <programme start="20220414190000 +0000" stop="20220414200000 +0000" channel="CANAL 3">
+    <title lang="en">Tarde lo Conocí</title>
+    <desc lang="en">Patricia Teherán, a puro talento musical, logró conquistar un mundo de hombres. Gracias a su virtuosismo y optimismo, tomó por asalto con su música a un ambiente machista hasta ese momento. Fue una victoria para ella y para todas las mujeres, aunque, en el campo del amor, tuvo más fracasos que éxitos.(n)</desc>
   </programme>
-  <programme start="20220405210000 +0000" stop="20220405220000 +0000" channel="TELEVISIETE">
-    <title lang="en">Vencer el Pasado</title>
-    <desc lang="en">Renata es una joven y destacada bióloga molecular. Tiene un trabajo envidiable y está a punto de casarse con Alonso, su novio de la universidad. Un video donde aparece besando a un compañero de trabajo por una confusión le trae consecuencias graves.(n)</desc>
+  <programme start="20220414200000 +0000" stop="20220414210000 +0000" channel="CANAL 3">
+    <title lang="en">Sin miedo a la verdad</title>
+    <desc lang="en">Manu es un héroe cibernético que tiene un vlog, el cual utilizada de manera anónima bajo el seudónimo de Gus, con esta identidad anónima, el protege a todos los que han sido víctimas alguna injusticia. En cada episodio con sus habilidades, el resuelve casos diferentes relacionados con diversos problemas como el acoso, cyberbullying, sexting, corrupción, impunidad, tráfico de órganos, narcomenudeo on-line, retos suicidas, trata de personas, y robos de bebés.(n)</desc>
   </programme>
-  <programme start="20220405220000 +0000" stop="20220405230000 +0000" channel="TELEVISIETE">
-    <title lang="en">Como dice el dicho</title>
-    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
+  <programme start="20220414210000 +0000" stop="20220414220000 +0000" channel="CANAL 3">
+    <title lang="en">Comisario Rex</title>
+    <desc lang="en">Un policia y su valiente compañero, un pastor alemán, luchan contra el crimen en esta popular serie alemana.(n)</desc>
   </programme>
-  <programme start="20220405230000 +0000" stop="20220406000000 +0000" channel="TELEVISIETE">
-    <title lang="en">Caso cerrado</title>
-    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos.(n)</desc>
+  <programme start="20220414220000 +0000" stop="20220414230000 +0000" channel="CANAL 3">
+    <title lang="en">American Ninja Warrior</title>
+    <desc lang="en">Cientos de concursantes deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, para poder lograr ser el guerrero ninja americano. La competencia tiene varias etapas, que van incrementando su complejidad...(n)</desc>
+  </programme>
+  <programme start="20220414230000 +0000" stop="20220415000000 +0000" channel="CANAL 3">
+    <title lang="en">Alerta cobra</title>
+    <desc lang="en">Unos valientes policías arriesgan su vida con el único fin de hacer justicia.(n)</desc>
   </programme>
   <programme start="20220406000000 +0000" stop="20220406010000 +0000" channel="TELEVISIETE">
     <title lang="en">Si nos dejan</title>
@@ -9271,92 +9208,68 @@
     <title lang="en">Caso cerrado</title>
     <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos.(n)</desc>
   </programme>
-  <programme start="20220405000000 +0000" stop="20220405010000 +0000" channel="TELEONCE">
-    <title lang="en">Smallville</title>
-    <desc lang="en">Un drama sobre la adolescencia de Superman, después de su llegada del espacio a Smallville, Kansas como un niño de tres años de edad, durante una lluvia de meteoro en 1989.(n)</desc>
+  <programme start="20220414000000 +0000" stop="20220414010000 +0000" channel="TELEVISIETE">
+    <title lang="en">Si nos dejan</title>
+    <desc lang="en">Relato de la vida de Alicia Montiel una mujer de 50 años que cree tener la familia de ensueño. Ella se dedica mucho a su hogar y principalmente de su marido, el político Sergio Carranza, con el cual tuvo tres hijos.(n)</desc>
   </programme>
-  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="TELEONCE">
-    <title lang="en">Ghost Whisperer</title>
-    <desc lang="en">Una mujer recién casada trata de ayudar a los muertos a comunicarse con sus seres queridos. Melinda Gordon es una mujer joven que se comunica con los espíritus de personas que han fallecido y están aferrados a la vida terrenal en busca de ayuda. Ella usa su habilidad para transmitir mensajes importantes a los familiares de los difuntos.(n)</desc>
+  <programme start="20220414010000 +0000" stop="20220414020000 +0000" channel="TELEVISIETE">
+    <title lang="en">La Rosa de Guadalupe</title>
+    <desc lang="en">La Virgen de Guadalupe se ha convertido en estandarte de millones de mexicanos. Cada uno de sus milagros se traducen en historias, de amor, desamor, esperanza, lucha e intriga. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, entre otros.(n)</desc>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405040000 +0000" channel="TELEONCE">
-    <title lang="en">Cinema once</title>
-    <desc lang="en">¡El espacio de películas de tu canal favorito!... Horario especial en el que se presentan diversos filmes, que abarcan desde los clásicos cinematográficos del cine (Superman, El Mago de Oz, E.T., entre otros), hasta las películas más aclamadas en los más grandes festivales internacionales de la industria del cine.(n)</desc>
+  <programme start="20220414020000 +0000" stop="20220414030000 +0000" channel="TELEVISIETE">
+    <title lang="en">Elif</title>
+    <desc lang="en">Elif es separada de su madre y enviada a vivir con una amiga de ella que es ama de llaves de la magnifica mansión en la que vive su padre y la familia de este, sin que su progenitor sepa de la relación de parentesco que les une.(n)</desc>
   </programme>
-  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="TELEONCE">
-    <title lang="en">Area Grande</title>
-    <desc lang="en">Programa de actualidad futbolística.(n)</desc>
+  <programme start="20220414030000 +0000" stop="20220414040000 +0000" channel="TELEVISIETE">
+    <title lang="en">Me robó mi vida</title>
+    <desc lang="en">Una joven desconoce su pasado, mientras su hermanastra le roba la identidad.(n)</desc>
   </programme>
-  <programme start="20220405050000 +0000" stop="20220405070000 +0000" channel="TELEONCE">
-    <title lang="en">Cine Mexicano nocturno</title>
-    <desc lang="en">Segmento de peliculas mexicanas.(n)</desc>
+  <programme start="20220414040000 +0000" stop="20220414050000 +0000" channel="TELEVISIETE">
+    <title lang="en">Noti 7 Nocturno</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
   </programme>
-  <programme start="20220405070000 +0000" stop="20220405080000 +0000" channel="TELEONCE">
-    <title lang="en">A Confirmar</title>
-    <desc lang="en">Programa de entretenimiento musical.(n)</desc>
+  <programme start="20220414050000 +0000" stop="20220414060000 +0000" channel="TELEVISIETE">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Espacio informativo en el que se muestran contenidos fuertes e imágenes espectaculares,.(n)</desc>
   </programme>
-  <programme start="20220405080000 +0000" stop="20220405100000 +0000" channel="TELEONCE">
-    <title lang="en">Cinema once</title>
-    <desc lang="en">¡El espacio de películas de tu canal favorito!... Horario especial en el que se presentan diversos filmes, que abarcan desde los clásicos cinematográficos del cine (Superman, El Mago de Oz, E.T., entre otros), hasta las películas más aclamadas en los más grandes festivales internacionales de la industria del cine.(n)</desc>
+  <programme start="20220414060000 +0000" stop="20220414120000 +0000" channel="TELEVISIETE">
+    <title lang="en">Cierre de Transmisión</title>
   </programme>
-  <programme start="20220405100000 +0000" stop="20220405120000 +0000" channel="TELEONCE">
-    <title lang="en">Cine Mexicano nocturno</title>
-    <desc lang="en">Segmento de peliculas mexicanas.(n)</desc>
+  <programme start="20220414120000 +0000" stop="20220414143000 +0000" channel="TELEVISIETE">
+    <title lang="en">Noti 7 Matutino</title>
+    <desc lang="en">Programa de entretenimiento.(n)</desc>
   </programme>
-  <programme start="20220405120000 +0000" stop="20220405140000 +0000" channel="TELEONCE">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
+  <programme start="20220414143000 +0000" stop="20220414170000 +0000" channel="TELEVISIETE">
+    <title lang="en">Buenos días nuestro mundo</title>
+    <desc lang="en">Revista de información, turismo, medicina, deportes y diversión.(n)</desc>
   </programme>
-  <programme start="20220405140000 +0000" stop="20220405150000 +0000" channel="TELEONCE">
-    <title lang="en">Plaza Sésamo</title>
-    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones.(n)</desc>
+  <programme start="20220414170000 +0000" stop="20220414180000 +0000" channel="TELEVISIETE">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos.(n)</desc>
   </programme>
-  <programme start="20220405150000 +0000" stop="20220405153000 +0000" channel="TELEONCE">
-    <title lang="en">Disney Stitch!</title>
+  <programme start="20220414180000 +0000" stop="20220414190000 +0000" channel="TELEVISIETE">
+    <title lang="en">Ezel</title>
+    <desc lang="en">Cuenta la historia de un hombre enamorado que es traicionado por sus amigos y por el amor de su vida.(n)</desc>
   </programme>
-  <programme start="20220405153000 +0000" stop="20220405160000 +0000" channel="TELEONCE">
-    <title lang="en">La abeja Maya</title>
-    <desc lang="en">La pequeña abeja melífera Maya, junto con su amigo de la escuela Willi, el saltamontes Flip y la lombriz de tierra Max emprenden muchas aventuras emocionantes en los prados y bosques de los alrededores.(n)</desc>
+  <programme start="20220414190000 +0000" stop="20220414200000 +0000" channel="TELEVISIETE">
+    <title lang="en">Noti 7 - Vespertino</title>
+    <desc lang="en">Presentamos la actualidad de Guatemala y el mundo en este espacio informativo. Conoce los sucesos, datos de economía, salud, lo que ocurre en política, lo último en tecnología, cultura, reportajes, cocina y deportes.(n)</desc>
   </programme>
-  <programme start="20220405160000 +0000" stop="20220405163000 +0000" channel="TELEONCE">
-    <title lang="en">A.T.O.M</title>
-    <desc lang="en">Las aventuras de cinco adolescentes.(n)</desc>
+  <programme start="20220414200000 +0000" stop="20220414210000 +0000" channel="TELEVISIETE">
+    <title lang="en">Amor de Contrabando</title>
+    <desc lang="en">Todo cambia en la vida de un oficial de policía cuando su prometida muere de extraña manera. Después de reponerse del enorme dolor por su pérdida, Omar sólo tiene una cosa en mente: descubrir la verdad y vengarse de los culpables, a quienes jura perseguir por todos lados hasta atraparlos.(n)</desc>
   </programme>
-  <programme start="20220405163000 +0000" stop="20220405170000 +0000" channel="TELEONCE">
-    <title lang="en">El Chavo animado</title>
-    <desc lang="en">El profesor Jirafales llega a la vecindad y cae en un hoyo el Chavo le explica que los están cavando para plantar árboles y tener animalitos. El Sr. Barriga les explica a todos los inquilinos que ha decidido vender la vecindad a su amigo Rufino Malacara. Todos se asustan y se preocupan, pero Rufino les asegura que él hará que sus vidas cambien. Le entrega un cheque al Sr. Barriga, y toma posesión de la vecindad.(n)</desc>
+  <programme start="20220414210000 +0000" stop="20220414220000 +0000" channel="TELEVISIETE">
+    <title lang="en">Vencer el Pasado</title>
+    <desc lang="en">Renata es una joven y destacada bióloga molecular. Tiene un trabajo envidiable y está a punto de casarse con Alonso, su novio de la universidad. Un video donde aparece besando a un compañero de trabajo por una confusión le trae consecuencias graves.(n)</desc>
   </programme>
-  <programme start="20220405170000 +0000" stop="20220405173000 +0000" channel="TELEONCE">
-    <title lang="en">Los Padrinos Magicos</title>
-    <desc lang="en">¡Timmy Turner, un niño de 10 años, lo ha tenido con su niñera! Convoca a sus padrinos de hadas que tienen el poder de concederle deseos. Algunos de los deseos son realmente útiles, otros no funcionan tan bien.(n)</desc>
+  <programme start="20220414220000 +0000" stop="20220414230000 +0000" channel="TELEVISIETE">
+    <title lang="en">Como dice el dicho</title>
+    <desc lang="en">Sergio Corona en compañía de Mario Bautista, Brisa Carrillo y Benny Emmanuel te traen historias llenas de emociones con las que te podrás identificar, ellos tienen un café, donde los clientes escriben en sus paredes los refranes que se acomodan a sus historias, las cuales luego son dramatizadas conmovedoramente.(n)</desc>
   </programme>
-  <programme start="20220405173000 +0000" stop="20220405180000 +0000" channel="TELEONCE">
-    <title lang="en">Goof Troop</title>
-    <desc lang="en">Goofy vuelve a su pueblo natal donde el desafortunado canino se encarga de la crianza de su hijo Max.(n)</desc>
-  </programme>
-  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="TELEONCE">
-    <title lang="en">Falling skies</title>
-    <desc lang="en">Supervivientes de un ataque alienígena toman armas dispuestos a luchar por sus vidas. En el centro de la historia un padre de familia lidera a los humanos insurgentes.(n)</desc>
-  </programme>
-  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="TELEONCE">
-    <title lang="en">Guardianes de la Bahía</title>
-    <desc lang="en">Serie juvenil que narra las aventuras de un equipo de jóvenes socorristas encargados de vigilar las playas de Malibu (California), liderados por el teniente Mitch Buchannan.(n)</desc>
-  </programme>
-  <programme start="20220405200000 +0000" stop="20220405210000 +0000" channel="TELEONCE">
-    <title lang="en">Survivor</title>
-    <desc lang="en">Personas compiten por un millón de dólares mientras intentan sobrevivir en un lugar remoto.(n)</desc>
-  </programme>
-  <programme start="20220405210000 +0000" stop="20220405230000 +0000" channel="TELEONCE">
-    <title lang="en">Psíquico</title>
-    <desc lang="en">Las graciosas aventuras de una agencia de detectives regentada por un hombre que finge ser psíquico, y su compañero.(n)</desc>
-  </programme>
-  <programme start="20220405230000 +0000" stop="20220405233000 +0000" channel="TELEONCE">
-    <title lang="en">Shake It Up</title>
-    <desc lang="en">Dos mejores amigas se convierten en bailarinas para un programa local en Chicago.(n)</desc>
-  </programme>
-  <programme start="20220405233000 +0000" stop="20220406000000 +0000" channel="TELEONCE">
-    <title lang="en">Jessie</title>
-    <desc lang="en">Una adolescente de Texas se muda a Nueva York y se convierte en niñera de los cuatro hijos de una pareja adinerada.(n)</desc>
+  <programme start="20220414230000 +0000" stop="20220415000000 +0000" channel="TELEVISIETE">
+    <title lang="en">Caso cerrado</title>
+    <desc lang="en">Una juez decide los díficiles y conmovedores casos de vida real en su corte televisiva, en esta ocasión con casos más atrevidos.(n)</desc>
   </programme>
   <programme start="20220406000000 +0000" stop="20220406010000 +0000" channel="TELEONCE">
     <title lang="en">Smallville</title>
@@ -10086,86 +9999,92 @@
     <title lang="en">Jessie</title>
     <desc lang="en">Una adolescente de Texas se muda a Nueva York y se convierte en niñera de los cuatro hijos de una pareja adinerada.(n)</desc>
   </programme>
-  <programme start="20220405000000 +0000" stop="20220405010000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Nuevo Rico, Nuevo Pobre (new)</title>
-    <desc lang="en">Dos hombres que de niños fueron intercambiados, vuelven con sus familias biológicas para vivir vidas en clases sociales diferentes.(n)</desc>
+  <programme start="20220414000000 +0000" stop="20220414010000 +0000" channel="TELEONCE">
+    <title lang="en">Smallville</title>
+    <desc lang="en">Un drama sobre la adolescencia de Superman, después de su llegada del espacio a Smallville, Kansas como un niño de tres años de edad, durante una lluvia de meteoro en 1989.(n)</desc>
   </programme>
-  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="AZTECA GUATE">
-    <title lang="en">El secreto de Feriha</title>
-    <desc lang="en">Feriha es una joven humilde de Estambul que, tras ser becada en una universidad de élite, se hace pasar por una joven millonaria aunque eso signifique vivir atrapada en sus propias mentiras.(n)</desc>
+  <programme start="20220414010000 +0000" stop="20220414020000 +0000" channel="TELEONCE">
+    <title lang="en">Ghost Whisperer</title>
+    <desc lang="en">Una mujer recién casada trata de ayudar a los muertos a comunicarse con sus seres queridos. Melinda Gordon es una mujer joven que se comunica con los espíritus de personas que han fallecido y están aferrados a la vida terrenal en busca de ayuda. Ella usa su habilidad para transmitir mensajes importantes a los familiares de los difuntos.(n)</desc>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Yo soy Betty, la fea</title>
-    <desc lang="en">Una joven poco agraciada se dedica a estudiar y a prepararse profesionalmente, mientras sus conocidas se dedican a parrandear y a aventurar en el amor.(n)</desc>
+  <programme start="20220414020000 +0000" stop="20220414040000 +0000" channel="TELEONCE">
+    <title lang="en">Cinema once</title>
+    <desc lang="en">¡El espacio de películas de tu canal favorito!... Horario especial en el que se presentan diversos filmes, que abarcan desde los clásicos cinematográficos del cine (Superman, El Mago de Oz, E.T., entre otros), hasta las películas más aclamadas en los más grandes festivales internacionales de la industria del cine.(n)</desc>
   </programme>
-  <programme start="20220405030000 +0000" stop="20220405040000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Hechos</title>
-    <desc lang="en">Los más importantes acontecimientos son presentados desde una perspectiva objetiva, pluralista y profesional. Resumen de las noticias que tú necesitas conocer al detalle.(n)</desc>
+  <programme start="20220414040000 +0000" stop="20220414050000 +0000" channel="TELEONCE">
+    <title lang="en">Area Grande</title>
+    <desc lang="en">Programa de actualidad futbolística.(n)</desc>
   </programme>
-  <programme start="20220405040000 +0000" stop="20220405043000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Los prota</title>
+  <programme start="20220414050000 +0000" stop="20220414070000 +0000" channel="TELEONCE">
+    <title lang="en">Cine Mexicano nocturno</title>
+    <desc lang="en">Segmento de peliculas mexicanas.(n)</desc>
   </programme>
-  <programme start="20220405043000 +0000" stop="20220405050000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Estado de la nación</title>
-    <desc lang="en">Este informe es un sistema de seguimiento del desempeño del país. Y para ello se utiliza una selección, medición y evaluación de un conjunto de componentes del Desarrollo Humano Sostenible que cubren los aspectos sociales, económicos, ambientales y políticos del desarrollo. Se basa en cuatro pilares: Equidad e Integración Social, Oportunidades, Estabilidad y Solvencia Económicas, Armonía con la Naturaleza y Fortalecimiento de la Democracia.(n)</desc>
+  <programme start="20220414070000 +0000" stop="20220414080000 +0000" channel="TELEONCE">
+    <title lang="en">A Confirmar</title>
+    <desc lang="en">Programa de entretenimiento musical.(n)</desc>
   </programme>
-  <programme start="20220405050000 +0000" stop="20220405053000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Casa de Dios</title>
-    <desc lang="en">El Pastor Cash Luna con un mensaje de fe, renovador y lleno de presencia del Espíritu Santo. Con la visión de discipular, en Casa de Dios trabajamos para compartir las buenas nuevas de Jesucristo. Por medio de grupos de amistad, programas de televisión y radio, redes sociales, youTube, iglesia en línea, literatura, congresos internacionales y cruzadas de sanidad hemos compartido el amor de Dios con millones de personas que lo han recibido como su Señor y han transformado su vida.(n)</desc>
+  <programme start="20220414080000 +0000" stop="20220414100000 +0000" channel="TELEONCE">
+    <title lang="en">Cinema once</title>
+    <desc lang="en">¡El espacio de películas de tu canal favorito!... Horario especial en el que se presentan diversos filmes, que abarcan desde los clásicos cinematográficos del cine (Superman, El Mago de Oz, E.T., entre otros), hasta las películas más aclamadas en los más grandes festivales internacionales de la industria del cine.(n)</desc>
   </programme>
-  <programme start="20220405053000 +0000" stop="20220405060000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Difícil de creer</title>
-    <desc lang="en">Se exploran sucesos paranormales, misterios no resueltos, acontecimientos sobrenaturales y mitos.(n)</desc>
+  <programme start="20220414100000 +0000" stop="20220414120000 +0000" channel="TELEONCE">
+    <title lang="en">Cine Mexicano nocturno</title>
+    <desc lang="en">Segmento de peliculas mexicanas.(n)</desc>
   </programme>
-  <programme start="20220405060000 +0000" stop="20220405080000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Café A.M</title>
+  <programme start="20220414120000 +0000" stop="20220414140000 +0000" channel="TELEONCE">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
-  <programme start="20220405080000 +0000" stop="20220405090000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Que chilero</title>
-    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  <programme start="20220414140000 +0000" stop="20220414150000 +0000" channel="TELEONCE">
+    <title lang="en">Plaza Sésamo</title>
+    <desc lang="en">Programa infantil educativo, famoso mundialmente por sus personajes. Los niños aprenden números y letras a través de juegos y canciones.(n)</desc>
   </programme>
-  <programme start="20220405090000 +0000" stop="20220405100000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Hechos</title>
-    <desc lang="en">Los más importantes acontecimientos son presentados desde una perspectiva objetiva, pluralista y profesional. Resumen de las noticias que tú necesitas conocer al detalle.(n)</desc>
+  <programme start="20220414150000 +0000" stop="20220414153000 +0000" channel="TELEONCE">
+    <title lang="en">Disney Stitch!</title>
   </programme>
-  <programme start="20220405100000 +0000" stop="20220405110000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Azteca hits</title>
+  <programme start="20220414153000 +0000" stop="20220414160000 +0000" channel="TELEONCE">
+    <title lang="en">La abeja Maya</title>
+    <desc lang="en">La pequeña abeja melífera Maya, junto con su amigo de la escuela Willi, el saltamontes Flip y la lombriz de tierra Max emprenden muchas aventuras emocionantes en los prados y bosques de los alrededores.(n)</desc>
   </programme>
-  <programme start="20220405110000 +0000" stop="20220405110500 +0000" channel="AZTECA GUATE">
-    <title lang="en">Himno nacional</title>
+  <programme start="20220414160000 +0000" stop="20220414163000 +0000" channel="TELEONCE">
+    <title lang="en">A.T.O.M</title>
+    <desc lang="en">Las aventuras de cinco adolescentes.(n)</desc>
   </programme>
-  <programme start="20220405110500 +0000" stop="20220405113000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Problemas y soluciones</title>
+  <programme start="20220414163000 +0000" stop="20220414170000 +0000" channel="TELEONCE">
+    <title lang="en">El Chavo animado</title>
+    <desc lang="en">El profesor Jirafales llega a la vecindad y cae en un hoyo el Chavo le explica que los están cavando para plantar árboles y tener animalitos. El Sr. Barriga les explica a todos los inquilinos que ha decidido vender la vecindad a su amigo Rufino Malacara. Todos se asustan y se preocupan, pero Rufino les asegura que él hará que sus vidas cambien. Le entrega un cheque al Sr. Barriga, y toma posesión de la vecindad.(n)</desc>
   </programme>
-  <programme start="20220405113000 +0000" stop="20220405130000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Hechos A.M.</title>
-    <desc lang="en">Se presentan los sucesos generados durante el día, y también información en el momento justo en que está ocurriendo. Sus conductores transmiten al mismo tiempo juventud y experiencia: son amables, frescos, amenos y críticos.(n)</desc>
+  <programme start="20220414170000 +0000" stop="20220414173000 +0000" channel="TELEONCE">
+    <title lang="en">Los Padrinos Magicos</title>
+    <desc lang="en">¡Timmy Turner, un niño de 10 años, lo ha tenido con su niñera! Convoca a sus padrinos de hadas que tienen el poder de concederle deseos. Algunos de los deseos son realmente útiles, otros no funcionan tan bien.(n)</desc>
   </programme>
-  <programme start="20220405130000 +0000" stop="20220405150000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Café A.M</title>
+  <programme start="20220414173000 +0000" stop="20220414180000 +0000" channel="TELEONCE">
+    <title lang="en">Disney's Quack Pack</title>
+    <desc lang="en">Donald deberá hacer malabares para combinar su carrera profesional, su relación con Daisy, pelear batallas virtuales con extraterrestres, mientras trabaja en televisión realizando disparatados reportes.(n)</desc>
   </programme>
-  <programme start="20220405150000 +0000" stop="20220405190000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Venga la alegría</title>
-    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  <programme start="20220414180000 +0000" stop="20220414190000 +0000" channel="TELEONCE">
+    <title lang="en">Falling skies</title>
+    <desc lang="en">Supervivientes de un ataque alienígena toman armas dispuestos a luchar por sus vidas. En el centro de la historia un padre de familia lidera a los humanos insurgentes.(n)</desc>
   </programme>
-  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Hechos Meridiano</title>
-    <desc lang="en">Un resumen de las ultimas noticias acontecidas en el día, videos y reportajes exclusivos con temas de México, Latinoamérica y el mundo, a cargo del excelente equipo periodístico de Azteca Noticias. De la mano con los periodistas Christian Lara y Alejandro Villalvazo quienes destacan su estilo concreto y veraz.(n)</desc>
+  <programme start="20220414190000 +0000" stop="20220414200000 +0000" channel="TELEONCE">
+    <title lang="en">Guardianes de la Bahía</title>
+    <desc lang="en">Serie juvenil que narra las aventuras de un equipo de jóvenes socorristas encargados de vigilar las playas de Malibu (California), liderados por el teniente Mitch Buchannan.(n)</desc>
   </programme>
-  <programme start="20220405200000 +0000" stop="20220405210000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Al Extremo</title>
-    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  <programme start="20220414200000 +0000" stop="20220414210000 +0000" channel="TELEONCE">
+    <title lang="en">Survivor</title>
+    <desc lang="en">Personas compiten por un millón de dólares mientras intentan sobrevivir en un lugar remoto.(n)</desc>
   </programme>
-  <programme start="20220405210000 +0000" stop="20220405220000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Lo que callamos las mujeres</title>
-    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  <programme start="20220414210000 +0000" stop="20220414230000 +0000" channel="TELEONCE">
+    <title lang="en">Psíquico</title>
+    <desc lang="en">Las graciosas aventuras de una agencia de detectives regentada por un hombre que finge ser psíquico, y su compañero.(n)</desc>
   </programme>
-  <programme start="20220405220000 +0000" stop="20220405230000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Azteca hits</title>
+  <programme start="20220414230000 +0000" stop="20220414233000 +0000" channel="TELEONCE">
+    <title lang="en">Shake It Up</title>
+    <desc lang="en">Dos mejores amigas se convierten en bailarinas para un programa local en Chicago.(n)</desc>
   </programme>
-  <programme start="20220405230000 +0000" stop="20220406000000 +0000" channel="AZTECA GUATE">
-    <title lang="en">Que chilero</title>
-    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  <programme start="20220414233000 +0000" stop="20220415000000 +0000" channel="TELEONCE">
+    <title lang="en">Jessie</title>
+    <desc lang="en">Una adolescente de Texas se muda a Nueva York y se convierte en niñera de los cuatro hijos de una pareja adinerada.(n)</desc>
   </programme>
   <programme start="20220406000000 +0000" stop="20220406010000 +0000" channel="AZTECA GUATE">
     <title lang="en">Nuevo Rico, Nuevo Pobre</title>
@@ -10844,90 +10763,89 @@
     <title lang="en">Que chilero</title>
     <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
   </programme>
-  <programme start="20220405000000 +0000" stop="20220405010000 +0000" channel="TRECEVISION">
-    <title lang="en">Violetta</title>
-    <desc lang="en">La historia de una adolescente que tras vivir muchos años en Europa, regresa a su Argentina natal. Allí, encontrará verdaderos amigos, hallará el amor, descubrirá su vocación por la música y construirá la magnífica experiencia de crecer.(n)</desc>
+  <programme start="20220414000000 +0000" stop="20220414010000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Nuevo Rico, Nuevo Pobre</title>
+    <desc lang="en">Dos hombres que de niños fueron intercambiados, vuelven con sus familias biológicas para vivir vidas en clases sociales diferentes.(n)</desc>
   </programme>
-  <programme start="20220405010000 +0000" stop="20220405013000 +0000" channel="TRECEVISION">
-    <title lang="en">El nuevo show de la Pantera Rosa</title>
-    <desc lang="en">Una pantera con la particularidad de que es color rosa, que se involucra en diferentes actividades con la intención de realizar sus propias ideas, pero termina ocasionando accidentese involucrandose en aventuras insospechadas.(n)</desc>
+  <programme start="20220414010000 +0000" stop="20220414020000 +0000" channel="AZTECA GUATE">
+    <title lang="en">El secreto de Feriha</title>
+    <desc lang="en">Feriha es una joven humilde de Estambul que, tras ser becada en una universidad de élite, se hace pasar por una joven millonaria aunque eso signifique vivir atrapada en sus propias mentiras.(n)</desc>
   </programme>
-  <programme start="20220405013000 +0000" stop="20220405020000 +0000" channel="TRECEVISION">
-    <title lang="en">Tom and Jerry Show</title>
-    <desc lang="en">¡Acompaña a Tom y Jerry en el show en el que vivirán nuevas y divertidísimas aventuras mientras pelean por su territorio! Este travieso dúo está listo para volver a la acción con nuevas diabluras. ¿Los atraparán esta vez?(n)</desc>
+  <programme start="20220414020000 +0000" stop="20220414030000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Yo soy Betty, la fea</title>
+    <desc lang="en">Una joven poco agraciada se dedica a estudiar y a prepararse profesionalmente, mientras sus conocidas se dedican a parrandear y a aventurar en el amor.(n)</desc>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="TRECEVISION">
-    <title lang="en">Los Picapiedra</title>
-    <desc lang="en">Las aventuras de una familia de la Edad de Piedra, Pedro y Vilma Picapiedra, y sus vecinos, Pablo y Betty, en el pueblo prehistórico de Piedradura. La serie estrenó el 30 de septiembre de 1960 en la ABC y terminó el 2 de septiembre de 1966.(n)</desc>
+  <programme start="20220414030000 +0000" stop="20220414040000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Hechos</title>
+    <desc lang="en">Los más importantes acontecimientos son presentados desde una perspectiva objetiva, pluralista y profesional. Resumen de las noticias que tú necesitas conocer al detalle.(n)</desc>
   </programme>
-  <programme start="20220405030000 +0000" stop="20220405040000 +0000" channel="TRECEVISION">
-    <title lang="en">T 13 noticias</title>
+  <programme start="20220414040000 +0000" stop="20220414043000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Los prota</title>
   </programme>
-  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="TRECEVISION">
-    <title lang="en">América Deportes</title>
-    <desc lang="en">Programa conducido por Gonzalo Nuñez y Erick Osores. La dupla es la encargada de narrar los acontecimientos más importantes en el mundo del deporte.(n)</desc>
+  <programme start="20220414043000 +0000" stop="20220414050000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Veneno</title>
+    <desc lang="en">Valeria está por embarcarse en la aventura de su vida cuando conoce a su ídola.(n)</desc>
   </programme>
-  <programme start="20220405050000 +0000" stop="20220405060000 +0000" channel="TRECEVISION">
-    <title lang="en">NCIS</title>
-    <desc lang="en">Justicia e investigaciones se llevan a cabo dentro del hermético mundo de la marina de los EE.UU. Esta exitosa serie es derivada de 'JAG: Justicia Militar'.(n)</desc>
+  <programme start="20220414050000 +0000" stop="20220414053000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Casa de Dios</title>
+    <desc lang="en">El Pastor Cash Luna con un mensaje de fe, renovador y lleno de presencia del Espíritu Santo. Con la visión de discipular, en Casa de Dios trabajamos para compartir las buenas nuevas de Jesucristo. Por medio de grupos de amistad, programas de televisión y radio, redes sociales, youTube, iglesia en línea, literatura, congresos internacionales y cruzadas de sanidad hemos compartido el amor de Dios con millones de personas que lo han recibido como su Señor y han transformado su vida.(n)</desc>
   </programme>
-  <programme start="20220405060000 +0000" stop="20220405120000 +0000" channel="TRECEVISION">
-    <title lang="en">Fin de transmisión</title>
+  <programme start="20220414053000 +0000" stop="20220414060000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Difícil de creer</title>
+    <desc lang="en">Se exploran sucesos paranormales, misterios no resueltos, acontecimientos sobrenaturales y mitos.(n)</desc>
   </programme>
-  <programme start="20220405120000 +0000" stop="20220405130000 +0000" channel="TRECEVISION">
-    <title lang="en">Planet's Funniest Animals</title>
-    <desc lang="en">Un vistazo a unas situaciones cómicas en el mundo de los animales, tanto domésticos como salvajes. Incluye unos videos caseros y unas secuencias documentales.(n)</desc>
+  <programme start="20220414060000 +0000" stop="20220414080000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Café A.M</title>
   </programme>
-  <programme start="20220405130000 +0000" stop="20220405140000 +0000" channel="TRECEVISION">
-    <title lang="en">Just kidding</title>
-    <desc lang="en">Programa en donde niños hacen bromas a gente.(n)</desc>
+  <programme start="20220414080000 +0000" stop="20220414090000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
   </programme>
-  <programme start="20220405140000 +0000" stop="20220405180000 +0000" channel="TRECEVISION">
-    <title lang="en">Despierta América</title>
-    <desc lang="en">Un programa diario de entrevistas, noticias, entretenimiento e informes especiales, transmitido en vivo desde Miami.(n)</desc>
+  <programme start="20220414090000 +0000" stop="20220414100000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Hechos</title>
+    <desc lang="en">Los más importantes acontecimientos son presentados desde una perspectiva objetiva, pluralista y profesional. Resumen de las noticias que tú necesitas conocer al detalle.(n)</desc>
   </programme>
-  <programme start="20220405180000 +0000" stop="20220405183000 +0000" channel="TRECEVISION">
-    <title lang="en">Popcorn TV</title>
-    <desc lang="en">Un compilado de videos chistosos de cámaras escondidas.(n)</desc>
+  <programme start="20220414100000 +0000" stop="20220414110000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Azteca hits</title>
   </programme>
-  <programme start="20220405183000 +0000" stop="20220405190000 +0000" channel="TRECEVISION">
-    <title lang="en">Just for laughs gags</title>
+  <programme start="20220414110000 +0000" stop="20220414110500 +0000" channel="AZTECA GUATE">
+    <title lang="en">Himno nacional</title>
   </programme>
-  <programme start="20220405190000 +0000" stop="20220405193000 +0000" channel="TRECEVISION">
-    <title lang="en">Randy Cunningham: 9th grade ninja</title>
-    <desc lang="en">Vibrantes aventuras de un héroe poco probable, Randy Cunningham, quien es elegido para ser ninja, por ser el único capaz de proteger a su escuela y al mundo de una destrucción segura.(n)</desc>
+  <programme start="20220414110500 +0000" stop="20220414113000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Problemas y soluciones</title>
   </programme>
-  <programme start="20220405193000 +0000" stop="20220405200000 +0000" channel="TRECEVISION">
-    <title lang="en">Jake and the Neverland Pirates</title>
-    <desc lang="en">Jake y los Piratas del Nunca Jamás se basa en Peter Pan, que a su vez se basa en el famoso libro y el juego por el autor británico JM Barrie.(n)</desc>
+  <programme start="20220414113000 +0000" stop="20220414130000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Se presentan los sucesos generados durante el día, y también información en el momento justo en que está ocurriendo. Sus conductores transmiten al mismo tiempo juventud y experiencia: son amables, frescos, amenos y críticos.(n)</desc>
   </programme>
-  <programme start="20220405200000 +0000" stop="20220405203000 +0000" channel="TRECEVISION">
-    <title lang="en">Jason and the Heroes of Mount Olympus</title>
-    <desc lang="en">Jason, un niño con una gran imaginación, viaja al mitológico Mundo Antiguo al subir el Monte Olimpo, y se involucra en una serie de aventuras junto a unos amigos animales.(n)</desc>
+  <programme start="20220414130000 +0000" stop="20220414143000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Café A.M</title>
   </programme>
-  <programme start="20220405203000 +0000" stop="20220405210000 +0000" channel="TRECEVISION">
-    <title lang="en">Ben 10: Ultimate Alien</title>
-    <desc lang="en">Serie de dibujos animados sobre un superhéroe de 16 años llamado Ben Tennyson, quien lucha contra villanos usando el Ultimatrix, un aparato que lo transforma en diversos héroes alienígenas.(n)</desc>
+  <programme start="20220414143000 +0000" stop="20220414150000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Café A.M</title>
   </programme>
-  <programme start="20220405210000 +0000" stop="20220405213000 +0000" channel="TRECEVISION">
-    <title lang="en">Ultimate Spider-Man</title>
-    <desc lang="en">Un joven lucha contra el crimen y trata de mantener en secreto su identidad como el Hombre Araña mientras se adapta a las presiones de la adolescencia en casa y en la escuela secundaria.(n)</desc>
+  <programme start="20220414150000 +0000" stop="20220414190000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
   </programme>
-  <programme start="20220405213000 +0000" stop="20220405220000 +0000" channel="TRECEVISION">
-    <title lang="en">Marvel's Guardians of the Galaxy</title>
-    <desc lang="en">Sigue las aventuras de un grupo de guerreros espaciales que trabajan para proteger al universo del malvado Thanos.(n)</desc>
+  <programme start="20220414190000 +0000" stop="20220414200000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Hechos Meridiano</title>
+    <desc lang="en">Un resumen de las ultimas noticias acontecidas en el día, videos y reportajes exclusivos con temas de México, Latinoamérica y el mundo, a cargo del excelente equipo periodístico de Azteca Noticias. De la mano con los periodistas Christian Lara y Alejandro Villalvazo quienes destacan su estilo concreto y veraz.(n)</desc>
   </programme>
-  <programme start="20220405220000 +0000" stop="20220405223000 +0000" channel="TRECEVISION">
-    <title lang="en">Avengers Ultron Revolution</title>
-    <desc lang="en">Los superhéroes de marvel se unen para luchar contra el mal.(n)</desc>
+  <programme start="20220414200000 +0000" stop="20220414210000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
   </programme>
-  <programme start="20220405223000 +0000" stop="20220405230000 +0000" channel="TRECEVISION">
-    <title lang="en">Bugs Bunny show</title>
-    <desc lang="en">Disfrute con los clásicos cortos animados de Looney Tunes.(n)</desc>
+  <programme start="20220414210000 +0000" stop="20220414220000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
   </programme>
-  <programme start="20220405230000 +0000" stop="20220406000000 +0000" channel="TRECEVISION">
-    <title lang="en">Soy Luna</title>
-    <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional.(n)</desc>
+  <programme start="20220414220000 +0000" stop="20220414230000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Azteca hits</title>
+  </programme>
+  <programme start="20220414230000 +0000" stop="20220415000000 +0000" channel="AZTECA GUATE">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
   </programme>
   <programme start="20220406000000 +0000" stop="20220406010000 +0000" channel="TRECEVISION">
     <title lang="en">Violetta</title>
@@ -11624,55 +11542,90 @@
     <title lang="en">Soy Luna</title>
     <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional.(n)</desc>
   </programme>
-  <programme start="20220404010000 -0500" stop="20220404030000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Valencia vs. Cádiz Repetición</title>
+  <programme start="20220414000000 +0000" stop="20220414010000 +0000" channel="TRECEVISION">
+    <title lang="en">Violetta</title>
+    <desc lang="en">La historia de una adolescente que tras vivir muchos años en Europa, regresa a su Argentina natal. Allí, encontrará verdaderos amigos, hallará el amor, descubrirá su vocación por la música y construirá la magnífica experiencia de crecer.(n)</desc>
   </programme>
-  <programme start="20220404030000 -0500" stop="20220404050000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Sky Sports 24</title>
+  <programme start="20220414010000 +0000" stop="20220414013000 +0000" channel="TRECEVISION">
+    <title lang="en">El nuevo show de la Pantera Rosa</title>
+    <desc lang="en">Una pantera con la particularidad de que es color rosa, que se involucra en diferentes actividades con la intención de realizar sus propias ideas, pero termina ocasionando accidentese involucrandose en aventuras insospechadas.(n)</desc>
   </programme>
-  <programme start="20220404050000 -0500" stop="20220404070000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Tenerife vs. Zaragoza Repetición</title>
+  <programme start="20220414013000 +0000" stop="20220414020000 +0000" channel="TRECEVISION">
+    <title lang="en">Tom and Jerry Show</title>
+    <desc lang="en">¡Acompaña a Tom y Jerry en el show en el que vivirán nuevas y divertidísimas aventuras mientras pelean por su territorio! Este travieso dúo está listo para volver a la acción con nuevas diabluras. ¿Los atraparán esta vez?(n)</desc>
   </programme>
-  <programme start="20220404070000 -0500" stop="20220404080000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
+  <programme start="20220414020000 +0000" stop="20220414030000 +0000" channel="TRECEVISION">
+    <title lang="en">Los Picapiedra</title>
+    <desc lang="en">Las aventuras de una familia de la Edad de Piedra, Pedro y Vilma Picapiedra, y sus vecinos, Pablo y Betty, en el pueblo prehistórico de Piedradura. La serie estrenó el 30 de septiembre de 1960 en la ABC y terminó el 2 de septiembre de 1966.(n)</desc>
   </programme>
-  <programme start="20220404080000 -0500" stop="20220404100000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Granada vs. Rayo Vallecano Repetición</title>
+  <programme start="20220414030000 +0000" stop="20220414040000 +0000" channel="TRECEVISION">
+    <title lang="en">T 13 noticias</title>
   </programme>
-  <programme start="20220404100000 -0500" stop="20220404120000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Athletic de Bilbao vs. Elche</title>
+  <programme start="20220414040000 +0000" stop="20220414050000 +0000" channel="TRECEVISION">
+    <title lang="en">Scorpion</title>
+    <desc lang="en">Un genio de la informática y sus brillantes amigos investigan delitos.(n)</desc>
   </programme>
-  <programme start="20220404120000 -0500" stop="20220404130000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
+  <programme start="20220414050000 +0000" stop="20220414060000 +0000" channel="TRECEVISION">
+    <title lang="en">NCIS</title>
+    <desc lang="en">Justicia e investigaciones se llevan a cabo dentro del hermético mundo de la marina de los EE.UU. Esta exitosa serie es derivada de 'JAG: Justicia Militar'.(n)</desc>
   </programme>
-  <programme start="20220404130000 -0500" stop="20220404150000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Celta de Vigo vs. Real Madrid</title>
-    <desc lang="es">El RC Celta de Vigo recibe al Real Madrid CF en el estadio de Balaídos, en la ciudad de Vigo, en España.(n)</desc>
+  <programme start="20220414060000 +0000" stop="20220414120000 +0000" channel="TRECEVISION">
+    <title lang="en">Fin de transmisión</title>
   </programme>
-  <programme start="20220404150000 -0500" stop="20220404160000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Programa Jornadas LaLiga</title>
+  <programme start="20220414120000 +0000" stop="20220414130000 +0000" channel="TRECEVISION">
+    <title lang="en">Planet's Funniest Animals</title>
+    <desc lang="en">Un vistazo a unas situaciones cómicas en el mundo de los animales, tanto domésticos como salvajes. Incluye unos videos caseros y unas secuencias documentales.(n)</desc>
   </programme>
-  <programme start="20220404160000 -0500" stop="20220404180000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Valencia vs. Cádiz Repetición</title>
+  <programme start="20220414130000 +0000" stop="20220414140000 +0000" channel="TRECEVISION">
+    <title lang="en">Just kidding</title>
+    <desc lang="en">Programa en donde niños hacen bromas a gente.(n)</desc>
   </programme>
-  <programme start="20220404180000 -0500" stop="20220404190000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">La Liga</title>
+  <programme start="20220414140000 +0000" stop="20220414180000 +0000" channel="TRECEVISION">
+    <title lang="en">Despierta América</title>
+    <desc lang="en">Un programa diario de entrevistas, noticias, entretenimiento e informes especiales, transmitido en vivo desde Miami.(n)</desc>
   </programme>
-  <programme start="20220404190000 -0500" stop="20220404193000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Previo</title>
+  <programme start="20220414180000 +0000" stop="20220414183000 +0000" channel="TRECEVISION">
+    <title lang="en">Popcorn TV</title>
+    <desc lang="en">Un compilado de videos chistosos de cámaras escondidas.(n)</desc>
   </programme>
-  <programme start="20220404193000 -0500" stop="20220404213000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Barcelona vs. Sevilla</title>
-    <desc lang="es">El FC Barcelona recibe al Sevilla en el estadio Camp Nou en la ciudad de Barcelona, España.(n)</desc>
+  <programme start="20220414183000 +0000" stop="20220414190000 +0000" channel="TRECEVISION">
+    <title lang="en">Just for laughs gags</title>
   </programme>
-  <programme start="20220404213000 -0500" stop="20220404223000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Programa Jornadas LaLiga</title>
+  <programme start="20220414190000 +0000" stop="20220414193000 +0000" channel="TRECEVISION">
+    <title lang="en">Randy Cunningham: 9th grade ninja</title>
+    <desc lang="en">Vibrantes aventuras de un héroe poco probable, Randy Cunningham, quien es elegido para ser ninja, por ser el único capaz de proteger a su escuela y al mundo de una destrucción segura.(n)</desc>
   </programme>
-  <programme start="20220404223000 -0500" stop="20220404230000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Real Sociedad vs. Espanyol Repetición</title>
+  <programme start="20220414193000 +0000" stop="20220414200000 +0000" channel="TRECEVISION">
+    <title lang="en">Jake and the Neverland Pirates</title>
+    <desc lang="en">Jake y los Piratas del Nunca Jamás se basa en Peter Pan, que a su vez se basa en el famoso libro y el juego por el autor británico JM Barrie.(n)</desc>
   </programme>
-  <programme start="20220404230000 -0500" stop="20220405003000 -0500" channel="SKY SPORTS 16">
-    <title lang="es">Real Sociedad vs. Espanyol Repetición</title>
+  <programme start="20220414200000 +0000" stop="20220414203000 +0000" channel="TRECEVISION">
+    <title lang="en">Jason and the Heroes of Mount Olympus</title>
+    <desc lang="en">Jason, un niño con una gran imaginación, viaja al mitológico Mundo Antiguo al subir el Monte Olimpo, y se involucra en una serie de aventuras junto a unos amigos animales.(n)</desc>
+  </programme>
+  <programme start="20220414203000 +0000" stop="20220414210000 +0000" channel="TRECEVISION">
+    <title lang="en">Ben 10: Ultimate Alien</title>
+    <desc lang="en">Serie de dibujos animados sobre un superhéroe de 16 años llamado Ben Tennyson, quien lucha contra villanos usando el Ultimatrix, un aparato que lo transforma en diversos héroes alienígenas.(n)</desc>
+  </programme>
+  <programme start="20220414210000 +0000" stop="20220414213000 +0000" channel="TRECEVISION">
+    <title lang="en">Ultimate Spider-Man</title>
+    <desc lang="en">Un joven lucha contra el crimen y trata de mantener en secreto su identidad como el Hombre Araña mientras se adapta a las presiones de la adolescencia en casa y en la escuela secundaria.(n)</desc>
+  </programme>
+  <programme start="20220414213000 +0000" stop="20220414220000 +0000" channel="TRECEVISION">
+    <title lang="en">Marvel's Guardians of the Galaxy</title>
+    <desc lang="en">Sigue las aventuras de un grupo de guerreros espaciales que trabajan para proteger al universo del malvado Thanos.(n)</desc>
+  </programme>
+  <programme start="20220414220000 +0000" stop="20220414223000 +0000" channel="TRECEVISION">
+    <title lang="en">Avengers Ultron Revolution</title>
+    <desc lang="en">Los superhéroes de marvel se unen para luchar contra el mal.(n)</desc>
+  </programme>
+  <programme start="20220414223000 +0000" stop="20220414230000 +0000" channel="TRECEVISION">
+    <title lang="en">Bugs Bunny show</title>
+    <desc lang="en">Disfrute con los clásicos cortos animados de Looney Tunes.(n)</desc>
+  </programme>
+  <programme start="20220414230000 +0000" stop="20220415000000 +0000" channel="TRECEVISION">
+    <title lang="en">Soy Luna</title>
+    <desc lang="en">Una linda, amable y luchadora adolescente que desea convertirse en una patinadora profesional.(n)</desc>
   </programme>
   <programme start="20220405003000 -0500" stop="20220405023000 -0500" channel="SKY SPORTS 16">
     <title lang="es">Getafe vs. Mallorca Repetición</title>
@@ -11759,6 +11712,9 @@
     <title lang="es">Celta de Vigo vs. Real Madrid</title>
     <desc lang="es">El RC Celta de Vigo recibe al Real Madrid CF en el estadio de Balaídos, en la ciudad de Vigo, en España.(n)</desc>
   </programme>
+  <programme start="20220406213000 -0500" stop="20220406223000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Programa Jornadas LaLiga</title>
+  </programme>
   <programme start="20220406223000 -0500" stop="20220406230000 -0500" channel="SKY SPORTS 16">
     <title lang="es">Valencia vs. Cádiz Repetición</title>
   </programme>
@@ -11785,6 +11741,10 @@
   </programme>
   <programme start="20220407123000 -0500" stop="20220407130000 -0500" channel="SKY SPORTS 16">
     <title lang="es">La Liga Chronicles</title>
+  </programme>
+  <programme start="20220407130000 -0500" stop="20220407150000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Celta de Vigo vs. Real Madrid</title>
+    <desc lang="es">El RC Celta de Vigo recibe al Real Madrid CF en el estadio de Balaídos, en la ciudad de Vigo, en España.(n)</desc>
   </programme>
   <programme start="20220407150000 -0500" stop="20220407170000 -0500" channel="SKY SPORTS 16">
     <title lang="es">Athletic de Bilbao vs. Elche</title>
@@ -11907,80 +11867,125 @@
   <programme start="20220411233000 -0500" stop="20220412013000 -0500" channel="SKY SPORTS 16">
     <title lang="es">Málaga vs. Valladolid Repetición</title>
   </programme>
-  <programme start="20220404020000 -0500" stop="20220404030000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Sky Sports 24</title>
+  <programme start="20220412013000 -0500" stop="20220412033000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Las Palmas vs. Amorebieta Repetición</title>
   </programme>
-  <programme start="20220404030000 -0500" stop="20220404040000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier league today</title>
+  <programme start="20220412033000 -0500" stop="20220412051500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Sky Sports 16</title>
   </programme>
-  <programme start="20220404040000 -0500" stop="20220404043000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-World</title>
+  <programme start="20220412051500 -0500" stop="20220412054500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">La liga World</title>
   </programme>
-  <programme start="20220404043000 -0500" stop="20220404063000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-the weekend review</title>
+  <programme start="20220412054500 -0500" stop="20220412074500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Málaga vs. Valladolid Repetición</title>
   </programme>
-  <programme start="20220404063000 -0500" stop="20220404070000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Premier league today</title>
+  <programme start="20220412074500 -0500" stop="20220412081500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">La liga show</title>
   </programme>
-  <programme start="20220404070000 -0500" stop="20220404080000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-fanzone</title>
+  <programme start="20220412081500 -0500" stop="20220412101500 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Cádiz vs. Betis Repetición</title>
   </programme>
-  <programme start="20220404080000 -0500" stop="20220404083000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Pl100</title>
-  </programme>
-  <programme start="20220404083000 -0500" stop="20220404090000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pl100</title>
-  </programme>
-  <programme start="20220404090000 -0500" stop="20220404093000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Match of the week</title>
-  </programme>
-  <programme start="20220404093000 -0500" stop="20220404100000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Classic</title>
-  </programme>
-  <programme start="20220404100000 -0500" stop="20220404110000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the headline makers</title>
-  </programme>
-  <programme start="20220404110000 -0500" stop="20220404113000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-World</title>
-  </programme>
-  <programme start="20220404113000 -0500" stop="20220404123000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Sunday Review</title>
-  </programme>
-  <programme start="20220404123000 -0500" stop="20220404124500 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Sky Sports 24</title>
-  </programme>
-  <programme start="20220404124500 -0500" stop="20220404130000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220412101500 -0500" stop="20220412103000 -0500" channel="SKY SPORTS 16">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220404130000 -0500" stop="20220404150000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Crystal Palace vs. Arsenal En Vivo</title>
+  <programme start="20220412103000 -0500" stop="20220412123000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Elche vs. Real Sociedad En Vivo</title>
   </programme>
-  <programme start="20220404150000 -0500" stop="20220404153000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220412130000 -0500" stop="20220412150000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Levante vs. Barcelona</title>
+    <desc lang="es">El Levante UD recibe al FC Barcelona en el estadio Ciutat de Valencia en la ciudad de Valencia, España.(n)</desc>
+  </programme>
+  <programme start="20220412150000 -0500" stop="20220412170000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Real Madrid vs. Getafe</title>
+    <desc lang="es">El Real Madrid CF recibe al Getafe CF en el estadio Santiago Bernabéu en la ciudad de Madrid, España.(n)</desc>
+  </programme>
+  <programme start="20220412170000 -0500" stop="20220412190000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Levante vs. Barcelona</title>
+    <desc lang="es">El Levante UD recibe al FC Barcelona en el estadio Ciutat de Valencia en la ciudad de Valencia, España.(n)</desc>
+  </programme>
+  <programme start="20220412190000 -0500" stop="20220412200000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">La Liga</title>
+  </programme>
+  <programme start="20220412200000 -0500" stop="20220412220000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Elche vs. Real Sociedad Repetición</title>
+  </programme>
+  <programme start="20220412220000 -0500" stop="20220412230000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Espanyol vs. Celta de Vigo Repetición</title>
+  </programme>
+  <programme start="20220412230000 -0500" stop="20220413000000 -0500" channel="SKY SPORTS 16">
+    <title lang="es">Espanyol vs. Celta de Vigo Repetición</title>
+  </programme>
+  <programme start="20220405010000 -0500" stop="20220405020000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Premier League Show</title>
+  </programme>
+  <programme start="20220405020000 -0500" stop="20220405030000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Sky Sports 24</title>
+  </programme>
+  <programme start="20220405030000 -0500" stop="20220405040000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Premier league today</title>
+  </programme>
+  <programme start="20220405040000 -0500" stop="20220405050000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Monday review</title>
+  </programme>
+  <programme start="20220405050000 -0500" stop="20220405063000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-the analysis show</title>
+  </programme>
+  <programme start="20220405063000 -0500" stop="20220405070000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Premier league today</title>
+  </programme>
+  <programme start="20220405070000 -0500" stop="20220405080000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-fanzone</title>
+  </programme>
+  <programme start="20220405080000 -0500" stop="20220405090000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Matchday</title>
+  </programme>
+  <programme start="20220405090000 -0500" stop="20220405093000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Match of the week</title>
+  </programme>
+  <programme start="20220405093000 -0500" stop="20220405100000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Match of the week</title>
+  </programme>
+  <programme start="20220405100000 -0500" stop="20220405110000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-the headline makers</title>
+  </programme>
+  <programme start="20220405110000 -0500" stop="20220405123000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-the analysis show</title>
+  </programme>
+  <programme start="20220405123000 -0500" stop="20220405130000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20220404153000 -0500" stop="20220404173000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Tottenham Hotspur vs. Newcastle United Repetición</title>
+  <programme start="20220405130000 -0500" stop="20220405150000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Liverpool vs. Watford Repetición</title>
   </programme>
-  <programme start="20220404173000 -0500" stop="20220404180000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pl100</title>
+  <programme start="20220405150000 -0500" stop="20220405160000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Premier League Show</title>
   </programme>
-  <programme start="20220404180000 -0500" stop="20220404200000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220405160000 -0500" stop="20220405161500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220405161500 -0500" stop="20220405181500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Crystal Palace vs. Arsenal Repetición</title>
   </programme>
-  <programme start="20220404200000 -0500" stop="20220404210000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220405181500 -0500" stop="20220405183000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
+  </programme>
+  <programme start="20220405183000 -0500" stop="20220405203000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Manchester United vs. Leicester</title>
+  </programme>
+  <programme start="20220405203000 -0500" stop="20220405210000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Netbusters</title>
+  </programme>
+  <programme start="20220405210000 -0500" stop="20220405220000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Premier League Show</title>
   </programme>
-  <programme start="20220404210000 -0500" stop="20220404230000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Leeds United vs. Southampton Repetición</title>
+  <programme start="20220405220000 -0500" stop="20220405230000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Wolverhampton W vs. Aston Villa</title>
   </programme>
-  <programme start="20220404230000 -0500" stop="20220405010000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Brighton vs. Norwich City Repetición</title>
+  <programme start="20220405230000 -0500" stop="20220406000000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Wolverhampton W vs. Aston Villa</title>
   </programme>
-  <programme start="20220405230000 -0500" stop="20220406010000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Brighton vs. Norwich City Repetición</title>
-  </programme>
-  <programme start="20220406010000 -0500" stop="20220406020000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
+  <programme start="20220406000000 -0500" stop="20220406020000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Hull City vs. Huddersfield Town</title>
   </programme>
   <programme start="20220406020000 -0500" stop="20220406030000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
@@ -11988,11 +11993,17 @@
   <programme start="20220406030000 -0500" stop="20220406040000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Premier league today</title>
   </programme>
-  <programme start="20220406040000 -0500" stop="20220406050000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Monday review</title>
+  <programme start="20220406040000 -0500" stop="20220406043000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Netbusters</title>
   </programme>
-  <programme start="20220406050000 -0500" stop="20220406063000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the analysis show</title>
+  <programme start="20220406043000 -0500" stop="20220406050000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Match of the week</title>
+  </programme>
+  <programme start="20220406050000 -0500" stop="20220406053000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV- 20-in-20</title>
+  </programme>
+  <programme start="20220406053000 -0500" stop="20220406063000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Pltv-1-to-11</title>
   </programme>
   <programme start="20220406063000 -0500" stop="20220406070000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Premier league today</title>
@@ -12001,375 +12012,279 @@
     <title lang="es">Pltv-fanzone</title>
   </programme>
   <programme start="20220406080000 -0500" stop="20220406090000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Matchday</title>
+    <title lang="es">PLTV--goals of the season</title>
   </programme>
-  <programme start="20220406093000 -0500" stop="20220406100000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Match of the week</title>
+  <programme start="20220406090000 -0500" stop="20220406100000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Monday review</title>
   </programme>
-  <programme start="20220406110000 -0500" stop="20220406123000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-the analysis show</title>
-  </programme>
-  <programme start="20220406123000 -0500" stop="20220406130000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220406110000 -0500" stop="20220406113000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20220406130000 -0500" stop="20220406150000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Liverpool vs. Watford Repetición</title>
+  <programme start="20220406113000 -0500" stop="20220406120000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV- 20-in-20</title>
   </programme>
-  <programme start="20220406150000 -0500" stop="20220406160000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
-  </programme>
-  <programme start="20220406160000 -0500" stop="20220406161500 -0500" channel="SKY SPORTS 24">
+  <programme start="20220406120000 -0500" stop="20220406123000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220406161500 -0500" stop="20220406181500 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Crystal Palace vs. Arsenal Repetición</title>
+  <programme start="20220406123000 -0500" stop="20220406143000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Burnley vs. Manchester City Repetición</title>
   </programme>
-  <programme start="20220406181500 -0500" stop="20220406183000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220406143000 -0500" stop="20220406163000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Leeds United vs. Southampton Repetición</title>
+  </programme>
+  <programme start="20220406163000 -0500" stop="20220406173000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Premier League Show</title>
+  </programme>
+  <programme start="20220406173000 -0500" stop="20220406180000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Netbusters</title>
+  </programme>
+  <programme start="20220406180000 -0500" stop="20220406183000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
   <programme start="20220406183000 -0500" stop="20220406203000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Manchester United vs. Leicester</title>
+    <title lang="es">Chelsea vs. Brentford Repetición</title>
   </programme>
-  <programme start="20220406203000 -0500" stop="20220406210000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
+  <programme start="20220406203000 -0500" stop="20220406223000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Crystal Palace vs. Arsenal Repetición</title>
   </programme>
-  <programme start="20220406210000 -0500" stop="20220406220000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220406223000 -0500" stop="20220406230000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Premier League Show</title>
   </programme>
-  <programme start="20220406220000 -0500" stop="20220406230000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Wolverhampton W vs. Aston Villa</title>
+  <programme start="20220406230000 -0500" stop="20220406233000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Premier League Show</title>
   </programme>
-  <programme start="20220406230000 -0500" stop="20220407000000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Wolverhampton W vs. Aston Villa</title>
+  <programme start="20220406233000 -0500" stop="20220407000000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-Netbusters</title>
+  </programme>
+  <programme start="20220407000000 -0500" stop="20220407020000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">West Ham United vs. Everton Repetición</title>
   </programme>
   <programme start="20220407040000 -0500" stop="20220407043000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
+    <title lang="es">PLTV-World</title>
   </programme>
   <programme start="20220407043000 -0500" stop="20220407050000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Match of the week</title>
-  </programme>
-  <programme start="20220407050000 -0500" stop="20220407053000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV- 20-in-20</title>
-  </programme>
-  <programme start="20220407053000 -0500" stop="20220407063000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Pltv-1-to-11</title>
-  </programme>
-  <programme start="20220407080000 -0500" stop="20220407090000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV--goals of the season</title>
-  </programme>
-  <programme start="20220407090000 -0500" stop="20220407100000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Monday review</title>
-  </programme>
-  <programme start="20220407113000 -0500" stop="20220407120000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV- 20-in-20</title>
-  </programme>
-  <programme start="20220407120000 -0500" stop="20220407123000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220407123000 -0500" stop="20220407143000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Burnley vs. Manchester City Repetición</title>
-  </programme>
-  <programme start="20220407143000 -0500" stop="20220407163000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Leeds United vs. Southampton Repetición</title>
-  </programme>
-  <programme start="20220407163000 -0500" stop="20220407173000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
-  </programme>
-  <programme start="20220407173000 -0500" stop="20220407180000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
-  </programme>
-  <programme start="20220407180000 -0500" stop="20220407183000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Previo</title>
-  </programme>
-  <programme start="20220407183000 -0500" stop="20220407203000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Chelsea vs. Brentford Repetición</title>
-  </programme>
-  <programme start="20220407203000 -0500" stop="20220407223000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Crystal Palace vs. Arsenal Repetición</title>
-  </programme>
-  <programme start="20220407223000 -0500" stop="20220407230000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
-  </programme>
-  <programme start="20220407230000 -0500" stop="20220407233000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Premier League Show</title>
-  </programme>
-  <programme start="20220407233000 -0500" stop="20220408000000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">PLTV-Netbusters</title>
-  </programme>
-  <programme start="20220408000000 -0500" stop="20220408020000 -0500" channel="SKY SPORTS 24">
-    <title lang="es">West Ham United vs. Everton Repetición</title>
-  </programme>
-  <programme start="20220408043000 -0500" stop="20220408050000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV--the big interview</title>
   </programme>
-  <programme start="20220408050000 -0500" stop="20220408063000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407050000 -0500" stop="20220407063000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-The Kelly &amp; Wrighty show</title>
   </programme>
-  <programme start="20220408070000 -0500" stop="20220408080000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407070000 -0500" stop="20220407080000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-Fantasy Premier League</title>
   </programme>
-  <programme start="20220408080000 -0500" stop="20220408090000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407080000 -0500" stop="20220407090000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-fanzone</title>
   </programme>
-  <programme start="20220408090000 -0500" stop="20220408093000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407090000 -0500" stop="20220407093000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Netbusters</title>
   </programme>
-  <programme start="20220408093000 -0500" stop="20220408100000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407093000 -0500" stop="20220407100000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20220408110000 -0500" stop="20220408113000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407110000 -0500" stop="20220407113000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Match pack</title>
   </programme>
-  <programme start="20220408113000 -0500" stop="20220408123000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407113000 -0500" stop="20220407123000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-Fantasy Premier League</title>
   </programme>
-  <programme start="20220408123000 -0500" stop="20220408130000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407123000 -0500" stop="20220407130000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Netbusters</title>
   </programme>
-  <programme start="20220408130000 -0500" stop="20220408150000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407130000 -0500" stop="20220407150000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Chelsea vs. Brentford Repetición</title>
   </programme>
-  <programme start="20220408150000 -0500" stop="20220408170000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407150000 -0500" stop="20220407170000 -0500" channel="SKY SPORTS 24">
     <title lang="es">West Ham United vs. Everton Repetición</title>
   </programme>
-  <programme start="20220408170000 -0500" stop="20220408173000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407170000 -0500" stop="20220407173000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Netbusters</title>
   </programme>
-  <programme start="20220408173000 -0500" stop="20220408183000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407173000 -0500" stop="20220407183000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Premier League Show</title>
   </programme>
-  <programme start="20220408183000 -0500" stop="20220408203000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407183000 -0500" stop="20220407203000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Liverpool vs. Watford Repetición</title>
   </programme>
-  <programme start="20220408203000 -0500" stop="20220408210000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407203000 -0500" stop="20220407210000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20220408210000 -0500" stop="20220408230000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407210000 -0500" stop="20220407230000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Tottenham Hotspur vs. Newcastle United Repetición</title>
   </programme>
-  <programme start="20220408230000 -0500" stop="20220409000000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220407230000 -0500" stop="20220408000000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Premier League Show</title>
   </programme>
-  <programme start="20220409000000 -0500" stop="20220409020000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408000000 -0500" stop="20220408020000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Burnley vs. Everton Repetición</title>
   </programme>
-  <programme start="20220409040000 -0500" stop="20220409043000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408040000 -0500" stop="20220408043000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Match pack</title>
   </programme>
-  <programme start="20220409043000 -0500" stop="20220409053000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408043000 -0500" stop="20220408053000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-fanzone</title>
   </programme>
-  <programme start="20220409053000 -0500" stop="20220409060000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408053000 -0500" stop="20220408060000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-the catch up show</title>
   </programme>
-  <programme start="20220409060000 -0500" stop="20220409063000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408060000 -0500" stop="20220408063000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV--the big interview</title>
   </programme>
-  <programme start="20220409070000 -0500" stop="20220409083000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408070000 -0500" stop="20220408083000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-weekend warm-up</title>
   </programme>
-  <programme start="20220409083000 -0500" stop="20220409090000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408083000 -0500" stop="20220408090000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Netbusters</title>
   </programme>
-  <programme start="20220409090000 -0500" stop="20220409093000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408090000 -0500" stop="20220408093000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-the catch up show</title>
   </programme>
-  <programme start="20220409093000 -0500" stop="20220409100000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408093000 -0500" stop="20220408100000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Match pack</title>
   </programme>
-  <programme start="20220409100000 -0500" stop="20220409113000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408100000 -0500" stop="20220408113000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Pltv-the weekend preview</title>
   </programme>
-  <programme start="20220409113000 -0500" stop="20220409120000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408113000 -0500" stop="20220408120000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV--the big interview</title>
   </programme>
-  <programme start="20220409120000 -0500" stop="20220409123000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408120000 -0500" stop="20220408123000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-Preview</title>
   </programme>
-  <programme start="20220409130000 -0500" stop="20220409150000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408130000 -0500" stop="20220408150000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Crystal Palace vs. Arsenal Repetición</title>
   </programme>
-  <programme start="20220409150000 -0500" stop="20220409170000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408150000 -0500" stop="20220408170000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Burnley vs. Everton Repetición</title>
   </programme>
-  <programme start="20220409170000 -0500" stop="20220409190000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408170000 -0500" stop="20220408190000 -0500" channel="SKY SPORTS 24">
     <title lang="es">West Ham United vs. Everton Repetición</title>
   </programme>
-  <programme start="20220409190000 -0500" stop="20220409191500 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408190000 -0500" stop="20220408191500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220409191500 -0500" stop="20220409211500 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408191500 -0500" stop="20220408211500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Newcastle United vs. Wolverhampton Repetición</title>
   </programme>
-  <programme start="20220409211500 -0500" stop="20220409230000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408211500 -0500" stop="20220408230000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Leeds United vs. Southampton Repetición</title>
   </programme>
-  <programme start="20220409230000 -0500" stop="20220409231500 -0500" channel="SKY SPORTS 24">
+  <programme start="20220408230000 -0500" stop="20220408231500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Leeds United vs. Southampton Repetición</title>
+  </programme>
+  <programme start="20220408231500 -0500" stop="20220409011500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Brighton vs. Norwich City Repetición</title>
   </programme>
   <programme start="20220409231500 -0500" stop="20220410011500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Brighton vs. Norwich City Repetición</title>
   </programme>
-  <programme start="20220410231500 -0500" stop="20220411011500 -0500" channel="SKY SPORTS 24">
-    <title lang="es">Brighton vs. Norwich City Repetición</title>
-  </programme>
-  <programme start="20220411011500 -0500" stop="20220411014500 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410011500 -0500" stop="20220410014500 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20220411014500 -0500" stop="20220411030000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410014500 -0500" stop="20220410030000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220411030000 -0500" stop="20220411031500 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410030000 -0500" stop="20220410031500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220411031500 -0500" stop="20220411051500 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410031500 -0500" stop="20220410051500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Newcastle United vs. Wolverhampton Repetición</title>
   </programme>
-  <programme start="20220411051500 -0500" stop="20220411053000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410051500 -0500" stop="20220410053000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220411053000 -0500" stop="20220411073000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410053000 -0500" stop="20220410073000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Everton vs. Manchester United</title>
   </programme>
-  <programme start="20220411073000 -0500" stop="20220411080000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410073000 -0500" stop="20220410080000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220411080000 -0500" stop="20220411100000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410080000 -0500" stop="20220410100000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Southampton vs. chelsea En Vivo</title>
   </programme>
-  <programme start="20220411100000 -0500" stop="20220411101500 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410100000 -0500" stop="20220410101500 -0500" channel="SKY SPORTS 24">
     <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220411101500 -0500" stop="20220411103000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410101500 -0500" stop="20220410103000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220411103000 -0500" stop="20220411123000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410103000 -0500" stop="20220410123000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Aston Villa vs. Tottenham Hotspur En Vivo</title>
   </programme>
-  <programme start="20220411123000 -0500" stop="20220411143000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410123000 -0500" stop="20220410143000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Everton vs. Manchester United</title>
   </programme>
-  <programme start="20220411143000 -0500" stop="20220411163000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410143000 -0500" stop="20220410163000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Watford vs. Leeds United Repetición</title>
   </programme>
-  <programme start="20220411163000 -0500" stop="20220411183000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410163000 -0500" stop="20220410183000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Arsenal vs. Brighton Repetición</title>
   </programme>
-  <programme start="20220411183000 -0500" stop="20220411190000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410183000 -0500" stop="20220410190000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Previo</title>
   </programme>
-  <programme start="20220411190000 -0500" stop="20220411210000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410190000 -0500" stop="20220410210000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Southampton vs. chelsea Repetición</title>
   </programme>
-  <programme start="20220411210000 -0500" stop="20220411230000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410210000 -0500" stop="20220410230000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Aston Villa vs. Tottenham Hotspur Repetición</title>
   </programme>
-  <programme start="20220411230000 -0500" stop="20220411233000 -0500" channel="SKY SPORTS 24">
+  <programme start="20220410230000 -0500" stop="20220410233000 -0500" channel="SKY SPORTS 24">
     <title lang="es">PLTV-World</title>
+  </programme>
+  <programme start="20220410233000 -0500" stop="20220411013000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Watford vs. Leeds United Repetición</title>
   </programme>
   <programme start="20220411233000 -0500" stop="20220412013000 -0500" channel="SKY SPORTS 24">
     <title lang="es">Watford vs. Leeds United Repetición</title>
   </programme>
-  <programme start="20220405000000 +0000" stop="20220405010000 +0000" channel="PUNTO 2">
-    <title lang="en">El Señor de los Cielos</title>
-    <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación.(n)</desc>
+  <programme start="20220412013000 -0500" stop="20220412024500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Sky Sports 24</title>
   </programme>
-  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="PUNTO 2">
-    <title lang="en">Al Rojo Vivo</title>
-    <desc lang="en">Espacio que transmite una amplia variedad de informaciones sobre espectáculo, deportes,.(n)</desc>
+  <programme start="20220412024500 -0500" stop="20220412044500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Aston Villa vs. Tottenham Hotspur Repetición</title>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="PUNTO 2">
-    <title lang="en">Corazón valiente</title>
-    <desc lang="en">Dos fuertes mujeres encabezan una inolvidable historia de lealtad, amistad, coraje y amor. Ángela y Samantha son amigas de la infancia que se encuentran cuidando las vidas de otros como guardaespaldas, mientras tratan de encontrar esperanza y amor en sus propias vidas.(n)</desc>
+  <programme start="20220412044500 -0500" stop="20220412064500 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Newcastle United vs. Wolverhampton Repetición</title>
   </programme>
-  <programme start="20220405030000 +0000" stop="20220405033000 +0000" channel="PUNTO 2">
-    <title lang="en">Noticias Telemundo</title>
-    <sub-title lang="en">04-04-2022</sub-title>
-    <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
+  <programme start="20220412064500 -0500" stop="20220412070000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20220405033000 +0000" stop="20220405043000 +0000" channel="PUNTO 2">
-    <title lang="en">Parientes a la fuerza</title>
-    <desc lang="en">La vida de George Cruz parece caerse a pedazos, pero una joven mexicana lo cambia todo.(n)</desc>
+  <programme start="20220412070000 -0500" stop="20220412090000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Leicester City vs. Crystal Pala</title>
   </programme>
-  <programme start="20220405043000 +0000" stop="20220405053000 +0000" channel="PUNTO 2">
-    <title lang="en">Buscando a Frida</title>
-    <desc lang="en">Frida, de 16 años, hija mayor del multimillonario Abelardo Pons, desaparece la noche del cumpleaños de su padre, bajo muy extrañas circunstancias. La vida de la familia cambia para siempre.(n)</desc>
+  <programme start="20220412090000 -0500" stop="20220412093000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20220405053000 +0000" stop="20220405063000 +0000" channel="PUNTO 2">
-    <title lang="en">La Doña</title>
-    <desc lang="en">Un drama que refleja la vida de 'Altagracia', una mujer que de joven sufrió el asesinato de sus padres, fue abusada sexualmente por parte de un grupo de hombres, y ya adulta, busca venganza, para llevar a cada uno de los responsables a la justicia.(n)</desc>
+  <programme start="20220412093000 -0500" stop="20220412113000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Manchester City vs. Liverpool</title>
+    <desc lang="es">El Manchester City FC recibe al Liverpool FC en el estadio Etihad Stadium en la ciudad de Mánchester, Inglaterra.(n)</desc>
   </programme>
-  <programme start="20220405063000 +0000" stop="20220405073000 +0000" channel="PUNTO 2">
-    <title lang="en">El Señor de los Cielos</title>
-    <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación.(n)</desc>
+  <programme start="20220412113000 -0500" stop="20220412133000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Leicester City vs. Crystal Pala</title>
   </programme>
-  <programme start="20220405073000 +0000" stop="20220405083000 +0000" channel="PUNTO 2">
-    <title lang="en">Corazón valiente</title>
-    <desc lang="en">Dos fuertes mujeres encabezan una inolvidable historia de lealtad, amistad, coraje y amor. Ángela y Samantha son amigas de la infancia que se encuentran cuidando las vidas de otros como guardaespaldas, mientras tratan de encontrar esperanza y amor en sus propias vidas.(n)</desc>
+  <programme start="20220412133000 -0500" stop="20220412140000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20220405083000 +0000" stop="20220405090000 +0000" channel="PUNTO 2">
-    <title lang="en">Decisiones</title>
-    <desc lang="en">Dramatizaciones de historias reales de la vida enviadas por el público.(n)</desc>
+  <programme start="20220412140000 -0500" stop="20220412160000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Southampton vs. chelsea Repetición</title>
   </programme>
-  <programme start="20220405090000 +0000" stop="20220405100000 +0000" channel="PUNTO 2">
-    <title lang="en">En casa con Telemundo</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
+  <programme start="20220412160000 -0500" stop="20220412180000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Watford vs. Leeds United Repetición</title>
   </programme>
-  <programme start="20220405100000 +0000" stop="20220405110000 +0000" channel="PUNTO 2">
-    <title lang="en">Comienza el día con la pastora Wanda Rolon</title>
-    <desc lang="en">Comienza el día con la pastora Wanda Rolon y llénate de bendiciones, esperanza y paz.(n)</desc>
+  <programme start="20220412180000 -0500" stop="20220412183000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Previo</title>
   </programme>
-  <programme start="20220405110000 +0000" stop="20220405120000 +0000" channel="PUNTO 2">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
+  <programme start="20220412183000 -0500" stop="20220412203000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Manchester City vs. Liverpool</title>
+    <desc lang="es">El Manchester City FC recibe al Liverpool FC en el estadio Etihad Stadium en la ciudad de Mánchester, Inglaterra.(n)</desc>
   </programme>
-  <programme start="20220405120000 +0000" stop="20220405140000 +0000" channel="PUNTO 2">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
+  <programme start="20220412203000 -0500" stop="20220412223000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Brentford vs. West Ham United</title>
   </programme>
-  <programme start="20220405140000 +0000" stop="20220405150000 +0000" channel="PUNTO 2">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
+  <programme start="20220412223000 -0500" stop="20220412230000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">PLTV-World</title>
   </programme>
-  <programme start="20220405150000 +0000" stop="20220405153000 +0000" channel="PUNTO 2">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220405153000 +0000" stop="20220405163000 +0000" channel="PUNTO 2">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220405163000 +0000" stop="20220405170000 +0000" channel="PUNTO 2">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220405170000 +0000" stop="20220405180000 +0000" channel="PUNTO 2">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="PUNTO 2">
-    <title lang="en">Programación pagada</title>
-    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="PUNTO 2">
-    <title lang="en">Parientes a la fuerza</title>
-    <desc lang="en">La vida de George Cruz parece caerse a pedazos, pero una joven mexicana lo cambia todo.(n)</desc>
-  </programme>
-  <programme start="20220405200000 +0000" stop="20220405210000 +0000" channel="PUNTO 2">
-    <title lang="en">Buscando a Frida</title>
-    <desc lang="en">Frida, de 16 años, hija mayor del multimillonario Abelardo Pons, desaparece la noche del cumpleaños de su padre, bajo muy extrañas circunstancias. La vida de la familia cambia para siempre.(n)</desc>
-  </programme>
-  <programme start="20220405210000 +0000" stop="20220405220000 +0000" channel="PUNTO 2">
-    <title lang="en">En casa con Telemundo</title>
-    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
-  </programme>
-  <programme start="20220405220000 +0000" stop="20220405230000 +0000" channel="PUNTO 2">
-    <title lang="en">La mesa caliente</title>
-    <desc lang="en">Un equipo de mujeres audaces y empoderadas, debate sobre los temas más controversiales.(n)</desc>
-  </programme>
-  <programme start="20220405230000 +0000" stop="20220406000000 +0000" channel="PUNTO 2">
-    <title lang="en">La Doña</title>
-    <desc lang="en">Un drama que refleja la vida de 'Altagracia', una mujer que de joven sufrió el asesinato de sus padres, fue abusada sexualmente por parte de un grupo de hombres, y ya adulta, busca venganza, para llevar a cada uno de los responsables a la justicia.(n)</desc>
+  <programme start="20220412230000 -0500" stop="20220413010000 -0500" channel="SKY SPORTS 24">
+    <title lang="es">Norwich City vs. Burnley Repetición</title>
   </programme>
   <programme start="20220406000000 +0000" stop="20220406010000 +0000" channel="PUNTO 2">
     <title lang="en">El Señor de los Cielos</title>
@@ -13272,84 +13187,105 @@
     <title lang="en">La Doña</title>
     <desc lang="en">Un drama que refleja la vida de 'Altagracia', una mujer que de joven sufrió el asesinato de sus padres, fue abusada sexualmente por parte de un grupo de hombres, y ya adulta, busca venganza, para llevar a cada uno de los responsables a la justicia.(n)</desc>
   </programme>
-  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="CANAL 2">
-    <title lang="en">Teledos (live)</title>
-    <desc lang="en">Noticias nacionales e internacionales.(n)</desc>
+  <programme start="20220414000000 +0000" stop="20220414010000 +0000" channel="PUNTO 2">
+    <title lang="en">El Señor de los Cielos</title>
+    <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación.(n)</desc>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="CANAL 2">
-    <title lang="en">El Doctor milagro</title>
-    <desc lang="en">El joven Ali Vefa, abandonado de niño por su padre, logra convertirse en médico y se une al equipo de cirugía de un hospital. Pero sus relaciones interpersonales y profesionales se ven afectadas por el síndrome del sabio.(n)</desc>
+  <programme start="20220414010000 +0000" stop="20220414020000 +0000" channel="PUNTO 2">
+    <title lang="en">Al Rojo Vivo</title>
+    <desc lang="en">Espacio que transmite una amplia variedad de informaciones sobre espectáculo, deportes,.(n)</desc>
   </programme>
-  <programme start="20220405030000 +0000" stop="20220405040000 +0000" channel="CANAL 2">
-    <title lang="en">La desalmada</title>
-    <desc lang="en">Fernanda jura venganza después de que su esposo es asesinado y ella es violada en su noche de bodas. Con un mal recuerdo de esa noche traumática, Fernanda confunde a Rafael, con el hombre que arruinó su vida: el padre de Rafael.(n)</desc>
+  <programme start="20220414020000 +0000" stop="20220414030000 +0000" channel="PUNTO 2">
+    <title lang="en">Corazón valiente</title>
+    <desc lang="en">Dos fuertes mujeres encabezan una inolvidable historia de lealtad, amistad, coraje y amor. Ángela y Samantha son amigas de la infancia que se encuentran cuidando las vidas de otros como guardaespaldas, mientras tratan de encontrar esperanza y amor en sus propias vidas.(n)</desc>
   </programme>
-  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="CANAL 2">
-    <title lang="en">Enfermeras</title>
-    <desc lang="en">Es una historia de mujeres en la que María Clara (35), su protagonista, es la encargada de conducir la trama principal: una historia de amor llena de altibajos. Un matrimonio fallido, el divorcio, la crianza de sus dos hijos y el reencuentro con el amor cuando se enamora de un hombre menor que ella.(n)</desc>
+  <programme start="20220414030000 +0000" stop="20220414033000 +0000" channel="PUNTO 2">
+    <title lang="en">Noticias Telemundo</title>
+    <desc lang="en">Un análisis de las noticias más importantes e impactantes de Estados Unidos, Latinoamérica y el mundo.(n)</desc>
   </programme>
-  <programme start="20220405050000 +0000" stop="20220405060000 +0000" channel="CANAL 2">
-    <title lang="en">Teledos</title>
-    <desc lang="en">Noticias nacionales e internacionales.(n)</desc>
+  <programme start="20220414033000 +0000" stop="20220414043000 +0000" channel="PUNTO 2">
+    <title lang="en">Parientes a la fuerza</title>
+    <desc lang="en">La vida de George Cruz parece caerse a pedazos, pero una joven mexicana lo cambia todo.(n)</desc>
   </programme>
-  <programme start="20220405060000 +0000" stop="20220405070000 +0000" channel="CANAL 2">
-    <title lang="en">El Dragón: El regreso de un guerrero</title>
-    <desc lang="en">Hay peligro para la familia y para el negocio luego de la llegada del primer aviso. El abuelo ha caído enfermo y le pide a Miguel que emprenda la vuelta desde Tokio. Mientras tanto, se organiza una fiesta pero las cosas no salen según lo planeado y todo termina en una tragedia.(n)</desc>
+  <programme start="20220414043000 +0000" stop="20220414053000 +0000" channel="PUNTO 2">
+    <title lang="en">Buscando a Frida</title>
+    <desc lang="en">Frida, de 16 años, hija mayor del multimillonario Abelardo Pons, desaparece la noche del cumpleaños de su padre, bajo muy extrañas circunstancias. La vida de la familia cambia para siempre.(n)</desc>
   </programme>
-  <programme start="20220405070000 +0000" stop="20220405112500 +0000" channel="CANAL 2">
-    <title lang="en">Fin de transmisión</title>
+  <programme start="20220414053000 +0000" stop="20220414063000 +0000" channel="PUNTO 2">
+    <title lang="en">La Doña</title>
+    <desc lang="en">Un drama que refleja la vida de 'Altagracia', una mujer que de joven sufrió el asesinato de sus padres, fue abusada sexualmente por parte de un grupo de hombres, y ya adulta, busca venganza, para llevar a cada uno de los responsables a la justicia.(n)</desc>
   </programme>
-  <programme start="20220405112500 +0000" stop="20220405113000 +0000" channel="CANAL 2">
-    <title lang="en">El minuto de María</title>
-    <desc lang="en">Le dedicamos un pequeño momento a la Virgen María, madre de todos los feligreses de Dios. Comparte con nosotros este pequeño espacio de oración y reflexión.(n)</desc>
+  <programme start="20220414063000 +0000" stop="20220414073000 +0000" channel="PUNTO 2">
+    <title lang="en">El Señor de los Cielos</title>
+    <desc lang="en">Amado protege a la familia y busca fortalecer el cartel para luchar con los poderosos enemigos, dispuestos a acabar con el clan Casillas. Al mismo tiempo, ellos deben lidiar por sacar a Aurelio de su estado de coma a través de una arriesgada operación.(n)</desc>
   </programme>
-  <programme start="20220405113000 +0000" stop="20220405123000 +0000" channel="CANAL 2">
-    <title lang="en">TCS Noticias (live)</title>
-    <desc lang="en">Las noticias, con invitados especiales, análisis de la economía, un informe del tráfico vehicular y más.(n)</desc>
+  <programme start="20220414073000 +0000" stop="20220414083000 +0000" channel="PUNTO 2">
+    <title lang="en">Corazón valiente</title>
+    <desc lang="en">Dos fuertes mujeres encabezan una inolvidable historia de lealtad, amistad, coraje y amor. Ángela y Samantha son amigas de la infancia que se encuentran cuidando las vidas de otros como guardaespaldas, mientras tratan de encontrar esperanza y amor en sus propias vidas.(n)</desc>
   </programme>
-  <programme start="20220405123000 +0000" stop="20220405140000 +0000" channel="CANAL 2">
-    <title lang="en">Frente a frente (live)</title>
-    <desc lang="en">Karla Torres pone a tus artistas favoritos Frente a Frente en competencia y tú serás el que elija al ganador, las mejores batallas musicales donde tu voto decide quién es el vencedor.(n)</desc>
+  <programme start="20220414083000 +0000" stop="20220414090000 +0000" channel="PUNTO 2">
+    <title lang="en">Decisiones</title>
+    <desc lang="en">Dramatizaciones de historias reales de la vida enviadas por el público.(n)</desc>
   </programme>
-  <programme start="20220405140000 +0000" stop="20220405170000 +0000" channel="CANAL 2">
-    <title lang="en">Viva la Mañana (live)</title>
-    <desc lang="en">Consejos, moda, salud, cocina, estilo de vida, turismo, bienestar, actualidad y un sinfín de temas que mantienen actualizados a todos los guatemaltecos.(n)</desc>
+  <programme start="20220414090000 +0000" stop="20220414100000 +0000" channel="PUNTO 2">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
   </programme>
-  <programme start="20220405170000 +0000" stop="20220405173000 +0000" channel="CANAL 2">
-    <title lang="en">Secretos de cocina</title>
-    <desc lang="en">Programa de recetas de cocina.(n)</desc>
+  <programme start="20220414100000 +0000" stop="20220414110000 +0000" channel="PUNTO 2">
+    <title lang="en">Comienza el día con la pastora Wanda Rolon</title>
+    <desc lang="en">Comienza el día con la pastora Wanda Rolon y llénate de bendiciones, esperanza y paz.(n)</desc>
   </programme>
-  <programme start="20220405173000 +0000" stop="20220405180000 +0000" channel="CANAL 2">
-    <title lang="en">Los Picapiedra</title>
-    <desc lang="en">Las aventuras de una familia de la Edad de Piedra, Pedro y Vilma Picapiedra, y sus vecinos, Pablo y Betty, en el pueblo prehistórico de Piedradura. La serie estrenó el 30 de septiembre de 1960 en la ABC y terminó el 2 de septiembre de 1966.(n)</desc>
+  <programme start="20220414110000 +0000" stop="20220414120000 +0000" channel="PUNTO 2">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
-  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="CANAL 2">
-    <title lang="en">En los Tacones de Eva</title>
-    <desc lang="en">Historia de un colombiano machista que descubre el significado de ser mujer en su país.(n)</desc>
+  <programme start="20220414120000 +0000" stop="20220414140000 +0000" channel="PUNTO 2">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
-  <programme start="20220405190000 +0000" stop="20220405193000 +0000" channel="CANAL 2">
-    <title lang="en">Teledos (live)</title>
-    <desc lang="en">Noticias nacionales e internacionales.(n)</desc>
+  <programme start="20220414140000 +0000" stop="20220414150000 +0000" channel="PUNTO 2">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
-  <programme start="20220405193000 +0000" stop="20220405203000 +0000" channel="CANAL 2">
-    <title lang="en">La suerte de Loli</title>
-    <desc lang="en">La vida de Loli, una mujer profesional e independiente, dará un giro inesperado al recibir una herencia que no cree poder manejar, pero que le mostrará el verdadero significado del éxito.(n)</desc>
+  <programme start="20220414150000 +0000" stop="20220414153000 +0000" channel="PUNTO 2">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
-  <programme start="20220405203000 +0000" stop="20220405213000 +0000" channel="CANAL 2">
-    <title lang="en">S.O.S. Me estoy enamorando</title>
-    <desc lang="en">Alberto Muñoz debe salvar la imprenta que su familia tiene desde hace varias generaciones y debe llegar a un acuerdo con sus "nuevos" socios. Las cosas se complican cuando Alberto se enamora de Sofía, la hija de uno de los socios.(n)</desc>
+  <programme start="20220414153000 +0000" stop="20220414170000 +0000" channel="PUNTO 2">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
-  <programme start="20220405213000 +0000" stop="20220405223000 +0000" channel="CANAL 2">
-    <title lang="en">Contigo si</title>
-    <desc lang="en">Ángela Gutiérrez es una joven enfermera y estudiante de medicina que vive en una comunidad costera, la cual, es seducida por Álvaro Villalobos, un joven ambicioso que visita la comunidad durante un viaje de negocios, para construir...(n)</desc>
+  <programme start="20220414170000 +0000" stop="20220414173000 +0000" channel="PUNTO 2">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
-  <programme start="20220405223000 +0000" stop="20220405233000 +0000" channel="CANAL 2">
-    <title lang="en">Play</title>
-    <desc lang="en">Programa de entretenimiento musical.(n)</desc>
+  <programme start="20220414173000 +0000" stop="20220414183000 +0000" channel="PUNTO 2">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
-  <programme start="20220405233000 +0000" stop="20220406010000 +0000" channel="CANAL 2">
-    <title lang="en">Llévatelo</title>
-    <desc lang="en">Una variedad diaria de concursos a cuyos ganadores se les regalan dinero, aparatos electrodomésticos y automóviles.(n)</desc>
+  <programme start="20220414183000 +0000" stop="20220414190000 +0000" channel="PUNTO 2">
+    <title lang="en">Programación pagada</title>
+    <desc lang="en">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
+  </programme>
+  <programme start="20220414190000 +0000" stop="20220414200000 +0000" channel="PUNTO 2">
+    <title lang="en">Parientes a la fuerza</title>
+    <desc lang="en">La vida de George Cruz parece caerse a pedazos, pero una joven mexicana lo cambia todo.(n)</desc>
+  </programme>
+  <programme start="20220414200000 +0000" stop="20220414210000 +0000" channel="PUNTO 2">
+    <title lang="en">Buscando a Frida</title>
+    <desc lang="en">Frida, de 16 años, hija mayor del multimillonario Abelardo Pons, desaparece la noche del cumpleaños de su padre, bajo muy extrañas circunstancias. La vida de la familia cambia para siempre.(n)</desc>
+  </programme>
+  <programme start="20220414210000 +0000" stop="20220414220000 +0000" channel="PUNTO 2">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
+  </programme>
+  <programme start="20220414220000 +0000" stop="20220414230000 +0000" channel="PUNTO 2">
+    <title lang="en">En casa con Telemundo</title>
+    <desc lang="en">Una oferta ligera, de formato accesible, familiar y cálido que incluye entrevistas con grandes estrellas del espectáculo, invitados especiales, buenas noticias y consejos para una vida sana.(n)</desc>
+  </programme>
+  <programme start="20220414230000 +0000" stop="20220415000000 +0000" channel="PUNTO 2">
+    <title lang="en">La Doña</title>
+    <desc lang="en">Un drama que refleja la vida de 'Altagracia', una mujer que de joven sufrió el asesinato de sus padres, fue abusada sexualmente por parte de un grupo de hombres, y ya adulta, busca venganza, para llevar a cada uno de los responsables a la justicia.(n)</desc>
   </programme>
   <programme start="20220406010000 +0000" stop="20220406020000 +0000" channel="CANAL 2">
     <title lang="en">Teledos (live)</title>
@@ -14006,75 +13942,84 @@
     <title lang="en">Llévatelo</title>
     <desc lang="en">Una variedad diaria de concursos a cuyos ganadores se les regalan dinero, aparatos electrodomésticos y automóviles.(n)</desc>
   </programme>
-  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Nuevo sol</title>
-    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
+  <programme start="20220414010000 +0000" stop="20220414020000 +0000" channel="CANAL 2">
+    <title lang="en">Teledos (live)</title>
+    <desc lang="en">Noticias nacionales e internacionales.(n)</desc>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Dulce ambición</title>
-    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
+  <programme start="20220414020000 +0000" stop="20220414030000 +0000" channel="CANAL 2">
+    <title lang="en">El Doctor milagro</title>
+    <desc lang="en">El joven Ali Vefa, abandonado de niño por su padre, logra convertirse en médico y se une al equipo de cirugía de un hospital. Pero sus relaciones interpersonales y profesionales se ven afectadas por el síndrome del sabio.(n)</desc>
   </programme>
-  <programme start="20220405030000 +0000" stop="20220405040000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Querer sin límites</title>
-    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
+  <programme start="20220414030000 +0000" stop="20220414040000 +0000" channel="CANAL 2">
+    <title lang="en">La desalmada</title>
+    <desc lang="en">Fernanda jura venganza después de que su esposo es asesinado y ella es violada en su noche de bodas. Con un mal recuerdo de esa noche traumática, Fernanda confunde a Rafael, con el hombre que arruinó su vida: el padre de Rafael.(n)</desc>
   </programme>
-  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="TELEVICENTRO">
-    <title lang="en">TV noticias: Edición Nocturna</title>
-    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
+  <programme start="20220414040000 +0000" stop="20220414050000 +0000" channel="CANAL 2">
+    <title lang="en">Enfermeras</title>
+    <desc lang="en">Es una historia de mujeres en la que María Clara (35), su protagonista, es la encargada de conducir la trama principal: una historia de amor llena de altibajos. Un matrimonio fallido, el divorcio, la crianza de sus dos hijos y el reencuentro con el amor cuando se enamora de un hombre menor que ella.(n)</desc>
   </programme>
-  <programme start="20220405050000 +0000" stop="20220405060000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Primer impacto</title>
-    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  <programme start="20220414050000 +0000" stop="20220414060000 +0000" channel="CANAL 2">
+    <title lang="en">Teledos</title>
+    <desc lang="en">Noticias nacionales e internacionales.(n)</desc>
   </programme>
-  <programme start="20220405060000 +0000" stop="20220405120000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Cierre</title>
+  <programme start="20220414060000 +0000" stop="20220414070000 +0000" channel="CANAL 2">
+    <title lang="en">El Dragón: El regreso de un guerrero</title>
+    <desc lang="en">Hay peligro para la familia y para el negocio luego de la llegada del primer aviso. El abuelo ha caído enfermo y le pide a Miguel que emprenda la vuelta desde Tokio. Mientras tanto, se organiza una fiesta pero las cosas no salen según lo planeado y todo termina en una tragedia.(n)</desc>
   </programme>
-  <programme start="20220405120000 +0000" stop="20220405123000 +0000" channel="TELEVICENTRO">
-    <title lang="en">CNN</title>
-    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
+  <programme start="20220414070000 +0000" stop="20220414112500 +0000" channel="CANAL 2">
+    <title lang="en">Fin de transmisión</title>
   </programme>
-  <programme start="20220405123000 +0000" stop="20220405130000 +0000" channel="TELEVICENTRO">
-    <title lang="en">TV Noticias: Edición matutina</title>
-    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
+  <programme start="20220414112500 +0000" stop="20220414113000 +0000" channel="CANAL 2">
+    <title lang="en">El minuto de María</title>
+    <desc lang="en">Le dedicamos un pequeño momento a la Virgen María, madre de todos los feligreses de Dios. Comparte con nosotros este pequeño espacio de oración y reflexión.(n)</desc>
   </programme>
-  <programme start="20220405130000 +0000" stop="20220405160000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Revista - Primera hora</title>
-    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
+  <programme start="20220414113000 +0000" stop="20220414123000 +0000" channel="CANAL 2">
+    <title lang="en">TCS Noticias (live)</title>
+    <desc lang="en">Las noticias, con invitados especiales, análisis de la economía, un informe del tráfico vehicular y más.(n)</desc>
   </programme>
-  <programme start="20220405160000 +0000" stop="20220405170000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Luces, cámara y ¡sazón!</title>
+  <programme start="20220414123000 +0000" stop="20220414140000 +0000" channel="CANAL 2">
+    <title lang="en">Frente a frente (live)</title>
+    <desc lang="en">Karla Torres pone a tus artistas favoritos Frente a Frente en competencia y tú serás el que elija al ganador, las mejores batallas musicales donde tu voto decide quién es el vencedor.(n)</desc>
   </programme>
-  <programme start="20220405170000 +0000" stop="20220405180000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Estrella de amor</title>
-    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
+  <programme start="20220414140000 +0000" stop="20220414170000 +0000" channel="CANAL 2">
+    <title lang="en">Viva la Mañana (live)</title>
+    <desc lang="en">Consejos, moda, salud, cocina, estilo de vida, turismo, bienestar, actualidad y un sinfín de temas que mantienen actualizados a todos los guatemaltecos.(n)</desc>
   </programme>
-  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Loquito por ti</title>
-    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
+  <programme start="20220414170000 +0000" stop="20220414173000 +0000" channel="CANAL 2">
+    <title lang="en">Secretos de cocina</title>
+    <desc lang="en">Programa de recetas de cocina.(n)</desc>
   </programme>
-  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="TELEVICENTRO">
-    <title lang="en">TV noticias edición al mediodía</title>
-    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
+  <programme start="20220414173000 +0000" stop="20220414180000 +0000" channel="CANAL 2">
+    <title lang="en">Los Picapiedra</title>
+    <desc lang="en">Las aventuras de una familia de la Edad de Piedra, Pedro y Vilma Picapiedra, y sus vecinos, Pablo y Betty, en el pueblo prehistórico de Piedradura. La serie estrenó el 30 de septiembre de 1960 en la ABC y terminó el 2 de septiembre de 1966.(n)</desc>
   </programme>
-  <programme start="20220405200000 +0000" stop="20220405210000 +0000" channel="TELEVICENTRO">
-    <title lang="en">Diseñando tu amor</title>
-    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
+  <programme start="20220414180000 +0000" stop="20220414190000 +0000" channel="CANAL 2">
+    <title lang="en">En los Tacones de Eva</title>
+    <desc lang="en">Historia de un colombiano machista que descubre el significado de ser mujer en su país.(n)</desc>
   </programme>
-  <programme start="20220405210000 +0000" stop="20220405220000 +0000" channel="TELEVICENTRO">
-    <title lang="en">La Gloria de Lucho</title>
-    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  <programme start="20220414190000 +0000" stop="20220414193000 +0000" channel="CANAL 2">
+    <title lang="en">Teledos (live)</title>
+    <desc lang="en">Noticias nacionales e internacionales.(n)</desc>
   </programme>
-  <programme start="20220405220000 +0000" stop="20220405230000 +0000" channel="TELEVICENTRO">
-    <title lang="en">El gordo y la flaca</title>
-    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  <programme start="20220414193000 +0000" stop="20220414203000 +0000" channel="CANAL 2">
+    <title lang="en">La suerte de Loli</title>
+    <desc lang="en">La vida de Loli, una mujer profesional e independiente, dará un giro inesperado al recibir una herencia que no cree poder manejar, pero que le mostrará el verdadero significado del éxito.(n)</desc>
   </programme>
-  <programme start="20220405230000 +0000" stop="20220405235500 +0000" channel="TELEVICENTRO">
-    <title lang="en">Primer impacto</title>
-    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  <programme start="20220414203000 +0000" stop="20220414213000 +0000" channel="CANAL 2">
+    <title lang="en">S.O.S. Me estoy enamorando</title>
+    <desc lang="en">Alberto Muñoz debe salvar la imprenta que su familia tiene desde hace varias generaciones y debe llegar a un acuerdo con sus "nuevos" socios. Las cosas se complican cuando Alberto se enamora de Sofía, la hija de uno de los socios.(n)</desc>
   </programme>
-  <programme start="20220405235500 +0000" stop="20220406010000 +0000" channel="TELEVICENTRO">
-    <title lang="en">TV Noticias - Edición Estelar</title>
-    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
+  <programme start="20220414213000 +0000" stop="20220414223000 +0000" channel="CANAL 2">
+    <title lang="en">Contigo si</title>
+    <desc lang="en">Ángela Gutiérrez es una joven enfermera y estudiante de medicina que vive en una comunidad costera, la cual, es seducida por Álvaro Villalobos, un joven ambicioso que visita la comunidad durante un viaje de negocios, para construir...(n)</desc>
+  </programme>
+  <programme start="20220414223000 +0000" stop="20220414233000 +0000" channel="CANAL 2">
+    <title lang="en">Play</title>
+    <desc lang="en">Programa de entretenimiento musical.(n)</desc>
+  </programme>
+  <programme start="20220414233000 +0000" stop="20220415010000 +0000" channel="CANAL 2">
+    <title lang="en">Llévatelo</title>
+    <desc lang="en">Una variedad diaria de concursos a cuyos ganadores se les regalan dinero, aparatos electrodomésticos y automóviles.(n)</desc>
   </programme>
   <programme start="20220406010000 +0000" stop="20220406020000 +0000" channel="TELEVICENTRO">
     <title lang="en">Nuevo sol</title>
@@ -14714,65 +14659,75 @@
     <title lang="en">TV Noticias - Edición Estelar</title>
     <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
   </programme>
-  <programme start="20220405000000 +0000" stop="20220405010000 +0000" channel="OROMAR">
-    <title lang="en">La esclava blanca</title>
-    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
+  <programme start="20220414010000 +0000" stop="20220414020000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Nuevo sol</title>
+    <desc lang="en">Teleserie brasileña sobre una mujer que busca reunir a su familia y reencontrarse con el amor de un hombre joven.(n)</desc>
   </programme>
-  <programme start="20220405010000 +0000" stop="20220405020000 +0000" channel="OROMAR">
-    <title lang="en">Hasta que la Plata Nos Separe</title>
-    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  <programme start="20220414020000 +0000" stop="20220414030000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Dulce ambición</title>
+    <desc lang="en">María es una confitera que se convierte en una empresaria acaudalada 20 años después de perder al amor de su vida, Amadeus, a quien la abuela de esta mató el día de su boda.(n)</desc>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405031500 +0000" channel="OROMAR">
-    <title lang="en">Informativo NTI estelar</title>
-    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  <programme start="20220414030000 +0000" stop="20220414040000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Querer sin límites</title>
+    <desc lang="en">Abogado prometedor, Caio es considerado para administrar a García, una de las compañías más grandes del país, sin embargo, cuando Bibi decide poner fin a su relación, deja todo atrás y se muda a Estados Unidos. 15 años después, regresa a Brasil con más experiencia en el poder judicial y se reúne una vez más con Bibi, que no completó la universidad y está casada con Rubinho. Rubinho pasa por una delicada situación financiera.(n)</desc>
   </programme>
-  <programme start="20220405031500 +0000" stop="20220405040000 +0000" channel="OROMAR">
-    <title lang="en">Walker Texas Ranger</title>
-    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  <programme start="20220414040000 +0000" stop="20220414050000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias: Edición Nocturna</title>
+    <desc lang="en">Conoce los principales hechos en el ámbito económico, político, social y religioso que se desarrollan diariamente en Nicaragua. Con lo más relevante del acontecer nacional e internacional desde el lugar de los hechos.(n)</desc>
   </programme>
-  <programme start="20220405040000 +0000" stop="20220405110000 +0000" channel="OROMAR">
-    <title lang="en">Iglesia universal</title>
-    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  <programme start="20220414050000 +0000" stop="20220414060000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
   </programme>
-  <programme start="20220405110000 +0000" stop="20220405114500 +0000" channel="OROMAR">
-    <title lang="en">Mar de Risas</title>
-    <desc lang="en">Humor y mucho más.(n)</desc>
+  <programme start="20220414060000 +0000" stop="20220414120000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Cierre</title>
   </programme>
-  <programme start="20220405114500 +0000" stop="20220405130000 +0000" channel="OROMAR">
-    <title lang="en">Informativo NTI estelar</title>
-    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
+  <programme start="20220414120000 +0000" stop="20220414123000 +0000" channel="TELEVICENTRO">
+    <title lang="en">CNN</title>
+    <desc lang="en">El noticiero del canal más importante de noticias e información del mundo. Análisis y opinión de expertos políticos. Actualidad, política, economía, deportes, temas internacionales, y todos los datos fundamentales de lo que sucede alrededor del planeta al instante y en directo.(n)</desc>
   </programme>
-  <programme start="20220405130000 +0000" stop="20220405140000 +0000" channel="OROMAR">
-    <title lang="en">Bonanza</title>
-    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  <programme start="20220414123000 +0000" stop="20220414130000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias: Edición matutina</title>
+    <desc lang="en">Espacio informativo con todo lo que acontece en Nicaragua y que afecta al desarrollo del país a nivel social, económico, político y su repercusión internacional.(n)</desc>
   </programme>
-  <programme start="20220405140000 +0000" stop="20220405160000 +0000" channel="OROMAR">
-    <title lang="en">Walker Texas Ranger</title>
-    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  <programme start="20220414130000 +0000" stop="20220414160000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Revista - Primera hora</title>
+    <desc lang="en">Segmento que le da la oportunidad al público nicaragüense de conocer, informarse y participar de los mejores eventos nacionales e internacionales que se efectúan en nuestro país.(n)</desc>
   </programme>
-  <programme start="20220405160000 +0000" stop="20220405170000 +0000" channel="OROMAR">
-    <title lang="en">El Cartel de los Sapos</title>
-    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
+  <programme start="20220414160000 +0000" stop="20220414170000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Luces, cámara y ¡sazón!</title>
   </programme>
-  <programme start="20220405170000 +0000" stop="20220405180000 +0000" channel="OROMAR">
-    <title lang="en">Melek</title>
-    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  <programme start="20220414170000 +0000" stop="20220414180000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Estrella de amor</title>
+    <desc lang="en">Cuenta la historia de amor de dos jóvenes: Yildiz y Kuzey, quienes deciden casarse con el consentimiento de sus familias....(n)</desc>
   </programme>
-  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="OROMAR">
-    <title lang="en">Melek</title>
-    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
+  <programme start="20220414180000 +0000" stop="20220414190000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Loquito por ti</title>
+    <desc lang="en">Camilo y Juancho, mejores amigos que trabajan juntos en la orquesta del maestro Guzmá que comparten el sueño de convertirse en los músicos más reconocidos de la música tropical. En el camino al éxito conocen a Daniela, una mujer de clase alta con el sueño de convertirse en una estrella. Daniela tendrá que esconderle a su familia que forma parte de una orquesta y a sus colegas músicos les tendrá que ocultar de donde viene. Camilo y Juancho se enamoren de Daniela, su amistad llegará a su fin.(n)</desc>
   </programme>
-  <programme start="20220405190000 +0000" stop="20220405200000 +0000" channel="OROMAR">
-    <title lang="en">Hasta que la Plata Nos Separe</title>
-    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
+  <programme start="20220414190000 +0000" stop="20220414200000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV noticias edición al mediodía</title>
+    <desc lang="en">Las noticias más importantes de Nicaragua y el mundo.(n)</desc>
   </programme>
-  <programme start="20220405200000 +0000" stop="20220405220000 +0000" channel="OROMAR">
-    <title lang="en">Bonanza</title>
-    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
+  <programme start="20220414200000 +0000" stop="20220414210000 +0000" channel="TELEVICENTRO">
+    <title lang="en">Diseñando tu amor</title>
+    <desc lang="en">Valentina y Nora, son dos hermanas de la misma sangre pero con personalidades completamente distintas, comparten el mismo sueño de convertirse en diseñadoras de moda y destacar en ese mundo.(n)</desc>
   </programme>
-  <programme start="20220405220000 +0000" stop="20220406000000 +0000" channel="OROMAR">
-    <title lang="en">Walker Texas Ranger</title>
-    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
+  <programme start="20220414210000 +0000" stop="20220414220000 +0000" channel="TELEVICENTRO">
+    <title lang="en">La Gloria de Lucho</title>
+    <desc lang="en">Luis Eduardo Díaz, metro sesenta de estatura, lenguaraz, ausencia de tres piezas dentales y lustrabotas de profesión se transformó de la noche a la mañana en honorable concejal.(n)</desc>
+  </programme>
+  <programme start="20220414220000 +0000" stop="20220414230000 +0000" channel="TELEVICENTRO">
+    <title lang="en">El gordo y la flaca</title>
+    <desc lang="en">Un programa dedicado a los chismes, noticias y entrevistas con estrellas del mundo del show.(n)</desc>
+  </programme>
+  <programme start="20220414230000 +0000" stop="20220414235500 +0000" channel="TELEVICENTRO">
+    <title lang="en">Primer impacto</title>
+    <desc lang="en">Una revista que cubre las noticias de última hora y las más impactantes. Un gran equipo de periodistas ofrece completos informes del país y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220414235500 +0000" stop="20220415010000 +0000" channel="TELEVICENTRO">
+    <title lang="en">TV Noticias - Edición Estelar</title>
+    <desc lang="en">Lo más relevante del acontecer de la noticia desde el lugar de los hechos en Nicaragua y el mundo. Además, se presentan análisis, informes y debates para generar expectativa y opinión en el televidente.(n)</desc>
   </programme>
   <programme start="20220406000000 +0000" stop="20220406010000 +0000" channel="OROMAR">
     <title lang="en">La esclava blanca</title>
@@ -15274,84 +15229,65 @@
     <title lang="en">Walker Texas Ranger</title>
     <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
   </programme>
-  <programme start="20220405003000 +0000" stop="20220405013000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Lo que callamos las mujeres</title>
-    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  <programme start="20220414000000 +0000" stop="20220414010000 +0000" channel="OROMAR">
+    <title lang="en">La esclava blanca</title>
+    <desc lang="en">Sin importar el color de la piel, Victoria y Miguel correrán cualquier riesgo por defender su amor.(n)</desc>
   </programme>
-  <programme start="20220405013000 +0000" stop="20220405020000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Al Extremo</title>
-    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  <programme start="20220414010000 +0000" stop="20220414020000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
   </programme>
-  <programme start="20220405020000 +0000" stop="20220405030000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Hechos Estelar</title>
-    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  <programme start="20220414020000 +0000" stop="20220414031500 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
   </programme>
-  <programme start="20220405030000 +0000" stop="20220405040000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Deporte Caliente</title>
-    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  <programme start="20220414031500 +0000" stop="20220414040000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
   </programme>
-  <programme start="20220405040000 +0000" stop="20220405050000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">A cada quien su santo</title>
-    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  <programme start="20220414040000 +0000" stop="20220414110000 +0000" channel="OROMAR">
+    <title lang="en">Iglesia universal</title>
+    <desc lang="en">Espacio que tiene como finalidad predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
   </programme>
-  <programme start="20220405050000 +0000" stop="20220405060000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Mujeres rompiendo el silencio</title>
-    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  <programme start="20220414110000 +0000" stop="20220414114500 +0000" channel="OROMAR">
+    <title lang="en">Mar de Risas</title>
+    <desc lang="en">Humor y mucho más.(n)</desc>
   </programme>
-  <programme start="20220405060000 +0000" stop="20220405070000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Azteca hits</title>
-    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  <programme start="20220414114500 +0000" stop="20220414130000 +0000" channel="OROMAR">
+    <title lang="en">Informativo NTI estelar</title>
+    <desc lang="en">En nuestra emisión estelar, presentamos la información más importante de la actualidad a través de titulares y notas periodísticas que exponen la realidad de la jornada diaria y a nivel nacional e internacional.(n)</desc>
   </programme>
-  <programme start="20220405070000 +0000" stop="20220405080000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Lo que callamos las mujeres</title>
-    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  <programme start="20220414130000 +0000" stop="20220414140000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
   </programme>
-  <programme start="20220405080000 +0000" stop="20220405090000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">A cada quien su santo</title>
-    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  <programme start="20220414140000 +0000" stop="20220414160000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
   </programme>
-  <programme start="20220405090000 +0000" stop="20220405110000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">¡Qué buena tarde!</title>
-    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  <programme start="20220414160000 +0000" stop="20220414170000 +0000" channel="OROMAR">
+    <title lang="en">El Cartel de los Sapos</title>
+    <desc lang="en">Un grupo de amigos en Colombia se involucra en el negocio de la droga.(n)</desc>
   </programme>
-  <programme start="20220405110000 +0000" stop="20220405120000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Deporte Caliente</title>
-    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  <programme start="20220414170000 +0000" stop="20220414180000 +0000" channel="OROMAR">
+    <title lang="en">Melek</title>
+    <desc lang="en">Melek intenta reconstruir su vida con su familia y sus hijos.(n)</desc>
   </programme>
-  <programme start="20220405120000 +0000" stop="20220405123000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Hechos al despertar</title>
-    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  <programme start="20220414180000 +0000" stop="20220414190000 +0000" channel="OROMAR">
+    <title lang="en">NTI emisión central</title>
+    <desc lang="en">Te mantenemos informado sobre lo que ocurre a nivel local y nacional.(n)</desc>
   </programme>
-  <programme start="20220405123000 +0000" stop="20220405140000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Hechos A.M.</title>
-    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  <programme start="20220414190000 +0000" stop="20220414200000 +0000" channel="OROMAR">
+    <title lang="en">Hasta que la Plata Nos Separe</title>
+    <desc lang="en">La vida de un joven comerciante cambia a raíz de un trágico accidente automovilístico que lo deja en deuda con la víctima de este.(n)</desc>
   </programme>
-  <programme start="20220405140000 +0000" stop="20220405150000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Hechos al momento</title>
-    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  <programme start="20220414200000 +0000" stop="20220414220000 +0000" channel="OROMAR">
+    <title lang="en">Bonanza</title>
+    <desc lang="en">Las aventuras del Oeste, de un hombre y sus tres hijos que viven en la hacienda La Ponderosa.(n)</desc>
   </programme>
-  <programme start="20220405150000 +0000" stop="20220405180000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Venga la alegría</title>
-    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
-  </programme>
-  <programme start="20220405180000 +0000" stop="20220405190000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Hechos meridiano Honduras</title>
-    <desc lang="en">Las noticias más importante del momento.(n)</desc>
-  </programme>
-  <programme start="20220405190000 +0000" stop="20220405210000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">¡Que buena la tarde!</title>
-  </programme>
-  <programme start="20220405210000 +0000" stop="20220405220000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Azteca hits</title>
-    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
-  </programme>
-  <programme start="20220405220000 +0000" stop="20220405230000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Que chilero</title>
-    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
-  </programme>
-  <programme start="20220405230000 +0000" stop="20220406003000 +0000" channel="AZTECA HONDURAS">
-    <title lang="en">Ventaneando</title>
-    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  <programme start="20220414220000 +0000" stop="20220415000000 +0000" channel="OROMAR">
+    <title lang="en">Walker Texas Ranger</title>
+    <desc lang="en">Walker es un hombre de pocas palabras y rápidos movimientos, en esta serie de acción y aventuras.(n)</desc>
   </programme>
   <programme start="20220406003000 +0000" stop="20220406013000 +0000" channel="AZTECA HONDURAS">
     <title lang="en">Lo que callamos las mujeres</title>
@@ -15987,6 +15923,85 @@
     <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
   </programme>
   <programme start="20220413230000 +0000" stop="20220414003000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Ventaneando</title>
+    <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
+  </programme>
+  <programme start="20220414003000 +0000" stop="20220414013000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220414013000 +0000" stop="20220414020000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Al Extremo</title>
+    <desc lang="en">Un magazine con las imágenes más impactantes e historias que otros no se atreven a contar.(n)</desc>
+  </programme>
+  <programme start="20220414020000 +0000" stop="20220414030000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos Estelar</title>
+    <desc lang="en">Presentación y análisis imparcial del acontecer diario de El Salvador y del mundo.(n)</desc>
+  </programme>
+  <programme start="20220414030000 +0000" stop="20220414040000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220414040000 +0000" stop="20220414050000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220414050000 +0000" stop="20220414060000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Mujeres rompiendo el silencio</title>
+    <desc lang="en">Serie televisiva que suple a "Lo que callamos las mujeres" y que se enfoca a mujeres que trabajan de una manera distinta y que están totalmente compenetradas tanto en el liderazgo como en las redes sociales.(n)</desc>
+  </programme>
+  <programme start="20220414060000 +0000" stop="20220414070000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220414070000 +0000" stop="20220414080000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Lo que callamos las mujeres</title>
+    <desc lang="en">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras.(n)</desc>
+  </programme>
+  <programme start="20220414080000 +0000" stop="20220414090000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">A cada quien su santo</title>
+    <desc lang="en">Historias de personas de fe que se encomiendan a un santo para resolver un problema. La serie ofrece una mirada a varios santos católicos. La fe como motor de cambio es la premisa del programa, con un estilo ligero, esperanzador, divertido y familiar.(n)</desc>
+  </programme>
+  <programme start="20220414090000 +0000" stop="20220414110000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Qué buena tarde!</title>
+    <desc lang="en">Espacio diario enfocado a la familia, aunque principalmente a las amas de casa, con una fuerte participación del público mediante llamadas, redes sociales y hasta cartas.(n)</desc>
+  </programme>
+  <programme start="20220414110000 +0000" stop="20220414120000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Deporte Caliente</title>
+    <desc lang="en">Noticiero deportivo con análisis, entrevistas, reportajes y debate de temas de actualidad.(n)</desc>
+  </programme>
+  <programme start="20220414120000 +0000" stop="20220414123000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al despertar</title>
+    <desc lang="en">Infórmate en el momento justo junto a nuestros conductores y conoce los sucesos generados durante el día.(n)</desc>
+  </programme>
+  <programme start="20220414123000 +0000" stop="20220414140000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos A.M.</title>
+    <desc lang="en">Jorge Zarza y un equipo de profesionales presentan las noticias más relevantes por la mañana, sobre los últimos y más importantes acontecimientos sucedidos en todo el país y alrededor del mundo, llevando las noticias con información de primera mano en un formato destacado.(n)</desc>
+  </programme>
+  <programme start="20220414140000 +0000" stop="20220414150000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos al momento</title>
+    <desc lang="en">Las primicias más importantes del país y el mundo en un noticiero cargado de información.(n)</desc>
+  </programme>
+  <programme start="20220414150000 +0000" stop="20220414180000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Venga la alegría</title>
+    <desc lang="en">Un programa de entretenimiento, información y mucha diversión para toda la familia. Diviértete junto Patricio Borghetti, Anette Cuburu, Brandon Peniche, Sergio Sepúlveda, Ricardo Casares, Carlos Quirarte, Tabata Jalil, Mariano Sandoval y Kristal Silva en Venga la Alegría.(n)</desc>
+  </programme>
+  <programme start="20220414180000 +0000" stop="20220414190000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Hechos meridiano Honduras</title>
+    <desc lang="en">Las noticias más importante del momento.(n)</desc>
+  </programme>
+  <programme start="20220414190000 +0000" stop="20220414210000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">¡Que buena la tarde!</title>
+  </programme>
+  <programme start="20220414210000 +0000" stop="20220414220000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Azteca hits</title>
+    <desc lang="en">Videos musicales e informaciones sobre la música.(n)</desc>
+  </programme>
+  <programme start="20220414220000 +0000" stop="20220414230000 +0000" channel="AZTECA HONDURAS">
+    <title lang="en">Que chilero</title>
+    <desc lang="en">Programa de entretenimiento, juegos y comedia.(n)</desc>
+  </programme>
+  <programme start="20220414230000 +0000" stop="20220415003000 +0000" channel="AZTECA HONDURAS">
     <title lang="en">Ventaneando</title>
     <desc lang="en">La crítica más aguda y la investigación periodística del mundo del espectáculo, con el profesionalismo de experimentados periodistas.(n)</desc>
   </programme>
