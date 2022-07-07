@@ -56,6 +56,21 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/telexitos.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
+  <channel id="ONDIRECTV">
+    <display-name lang="es">ONDIRECTV</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/201.png" />
+    <url>http://www.directv.com.co</url>
+  </channel>
+  <channel id="ESPN CL">
+    <display-name lang="es">ESPN CL</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1621.png" />
+    <url>http://www.directv.com.cl</url>
+  </channel>
+  <channel id="ESPN PE">
+    <display-name lang="es">ESPN PE</display-name>
+    <icon src="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1621.png" />
+    <url>http://www.directv.com.pe</url>
+  </channel>
   <programme start="20220706010000 -0500" stop="20220706020000 -0500" channel="DTV FIGHT">
     <title lang="es">Knockouts</title>
     <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
@@ -5827,5 +5842,1694 @@
   </programme>
   <programme start="20220713233000 -0400" stop="20220714000000 -0400" channel="TELEXITOS">
     <title lang="en">Shop LC</title>
+  </programme>
+  <programme start="20220706010000 -0500" stop="20220706023000 -0500" channel="ONDIRECTV">
+    <title lang="es">Desaparecidos</title>
+    <sub-title lang="es">Saber solo que no están</sub-title>
+    <desc lang="es">Sonia Ledesma es una inspectora de policía que se incorpora al Grupo 2 de Desaparecidos de la Brigada Central, dirigida por el veterano inspector jefe Santiago Abad, después de ver como uno de sus seres queridos desaparece. Temporada:02,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220706023000 -0500" stop="20220706030000 -0500" channel="ONDIRECTV">
+    <title lang="es">Video Killed the Radio Star</title>
+    <sub-title lang="es">Coldplay</sub-title>
+    <desc lang="es">"Video Killed the Radio Star" repasa los vídeos musicales de algunos de los artistas más relevantes de la historia del Pop. A través de los testimonios de directores, coreógrafos, críticos y artistas, entenderemos el mundo Pop. Temporada:08,Episodio:12.(n)</desc>
+  </programme>
+  <programme start="20220706030000 -0500" stop="20220706040000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Salma Hayek; Måneskin</sub-title>
+    <desc lang="es">Salma Hayek ("The Eternals", "House of Gucci"). El fundador de una empresa centrada en la atención plena y la imaginación para niños. Temporada:19,Episodio:41.(n)</desc>
+  </programme>
+  <programme start="20220706040000 -0500" stop="20220706043000 -0500" channel="ONDIRECTV">
+    <title lang="es">Kitchen Impossible</title>
+    <sub-title lang="es">The Duct Tape Dilemma</sub-title>
+    <desc lang="es">Las alacenas de la cocina de Cindy y Josh han sufrido importantes daños por el agua y se están cayendo a pedazos, pero ellos no saben cómo arreglar nada sin usar cinta adhesiva. Temporada:06,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220706043000 -0500" stop="20220706050000 -0500" channel="ONDIRECTV">
+    <title lang="es">Kitchen Impossible</title>
+    <sub-title lang="es">Double Duty</sub-title>
+    <desc lang="es">La cocina de una pareja se renueva para ganar más espacio de almacenamiento y convertirse en una zona apta para los niños. Temporada:06,Episodio:04.(n)</desc>
+  </programme>
+  <programme start="20220706050000 -0500" stop="20220706060000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1076</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1076.(n)</desc>
+  </programme>
+  <programme start="20220706060000 -0500" stop="20220706070000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1077</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1077.(n)</desc>
+  </programme>
+  <programme start="20220706070000 -0500" stop="20220706080000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1078</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1078.(n)</desc>
+  </programme>
+  <programme start="20220706080000 -0500" stop="20220706090000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1079</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1079.(n)</desc>
+  </programme>
+  <programme start="20220706090000 -0500" stop="20220706110000 -0500" channel="ONDIRECTV">
+    <title lang="es">Today</title>
+    <sub-title lang="es">Episodio 2668</sub-title>
+    <desc lang="es">Noticias nacionales e internacionales, informes y entrevistas con los protagonistas de la actualidad del mundo de la política, los negocios, los medios de comunicación, el entretenimiento y los deportes. Temporada:69,Episodio:2668.(n)</desc>
+  </programme>
+  <programme start="20220706110000 -0500" stop="20220706120000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Iowa</sub-title>
+    <desc lang="es">Andrew Zimmern se entera de que hay mucho más que la carne y las papas en la mesa en Iowa; cerebros de cerdo con cebolleta kimchi; un guiso a base de la cabeza de una oveja. Temporada:09,Episodio:03.(n)</desc>
+  </programme>
+  <programme start="20220706120000 -0500" stop="20220706130000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">John Cena; Parquet Courts</sub-title>
+    <desc lang="es">John Cena ("Peacemaker"). Ellen recibe a una mujer que cambió una horquilla por una casa. La actuación de Parquet Courts. Temporada:19,Episodio:83.(n)</desc>
+  </programme>
+  <programme start="20220706130000 -0500" stop="20220706150000 -0500" channel="ONDIRECTV">
+    <title lang="es">Today</title>
+    <sub-title lang="es">Episodio 2668</sub-title>
+    <desc lang="es">Noticias nacionales e internacionales, informes y entrevistas con los protagonistas de la actualidad del mundo de la política, los negocios, los medios de comunicación, el entretenimiento y los deportes. Temporada:69,Episodio:2668.(n)</desc>
+  </programme>
+  <programme start="20220706150000 -0500" stop="20220706160000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Steve Carell; Maya Hawke; GIVEON</sub-title>
+    <desc lang="es">El comediante Jimmy Fallon recibe a sus invitados en una noche llena de diversión, música, entretenidas conversaciones y concursos. Temporada:09,Episodio:163.(n)</desc>
+  </programme>
+  <programme start="20220706160000 -0500" stop="20220706170000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Iowa</sub-title>
+    <desc lang="es">Andrew Zimmern se entera de que hay mucho más que la carne y las papas en la mesa en Iowa; cerebros de cerdo con cebolleta kimchi; un guiso a base de la cabeza de una oveja. Temporada:09,Episodio:03.(n)</desc>
+  </programme>
+  <programme start="20220706170000 -0500" stop="20220706180000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">John Cena; Parquet Courts</sub-title>
+    <desc lang="es">John Cena ("Peacemaker"). Ellen recibe a una mujer que cambió una horquilla por una casa. La actuación de Parquet Courts. Temporada:19,Episodio:83.(n)</desc>
+  </programme>
+  <programme start="20220706180000 -0500" stop="20220706193000 -0500" channel="ONDIRECTV">
+    <title lang="es">Desaparecidos</title>
+    <sub-title lang="es">Saber solo que no están</sub-title>
+    <desc lang="es">Sonia Ledesma es una inspectora de policía que se incorpora al Grupo 2 de Desaparecidos de la Brigada Central, dirigida por el veterano inspector jefe Santiago Abad, después de ver como uno de sus seres queridos desaparece. Temporada:02,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220706193000 -0500" stop="20220706201000 -0500" channel="ONDIRECTV">
+    <title lang="es">A Tiny Audience</title>
+    <sub-title lang="es">Becky G</sub-title>
+    <desc lang="es">Llega a nuestra pantalla una imperdible serie de íntimos conciertos junto a algunos de los más grandes nombres de la música en español. Temporada:03,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220706201000 -0500" stop="20220706210000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Steve Carell; Maya Hawke; GIVEON</sub-title>
+    <desc lang="es">El comediante Jimmy Fallon recibe a sus invitados en una noche llena de diversión, música, entretenidas conversaciones y concursos. Temporada:09,Episodio:163.(n)</desc>
+  </programme>
+  <programme start="20220706210000 -0500" stop="20220706213000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnCINEMA</title>
+    <sub-title lang="es">Episodio 444</sub-title>
+    <desc lang="es">Un espacio con todos los anticipos, entrevistas exclusivas y la cobertura de grandes eventos del mundo del cine. Temporada:01,Episodio:444.(n)</desc>
+  </programme>
+  <programme start="20220706213000 -0500" stop="20220706233000 -0500" channel="ONDIRECTV">
+    <title lang="es">Whiplash: Música y Obsesión</title>
+    <title lang="es">Whiplash</title>
+    <desc lang="es">Un estudiante de música de primer año se gana un asiento detrás de los tambores en una banda de jazz encabezada por su maestro quien usa el miedo y la intimidación para presionar a sus estudiantes a ser perfectos.(n)</desc>
+  </programme>
+  <programme start="20220706233000 -0500" stop="20220707000000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnCINEMA</title>
+    <sub-title lang="es">Episodio 444</sub-title>
+    <desc lang="es">Un espacio con todos los anticipos, entrevistas exclusivas y la cobertura de grandes eventos del mundo del cine. Temporada:01,Episodio:444.(n)</desc>
+  </programme>
+  <programme start="20220707000000 -0500" stop="20220707010000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Elizabeth Olsen; Gaten Matarazzo; Samantha Ruddy; Mark Normand</sub-title>
+    <desc lang="es">El comediante Jimmy Fallon recibe a sus invitados en una noche llena de diversión, música, entretenidas conversaciones y concursos. Temporada:09,Episodio:164.(n)</desc>
+  </programme>
+  <programme start="20220707010000 -0500" stop="20220707030000 -0500" channel="ONDIRECTV">
+    <title lang="es">Whiplash: Música y Obsesión</title>
+    <title lang="es">Whiplash</title>
+    <desc lang="es">Un estudiante de música de primer año se gana un asiento detrás de los tambores en una banda de jazz encabezada por su maestro quien usa el miedo y la intimidación para presionar a sus estudiantes a ser perfectos.(n)</desc>
+  </programme>
+  <programme start="20220707030000 -0500" stop="20220707040000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">John Cena; Parquet Courts</sub-title>
+    <desc lang="es">John Cena ("Peacemaker"). Ellen recibe a una mujer que cambió una horquilla por una casa. La actuación de Parquet Courts. Temporada:19,Episodio:83.(n)</desc>
+  </programme>
+  <programme start="20220707040000 -0500" stop="20220707043000 -0500" channel="ONDIRECTV">
+    <title lang="es">Kitchen Impossible</title>
+    <sub-title lang="es">Picking Up the Pieces</sub-title>
+    <desc lang="es">Kareem y Heather compraron una casa en ruinas hace 3 años, pero no sabían en qué se estaban metiendo. Temporada:06,Episodio:03.(n)</desc>
+  </programme>
+  <programme start="20220707043000 -0500" stop="20220707050000 -0500" channel="ONDIRECTV">
+    <title lang="es">Kitchen Impossible</title>
+    <sub-title lang="es">Flip Flop</sub-title>
+    <desc lang="es">Una cocina anticuada, con problemas de espacio, se convierte en un espacio funcional luego de ser trasladada a un comedor. Temporada:06,Episodio:05.(n)</desc>
+  </programme>
+  <programme start="20220707050000 -0500" stop="20220707060000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1080</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1080.(n)</desc>
+  </programme>
+  <programme start="20220707060000 -0500" stop="20220707070000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1081</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1081.(n)</desc>
+  </programme>
+  <programme start="20220707070000 -0500" stop="20220707080000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1082</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1082.(n)</desc>
+  </programme>
+  <programme start="20220707080000 -0500" stop="20220707090000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1083</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1083.(n)</desc>
+  </programme>
+  <programme start="20220707090000 -0500" stop="20220707110000 -0500" channel="ONDIRECTV">
+    <title lang="es">Today</title>
+    <sub-title lang="es">Episodio 2669</sub-title>
+    <desc lang="es">Noticias nacionales e internacionales, informes y entrevistas con los protagonistas de la actualidad del mundo de la política, los negocios, los medios de comunicación, el entretenimiento y los deportes. Temporada:69,Episodio:2669.(n)</desc>
+  </programme>
+  <programme start="20220707110000 -0500" stop="20220707120000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Wisconsin</sub-title>
+    <desc lang="es">La ciencia detrás de lo que hace que la leche sepa mejor; una cazuela serbia tradicional elaborada con órganos de cordero; testículos de emú. Temporada:09,Episodio:05.(n)</desc>
+  </programme>
+  <programme start="20220707120000 -0500" stop="20220707130000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Jessica Chastain; Girl Named Tom</sub-title>
+    <desc lang="es">Jessica Chastain ("The 355"). Ellen da la bienvenida a una niña de 7 años cuyo discurso se ha vuelto viral. Con la presentación de la ganadora de la temporada 21 de "The Voice", Girl Named Tom. Temporada:19,Episodio:79.(n)</desc>
+  </programme>
+  <programme start="20220707130000 -0500" stop="20220707150000 -0500" channel="ONDIRECTV">
+    <title lang="es">Today</title>
+    <sub-title lang="es">Episodio 2669</sub-title>
+    <desc lang="es">Noticias nacionales e internacionales, informes y entrevistas con los protagonistas de la actualidad del mundo de la política, los negocios, los medios de comunicación, el entretenimiento y los deportes. Temporada:69,Episodio:2669.(n)</desc>
+  </programme>
+  <programme start="20220707150000 -0500" stop="20220707160000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Elizabeth Olsen; Gaten Matarazzo; Samantha Ruddy; Mark Normand</sub-title>
+    <desc lang="es">El comediante Jimmy Fallon recibe a sus invitados en una noche llena de diversión, música, entretenidas conversaciones y concursos. Temporada:09,Episodio:164.(n)</desc>
+  </programme>
+  <programme start="20220707160000 -0500" stop="20220707170000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Wisconsin</sub-title>
+    <desc lang="es">La ciencia detrás de lo que hace que la leche sepa mejor; una cazuela serbia tradicional elaborada con órganos de cordero; testículos de emú. Temporada:09,Episodio:05.(n)</desc>
+  </programme>
+  <programme start="20220707170000 -0500" stop="20220707180000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Jessica Chastain; Girl Named Tom</sub-title>
+    <desc lang="es">Jessica Chastain ("The 355"). Ellen da la bienvenida a una niña de 7 años cuyo discurso se ha vuelto viral. Con la presentación de la ganadora de la temporada 21 de "The Voice", Girl Named Tom. Temporada:19,Episodio:79.(n)</desc>
+  </programme>
+  <programme start="20220707180000 -0500" stop="20220707200000 -0500" channel="ONDIRECTV">
+    <title lang="es">Whiplash: Música y Obsesión</title>
+    <title lang="es">Whiplash</title>
+    <desc lang="es">Un estudiante de música de primer año se gana un asiento detrás de los tambores en una banda de jazz encabezada por su maestro quien usa el miedo y la intimidación para presionar a sus estudiantes a ser perfectos.(n)</desc>
+  </programme>
+  <programme start="20220707200000 -0500" stop="20220707210000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Elizabeth Olsen; Gaten Matarazzo; Samantha Ruddy; Mark Normand</sub-title>
+    <desc lang="es">El comediante Jimmy Fallon recibe a sus invitados en una noche llena de diversión, música, entretenidas conversaciones y concursos. Temporada:09,Episodio:164.(n)</desc>
+  </programme>
+  <programme start="20220707210000 -0500" stop="20220707213000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Album Mode</sub-title>
+    <desc lang="es">Cuando Girls5eva consigue un contrato discográfico, Dawn, Wickie, Summer y Gloria descubren cuánto están dispuestas a sacrificar por tal oportunidad. Temporada:02,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220707213000 -0500" stop="20220707220000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Triumphant Return to the Studio</sub-title>
+    <desc lang="es">A Dawn le preocupa que su estatus como compositora del grupo esté en peligro. Wickie entra en pánico por una foto poco favorecedora de un paparazzi. Summer lucha por separarse oficialmente de Kev. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220707220000 -0500" stop="20220707233000 -0500" channel="ONDIRECTV">
+    <title lang="es">Malfunction: The Dressing Down of Janet Jackson</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20220707233000 -0500" stop="20220708000000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Album Mode</sub-title>
+    <desc lang="es">Cuando Girls5eva consigue un contrato discográfico, Dawn, Wickie, Summer y Gloria descubren cuánto están dispuestas a sacrificar por tal oportunidad. Temporada:02,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220708000000 -0500" stop="20220708003000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Triumphant Return to the Studio</sub-title>
+    <desc lang="es">A Dawn le preocupa que su estatus como compositora del grupo esté en peligro. Wickie entra en pánico por una foto poco favorecedora de un paparazzi. Summer lucha por separarse oficialmente de Kev. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220708003000 -0500" stop="20220708013000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Dan White</sub-title>
+    <desc lang="es">El comediante Jimmy Fallon recibe a sus invitados en una noche llena de diversión, música, entretenidas conversaciones y concursos.(n)</desc>
+  </programme>
+  <programme start="20220708013000 -0500" stop="20220708020000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Album Mode</sub-title>
+    <desc lang="es">Cuando Girls5eva consigue un contrato discográfico, Dawn, Wickie, Summer y Gloria descubren cuánto están dispuestas a sacrificar por tal oportunidad. Temporada:02,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220708020000 -0500" stop="20220708023000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Triumphant Return to the Studio</sub-title>
+    <desc lang="es">A Dawn le preocupa que su estatus como compositora del grupo esté en peligro. Wickie entra en pánico por una foto poco favorecedora de un paparazzi. Summer lucha por separarse oficialmente de Kev. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220708023000 -0500" stop="20220708030000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Other Voices: Mumford &amp; Sons + Hozier</title>
+    <sub-title lang="es">Other Voices: Mumford &amp; Sons + Hozier</sub-title>
+    <desc lang="es">Mumford &amp; Sons visita Arlyn Studios, en Austin, para un set único. La banda interpreta canciones de su último álbum "Wilder Mind". También, Hozier habla sobre su carrera y sus influencias musicales.(n)</desc>
+  </programme>
+  <programme start="20220708030000 -0500" stop="20220708040000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Jessica Chastain; Girl Named Tom</sub-title>
+    <desc lang="es">Jessica Chastain ("The 355"). Ellen da la bienvenida a una niña de 7 años cuyo discurso se ha vuelto viral. Con la presentación de la ganadora de la temporada 21 de "The Voice", Girl Named Tom. Temporada:19,Episodio:79.(n)</desc>
+  </programme>
+  <programme start="20220708040000 -0500" stop="20220708043000 -0500" channel="ONDIRECTV">
+    <title lang="es">Kitchen Impossible</title>
+    <sub-title lang="es">Old to Orderly</sub-title>
+    <desc lang="es">Una cocina de estilo retro de los años 50 se actualiza con nuevas alacenas y mucho espacio de almacenamiento. Temporada:06,Episodio:06.(n)</desc>
+  </programme>
+  <programme start="20220708043000 -0500" stop="20220708050000 -0500" channel="ONDIRECTV">
+    <title lang="es">Kitchen Impossible</title>
+    <sub-title lang="es">Windows of Opportunity</sub-title>
+    <desc lang="es">Al quitar dos ventanas en una cocina se dispone de más espacio para armarios y encimeras, y se abre espacio para una barra de desayuno. Temporada:06,Episodio:07.(n)</desc>
+  </programme>
+  <programme start="20220708050000 -0500" stop="20220708060000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1084</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1084.(n)</desc>
+  </programme>
+  <programme start="20220708060000 -0500" stop="20220708070000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1085</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1085.(n)</desc>
+  </programme>
+  <programme start="20220708070000 -0500" stop="20220708080000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1086</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1086.(n)</desc>
+  </programme>
+  <programme start="20220708080000 -0500" stop="20220708090000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1087</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1087.(n)</desc>
+  </programme>
+  <programme start="20220708090000 -0500" stop="20220708110000 -0500" channel="ONDIRECTV">
+    <title lang="es">Today</title>
+    <sub-title lang="es">Episodio 2670</sub-title>
+    <desc lang="es">Noticias nacionales e internacionales, informes y entrevistas con los protagonistas de la actualidad del mundo de la política, los negocios, los medios de comunicación, el entretenimiento y los deportes. Temporada:69,Episodio:2670.(n)</desc>
+  </programme>
+  <programme start="20220708110000 -0500" stop="20220708120000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Chicago's Cutting Edge</sub-title>
+    <desc lang="es">Un plato de pescado hecho con ámbar gris; charcutería que incluye paté de corazón de pato; sopa con olor a difunto. Temporada:09,Episodio:06.(n)</desc>
+  </programme>
+  <programme start="20220708120000 -0500" stop="20220708130000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Colin Farrell; Colman Domingo; Mat Franco</sub-title>
+    <desc lang="es">Los invitados son el actor Colin Farrell, protagonista de "The Batman" y "After Yang"; el actor Colman Domingo, intérprete en "Euphoria" y "In Five Speeches"; y el mago Mat Franco, que presenta el espectáculo "Magic Reinvented Nightly" en Las Vegas. Temporada:19,Episodio:117.(n)</desc>
+  </programme>
+  <programme start="20220708130000 -0500" stop="20220708150000 -0500" channel="ONDIRECTV">
+    <title lang="es">Today</title>
+    <sub-title lang="es">Episodio 2670</sub-title>
+    <desc lang="es">Noticias nacionales e internacionales, informes y entrevistas con los protagonistas de la actualidad del mundo de la política, los negocios, los medios de comunicación, el entretenimiento y los deportes. Temporada:69,Episodio:2670.(n)</desc>
+  </programme>
+  <programme start="20220708150000 -0500" stop="20220708160000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Dan White</sub-title>
+    <desc lang="es">El comediante Jimmy Fallon recibe a sus invitados en una noche llena de diversión, música, entretenidas conversaciones y concursos.(n)</desc>
+  </programme>
+  <programme start="20220708160000 -0500" stop="20220708170000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Chicago's Cutting Edge</sub-title>
+    <desc lang="es">Un plato de pescado hecho con ámbar gris; charcutería que incluye paté de corazón de pato; sopa con olor a difunto. Temporada:09,Episodio:06.(n)</desc>
+  </programme>
+  <programme start="20220708170000 -0500" stop="20220708180000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Colin Farrell; Colman Domingo; Mat Franco</sub-title>
+    <desc lang="es">Los invitados son el actor Colin Farrell, protagonista de "The Batman" y "After Yang"; el actor Colman Domingo, intérprete en "Euphoria" y "In Five Speeches"; y el mago Mat Franco, que presenta el espectáculo "Magic Reinvented Nightly" en Las Vegas. Temporada:19,Episodio:117.(n)</desc>
+  </programme>
+  <programme start="20220708180000 -0500" stop="20220708183000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Album Mode</sub-title>
+    <desc lang="es">Cuando Girls5eva consigue un contrato discográfico, Dawn, Wickie, Summer y Gloria descubren cuánto están dispuestas a sacrificar por tal oportunidad. Temporada:02,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220708183000 -0500" stop="20220708190000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Triumphant Return to the Studio</sub-title>
+    <desc lang="es">A Dawn le preocupa que su estatus como compositora del grupo esté en peligro. Wickie entra en pánico por una foto poco favorecedora de un paparazzi. Summer lucha por separarse oficialmente de Kev. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220708190000 -0500" stop="20220708200000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Front And Center Presents Sheryl Crow</title>
+    <sub-title lang="es">Front And Center Presents Sheryl Crow</sub-title>
+    <desc lang="es">En este show, la cantautora ganadora de nueve premios Grammy Sheryl Crow canta "If It Makes You Happy", "Soak Up The Sun" y "All I Wanna Do".(n)</desc>
+  </programme>
+  <programme start="20220708200000 -0500" stop="20220708210000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Dan White</sub-title>
+    <desc lang="es">El comediante Jimmy Fallon recibe a sus invitados en una noche llena de diversión, música, entretenidas conversaciones y concursos.(n)</desc>
+  </programme>
+  <programme start="20220708210000 -0500" stop="20220708220000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Rita Ora At The Eiffel Tower</title>
+    <sub-title lang="es">Rita Ora At The Eiffel Tower</sub-title>
+    <desc lang="es">Los mejores conciertos de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20220708220000 -0500" stop="20220708233000 -0500" channel="ONDIRECTV">
+    <title lang="es">Malfunction: The Dressing Down of Janet Jackson</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20220708233000 -0500" stop="20220709000000 -0500" channel="ONDIRECTV">
+    <title lang="es">Video Killed the Radio Star</title>
+    <sub-title lang="es">Britney Spears</sub-title>
+    <desc lang="es">Una mirada a algunos de los vídeos musicales más influyentes de la princesa del pop. Un repaso de qué fue lo que convirtió a Britney Spears en una estrella masiva. Temporada:08,Episodio:10.(n)</desc>
+  </programme>
+  <programme start="20220709000000 -0500" stop="20220709010000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Chris Martin; Bryce Dallas Howard; The Weirdos</sub-title>
+    <desc lang="es">Los invitados son el cantante Chris Martin y la actriz Bryce Dallas Howard. Además, actuación musical de The Weirdos con la colaboración de Chris Martin. Temporada:09,Episodio:151.(n)</desc>
+  </programme>
+  <programme start="20220709010000 -0500" stop="20220709020000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Rita Ora At The Eiffel Tower</title>
+    <sub-title lang="es">Rita Ora At The Eiffel Tower</sub-title>
+    <desc lang="es">Los mejores conciertos de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20220709020000 -0500" stop="20220709030000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Machine Gun Kelly</title>
+    <sub-title lang="es">Machine Gun Kelly</sub-title>
+    <desc lang="es">El rapero, actor y fashionista Machine Gun Kelly interpreta en este show hits comoWild Boys y Bad Things. Además, es acompañado por el grupo de hip-hop Migos para una explosiva versión de Bad and Boujee.(n)</desc>
+  </programme>
+  <programme start="20220709030000 -0500" stop="20220709040000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Colin Farrell; Colman Domingo; Mat Franco</sub-title>
+    <desc lang="es">Los invitados son el actor Colin Farrell, protagonista de "The Batman" y "After Yang"; el actor Colman Domingo, intérprete en "Euphoria" y "In Five Speeches"; y el mago Mat Franco, que presenta el espectáculo "Magic Reinvented Nightly" en Las Vegas. Temporada:19,Episodio:117.(n)</desc>
+  </programme>
+  <programme start="20220709040000 -0500" stop="20220709050000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Soundstage Presented Counting Crows</title>
+    <sub-title lang="es">Soundstage Presented Counting Crows</sub-title>
+    <desc lang="es">Con su mezcla de blues, rock y country, la banda Counting Crows sabe perfectamente cómo entretener a su audiencia. Interpretan hits como "Mr. Jones", "Hangin' Around", "Rain King" y "Mrs. Potter's Lullaby".(n)</desc>
+  </programme>
+  <programme start="20220709050000 -0500" stop="20220709060000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1088</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1088.(n)</desc>
+  </programme>
+  <programme start="20220709060000 -0500" stop="20220709070000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1089</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1089.(n)</desc>
+  </programme>
+  <programme start="20220709070000 -0500" stop="20220709080000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1090</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1090.(n)</desc>
+  </programme>
+  <programme start="20220709080000 -0500" stop="20220709090000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1091</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1091.(n)</desc>
+  </programme>
+  <programme start="20220709090000 -0500" stop="20220709100000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Baltimore And Chesapeake Bay</sub-title>
+    <desc lang="es">Sándwiches de lengua de ternera; Alimentos coreanos que incluyen estómago de cerdo hervido y morcilla; alimentos tradicionales de bahía, como la rata almizclera a la brasa y anguila a la parrilla. Temporada:09,Episodio:07.(n)</desc>
+  </programme>
+  <programme start="20220709100000 -0500" stop="20220709110000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Washington D.C</sub-title>
+    <desc lang="es">Cabeza de serpiente fresca sacada de Potomac; pupusas en un restaurante Salvadoreño; sándwiches de mantequilla de maní hechas con foie gras. Temporada:09,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220709110000 -0500" stop="20220709113000 -0500" channel="ONDIRECTV">
+    <title lang="es">Hilos : Canelo Álvarez</title>
+    <sub-title lang="es">Canelo Álvarez</sub-title>
+    <desc lang="es">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+  </programme>
+  <programme start="20220709113000 -0500" stop="20220709120000 -0500" channel="ONDIRECTV">
+    <title lang="es">Hilos : Mike Tyson</title>
+    <sub-title lang="es">Mike Tyson</sub-title>
+    <desc lang="es">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+  </programme>
+  <programme start="20220709120000 -0500" stop="20220709133000 -0500" channel="ONDIRECTV">
+    <title lang="es">Muhammad Ali</title>
+    <sub-title lang="es">Round One: The Greatest (1942-1964)</sub-title>
+    <desc lang="es">El boxeador Cassius Clay surge de la categoría de aficionados y gana la medalla de oro en las Olimpiadas de 1960. De allí, pasa a competir por el título de campeón de peso pesado. Temporada:01,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220709133000 -0500" stop="20220709150000 -0500" channel="ONDIRECTV">
+    <title lang="es">Muhammad Ali</title>
+    <sub-title lang="es">Round Two: What's My Name? (1964-1970)</sub-title>
+    <desc lang="es">Cassius Clay se une a la Nación del Islam con el nombre de Muhammad Ali. Cuando se rehúsa a unirse al Ejército de los Estados Unidos, pierde el título y se ve obligado a exiliarse. Temporada:01,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220709150000 -0500" stop="20220709170000 -0500" channel="ONDIRECTV">
+    <title lang="es">En la cuerda floja</title>
+    <title lang="es">The Walk</title>
+    <desc lang="es">El funambulista Philippe Petit se gana la vida actuando en la calle, siempre en busca del lugar perfecto para tender su cable. Cuando descubre las Torres Gemelas de Nueva York, aún en construcción, las convierte en su próximo objetivo.(n)</desc>
+  </programme>
+  <programme start="20220709170000 -0500" stop="20220709190000 -0500" channel="ONDIRECTV">
+    <title lang="es">La boda de mi mejor amigo</title>
+    <title lang="es">My Best Friend's Wedding</title>
+    <desc lang="es">Julianne descubre cuánto ama a su gran amigo Michael el día en que éste decide casarse con su novia. Invitada de honor a la ceremonia, hará todo lo posible para impedir que se celebre la boda.(n)</desc>
+  </programme>
+  <programme start="20220709190000 -0500" stop="20220709200000 -0500" channel="ONDIRECTV">
+    <title lang="es">Lo mejor de La hora Hola</title>
+    <sub-title lang="es">Episodio 279</sub-title>
+    <desc lang="es">Un magazín de actualidad con noticias relacionadas a las celebridades, estrellas del cine, música, entretenimiento, moda, familias reales y atletas de fama internacional. Temporada:01,Episodio:279.(n)</desc>
+  </programme>
+  <programme start="20220709200000 -0500" stop="20220709210000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Rita Ora At The Eiffel Tower</title>
+    <sub-title lang="es">Rita Ora At The Eiffel Tower</sub-title>
+    <desc lang="es">Los mejores conciertos de todo el mundo.(n)</desc>
+  </programme>
+  <programme start="20220709210000 -0500" stop="20220709223000 -0500" channel="ONDIRECTV">
+    <title lang="es">Malfunction: The Dressing Down of Janet Jackson</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20220709223000 -0500" stop="20220709230000 -0500" channel="ONDIRECTV">
+    <title lang="es">Video Killed the Radio Star</title>
+    <sub-title lang="es">Britney Spears</sub-title>
+    <desc lang="es">Una mirada a algunos de los vídeos musicales más influyentes de la princesa del pop. Un repaso de qué fue lo que convirtió a Britney Spears en una estrella masiva. Temporada:08,Episodio:10.(n)</desc>
+  </programme>
+  <programme start="20220709230000 -0500" stop="20220710000000 -0500" channel="ONDIRECTV">
+    <title lang="es">Temple</title>
+    <sub-title lang="es">202</sub-title>
+    <desc lang="es">Nuevas complicaciones surgen cuando Daniel y Lee vuelven a caer en viejos hábitos para llegar a fin de mes. De vuelta a casa, Beth está rodeada de pistas pero necesita encajar las piezas. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220710000000 -0500" stop="20220710010000 -0500" channel="ONDIRECTV">
+    <title lang="es">Fargo</title>
+    <sub-title lang="es">The Birthplace of Civilization</sub-title>
+    <desc lang="es">Josto contraataca. Ethelrida hace lo correcto. Loy se encuentra acorralado. Deafy intenta provocar una reacción. Temporada:04,Episodio:05.(n)</desc>
+  </programme>
+  <programme start="20220710010000 -0500" stop="20220710023000 -0500" channel="ONDIRECTV">
+    <title lang="es">Desaparecidos</title>
+    <sub-title lang="es">Saber solo que no están</sub-title>
+    <desc lang="es">Sonia Ledesma es una inspectora de policía que se incorpora al Grupo 2 de Desaparecidos de la Brigada Central, dirigida por el veterano inspector jefe Santiago Abad, después de ver como uno de sus seres queridos desaparece. Temporada:02,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220710023000 -0500" stop="20220710030000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Other Voices: George Ezra + Elbow</title>
+    <sub-title lang="es">Other Voices: George Ezra + Elbow</sub-title>
+    <desc lang="es">George Ezra se une a Other Voices. Ezra, quien es conocido por su peculiar voz, ofrece una actuación memorable de temas con "Did You Hear The Rain" y "Cassy O" de su álbum debut.(n)</desc>
+  </programme>
+  <programme start="20220710030000 -0500" stop="20220710040000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : The Big Four: Slayer</title>
+    <sub-title lang="es">The Big Four: Slayer</sub-title>
+    <desc lang="es">El show de una de las más grandes bandas de metal. Incluye canciones como `Raining Blood', `Angel of Death', `War Ensemble', `Mandatory Suicide' y `Disciple'.(n)</desc>
+  </programme>
+  <programme start="20220710040000 -0500" stop="20220710050000 -0500" channel="ONDIRECTV">
+    <title lang="es">OnSTAGE : Soundstage Presents Josh Groban</title>
+    <sub-title lang="es">Soundstage Presents Josh Groban</sub-title>
+    <desc lang="es">Este concierto, registrado frente a más de 15 mil fans en el Energy Solutions Arena de Salt Lake City, incluye versiones en vivo de canciones como "You Are Loved (Don't Give Up)", "Machine" y "Awake".(n)</desc>
+  </programme>
+  <programme start="20220710050000 -0500" stop="20220710060000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1072</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1072.(n)</desc>
+  </programme>
+  <programme start="20220710060000 -0500" stop="20220710070000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1073</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1073.(n)</desc>
+  </programme>
+  <programme start="20220710070000 -0500" stop="20220710080000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1074</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1074.(n)</desc>
+  </programme>
+  <programme start="20220710080000 -0500" stop="20220710090000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1075</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1075.(n)</desc>
+  </programme>
+  <programme start="20220710090000 -0500" stop="20220710100000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Baltimore And Chesapeake Bay</sub-title>
+    <desc lang="es">Sándwiches de lengua de ternera; Alimentos coreanos que incluyen estómago de cerdo hervido y morcilla; alimentos tradicionales de bahía, como la rata almizclera a la brasa y anguila a la parrilla. Temporada:09,Episodio:07.(n)</desc>
+  </programme>
+  <programme start="20220710100000 -0500" stop="20220710110000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Washington D.C</sub-title>
+    <desc lang="es">Cabeza de serpiente fresca sacada de Potomac; pupusas en un restaurante Salvadoreño; sándwiches de mantequilla de maní hechas con foie gras. Temporada:09,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220710110000 -0500" stop="20220710113000 -0500" channel="ONDIRECTV">
+    <title lang="es">Hilos : Canelo Álvarez</title>
+    <sub-title lang="es">Canelo Álvarez</sub-title>
+    <desc lang="es">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+  </programme>
+  <programme start="20220710113000 -0500" stop="20220710120000 -0500" channel="ONDIRECTV">
+    <title lang="es">Hilos : Mike Tyson</title>
+    <sub-title lang="es">Mike Tyson</sub-title>
+    <desc lang="es">Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial, mediante una narración innovadora que combinará los conceptos y aportes de las redes sociales con el formato televisivo.(n)</desc>
+  </programme>
+  <programme start="20220710120000 -0500" stop="20220710133000 -0500" channel="ONDIRECTV">
+    <title lang="es">Muhammad Ali</title>
+    <sub-title lang="es">Round Three: The Rivalry (1970-1974)</sub-title>
+    <desc lang="es">Después de su regreso del exilio, Muhammad Ali se enfrenta a Joe Frazie y el Gobierno de los Estados Unidos para intentar recuperar el título de campeón de peso pesado. Temporada:01,Episodio:03.(n)</desc>
+  </programme>
+  <programme start="20220710133000 -0500" stop="20220710150000 -0500" channel="ONDIRECTV">
+    <title lang="es">Muhammad Ali</title>
+    <sub-title lang="es">Round Four: The Spell Remains (1974-2016)</sub-title>
+    <desc lang="es">Muhammad Ali derrota a George Foreman, recuperando el título de peso pesado. Después de jubilarse en 1981, Ali viaja por el mundo como símbolo de paz y esperanza. Temporada:01,Episodio:04.(n)</desc>
+  </programme>
+  <programme start="20220710150000 -0500" stop="20220710170000 -0500" channel="ONDIRECTV">
+    <title lang="es">En la cuerda floja</title>
+    <title lang="es">The Walk</title>
+    <desc lang="es">El funambulista Philippe Petit se gana la vida actuando en la calle, siempre en busca del lugar perfecto para tender su cable. Cuando descubre las Torres Gemelas de Nueva York, aún en construcción, las convierte en su próximo objetivo.(n)</desc>
+  </programme>
+  <programme start="20220710170000 -0500" stop="20220710190000 -0500" channel="ONDIRECTV">
+    <title lang="es">La boda de mi mejor amigo</title>
+    <title lang="es">My Best Friend's Wedding</title>
+    <desc lang="es">Julianne descubre cuánto ama a su gran amigo Michael el día en que éste decide casarse con su novia. Invitada de honor a la ceremonia, hará todo lo posible para impedir que se celebre la boda.(n)</desc>
+  </programme>
+  <programme start="20220710190000 -0500" stop="20220710200000 -0500" channel="ONDIRECTV">
+    <title lang="es">Lo mejor de La hora Hola</title>
+    <sub-title lang="es">Episodio 279</sub-title>
+    <desc lang="es">Un magazín de actualidad con noticias relacionadas a las celebridades, estrellas del cine, música, entretenimiento, moda, familias reales y atletas de fama internacional. Temporada:01,Episodio:279.(n)</desc>
+  </programme>
+  <programme start="20220710200000 -0500" stop="20220710203000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Album Mode</sub-title>
+    <desc lang="es">Cuando Girls5eva consigue un contrato discográfico, Dawn, Wickie, Summer y Gloria descubren cuánto están dispuestas a sacrificar por tal oportunidad. Temporada:02,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220710203000 -0500" stop="20220710210000 -0500" channel="ONDIRECTV">
+    <title lang="es">Girls5eva</title>
+    <sub-title lang="es">Triumphant Return to the Studio</sub-title>
+    <desc lang="es">A Dawn le preocupa que su estatus como compositora del grupo esté en peligro. Wickie entra en pánico por una foto poco favorecedora de un paparazzi. Summer lucha por separarse oficialmente de Kev. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220710210000 -0500" stop="20220710220000 -0500" channel="ONDIRECTV">
+    <title lang="es">Temple</title>
+    <sub-title lang="es">202</sub-title>
+    <desc lang="es">Nuevas complicaciones surgen cuando Daniel y Lee vuelven a caer en viejos hábitos para llegar a fin de mes. De vuelta a casa, Beth está rodeada de pistas pero necesita encajar las piezas. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220710220000 -0500" stop="20220710230000 -0500" channel="ONDIRECTV">
+    <title lang="es">Fargo</title>
+    <sub-title lang="es">The Birthplace of Civilization</sub-title>
+    <desc lang="es">Josto contraataca. Ethelrida hace lo correcto. Loy se encuentra acorralado. Deafy intenta provocar una reacción. Temporada:04,Episodio:05.(n)</desc>
+  </programme>
+  <programme start="20220710230000 -0500" stop="20220711010000 -0500" channel="ONDIRECTV">
+    <title lang="es">Whiplash: Música y Obsesión</title>
+    <title lang="es">Whiplash</title>
+    <desc lang="es">Un estudiante de música de primer año se gana un asiento detrás de los tambores en una banda de jazz encabezada por su maestro quien usa el miedo y la intimidación para presionar a sus estudiantes a ser perfectos.(n)</desc>
+  </programme>
+  <programme start="20220712000000 -0500" stop="20220712010000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Adam Sandler; Ben Falcone; Nimesh Patel</sub-title>
+    <desc lang="es">El actor Adam Sandler. El actor Ben Falcone. El comediante Nimesh Patel. Temporada:09,Episodio:147.(n)</desc>
+  </programme>
+  <programme start="20220712010000 -0500" stop="20220712020000 -0500" channel="ONDIRECTV">
+    <title lang="es">Temple</title>
+    <sub-title lang="es">203</sub-title>
+    <desc lang="es">Empujado por una tragedia personal, un exitoso cirujano organiza una clínica ilegal clandestina para aquellos que necesitan atención médica, pero no pueden recibirla de manera lícita. Temporada:02,Episodio:03.(n)</desc>
+  </programme>
+  <programme start="20220712020000 -0500" stop="20220712030000 -0500" channel="ONDIRECTV">
+    <title lang="es">Fargo</title>
+    <sub-title lang="es">Camp Elegance</sub-title>
+    <desc lang="es">Loy ataca, Gaetano paga el precio, Oraetta enloquece, Josto desafía la autoridad y Rabbi arriesga su vida. Temporada:04,Episodio:06.(n)</desc>
+  </programme>
+  <programme start="20220712030000 -0500" stop="20220712040000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Penélope Cruz</sub-title>
+    <desc lang="es">Se presentan Penélope Cruz ("El 355") y el experto en tiburones Demian Chapman (campaña "En peligro de extinción"). Temporada:19,Episodio:80.(n)</desc>
+  </programme>
+  <programme start="20220712040000 -0500" stop="20220712050000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Washington D.C</sub-title>
+    <desc lang="es">Cabeza de serpiente fresca sacada de Potomac; pupusas en un restaurante Salvadoreño; sándwiches de mantequilla de maní hechas con foie gras. Temporada:09,Episodio:01.(n)</desc>
+  </programme>
+  <programme start="20220712050000 -0500" stop="20220712060000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1080</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1080.(n)</desc>
+  </programme>
+  <programme start="20220712060000 -0500" stop="20220712070000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1081</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1081.(n)</desc>
+  </programme>
+  <programme start="20220712070000 -0500" stop="20220712080000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1082</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1082.(n)</desc>
+  </programme>
+  <programme start="20220712080000 -0500" stop="20220712090000 -0500" channel="ONDIRECTV">
+    <title lang="es">Baby TV</title>
+    <sub-title lang="es">Episodio 1083</sub-title>
+    <desc lang="es">Diversión para los bebés y los niños menores de 3 años, diseñado para fomentar su desarrollo. Temporada:01,Episodio:1083.(n)</desc>
+  </programme>
+  <programme start="20220712090000 -0500" stop="20220712110000 -0500" channel="ONDIRECTV">
+    <title lang="es">Today</title>
+    <sub-title lang="es">Episodio 2672</sub-title>
+    <desc lang="es">Noticias nacionales e internacionales, informes y entrevistas con los protagonistas de la actualidad del mundo de la política, los negocios, los medios de comunicación, el entretenimiento y los deportes. Temporada:69,Episodio:2672.(n)</desc>
+  </programme>
+  <programme start="20220712110000 -0500" stop="20220712120000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Portland</sub-title>
+    <desc lang="es">Corazón de alce con huevo de pavo crudo; bourbon con cerezas ahumadas y medula ósea; hígado de ganso con cocoa. Temporada:09,Episodio:10.(n)</desc>
+  </programme>
+  <programme start="20220712120000 -0500" stop="20220712130000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Mahershala Ali; Martha Stewart</sub-title>
+    <desc lang="es">Mahershala Ali, protagonista de "Swan Song". Martha Stewart presenta la página web Martha.com. Ellen recibe al esquiador Colby Stevenson, quien sobrevivió a un terrible accidente automovilístico y regresó a las pistas para ganar la Copa del Mundo. Temporada:19,Episodio:90.(n)</desc>
+  </programme>
+  <programme start="20220712130000 -0500" stop="20220712150000 -0500" channel="ONDIRECTV">
+    <title lang="es">Today</title>
+    <sub-title lang="es">Episodio 2672</sub-title>
+    <desc lang="es">Noticias nacionales e internacionales, informes y entrevistas con los protagonistas de la actualidad del mundo de la política, los negocios, los medios de comunicación, el entretenimiento y los deportes. Temporada:69,Episodio:2672.(n)</desc>
+  </programme>
+  <programme start="20220712150000 -0500" stop="20220712160000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Adam Sandler; Ben Falcone; Nimesh Patel</sub-title>
+    <desc lang="es">El actor Adam Sandler. El actor Ben Falcone. El comediante Nimesh Patel. Temporada:09,Episodio:147.(n)</desc>
+  </programme>
+  <programme start="20220712160000 -0500" stop="20220712170000 -0500" channel="ONDIRECTV">
+    <title lang="es">Bizarre Foods America</title>
+    <sub-title lang="es">Portland</sub-title>
+    <desc lang="es">Corazón de alce con huevo de pavo crudo; bourbon con cerezas ahumadas y medula ósea; hígado de ganso con cocoa. Temporada:09,Episodio:10.(n)</desc>
+  </programme>
+  <programme start="20220712170000 -0500" stop="20220712180000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Ellen DeGeneres Show</title>
+    <sub-title lang="es">Mahershala Ali; Martha Stewart</sub-title>
+    <desc lang="es">Mahershala Ali, protagonista de "Swan Song". Martha Stewart presenta la página web Martha.com. Ellen recibe al esquiador Colby Stevenson, quien sobrevivió a un terrible accidente automovilístico y regresó a las pistas para ganar la Copa del Mundo. Temporada:19,Episodio:90.(n)</desc>
+  </programme>
+  <programme start="20220712180000 -0500" stop="20220712190000 -0500" channel="ONDIRECTV">
+    <title lang="es">Temple</title>
+    <sub-title lang="es">203</sub-title>
+    <desc lang="es">Empujado por una tragedia personal, un exitoso cirujano organiza una clínica ilegal clandestina para aquellos que necesitan atención médica, pero no pueden recibirla de manera lícita. Temporada:02,Episodio:03.(n)</desc>
+  </programme>
+  <programme start="20220712190000 -0500" stop="20220712200000 -0500" channel="ONDIRECTV">
+    <title lang="es">Fargo</title>
+    <sub-title lang="es">Camp Elegance</sub-title>
+    <desc lang="es">Loy ataca, Gaetano paga el precio, Oraetta enloquece, Josto desafía la autoridad y Rabbi arriesga su vida. Temporada:04,Episodio:06.(n)</desc>
+  </programme>
+  <programme start="20220712200000 -0500" stop="20220712210000 -0500" channel="ONDIRECTV">
+    <title lang="es">The Tonight Show Starring Jimmy Fallon</title>
+    <sub-title lang="es">Adam Sandler; Ben Falcone; Nimesh Patel</sub-title>
+    <desc lang="es">El actor Adam Sandler. El actor Ben Falcone. El comediante Nimesh Patel. Temporada:09,Episodio:147.(n)</desc>
+  </programme>
+  <programme start="20220712210000 -0500" stop="20220712223000 -0500" channel="ONDIRECTV">
+    <title lang="es">Desaparecidos</title>
+    <sub-title lang="es">La bella durmiente y el hombre analógico</sub-title>
+    <desc lang="es">Sonia Ledesma es una inspectora de policía que se incorpora al Grupo 2 de Desaparecidos de la Brigada Central, dirigida por el veterano inspector jefe Santiago Abad, después de ver como uno de sus seres queridos desaparece. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220712223000 -0500" stop="20220713000000 -0500" channel="ONDIRECTV">
+    <title lang="es">Desaparecidos</title>
+    <sub-title lang="es">La bella durmiente y el hombre analógico</sub-title>
+    <desc lang="es">Sonia Ledesma es una inspectora de policía que se incorpora al Grupo 2 de Desaparecidos de la Brigada Central, dirigida por el veterano inspector jefe Santiago Abad, después de ver como uno de sus seres queridos desaparece. Temporada:02,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220706010000 -0400" stop="20220706020000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706020000 -0400" stop="20220706030000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706030000 -0400" stop="20220706043000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220706043000 -0400" stop="20220706050000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Un magazine dedicado a las mujeres que aman el deporte. Con entrevistas, informes y perfiles de las protagonistas.(n)</desc>
+  </programme>
+  <programme start="20220706050000 -0400" stop="20220706060000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706060000 -0400" stop="20220706070000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706070000 -0400" stop="20220706080000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706080000 -0400" stop="20220706110000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220706110000 -0400" stop="20220706150000 -0400" channel="ESPN CL">
+    <title lang="es">Tenis Wimbledon 2022</title>
+    <title lang="es">2022 Wimbledon Championships - Quarterfinals: No. 1 Court</title>
+    <sub-title lang="es">Cuartos de final</sub-title>
+    <desc lang="es">Acción de los cuartos de final. El chileno Cristian Garín enfrenta al australiano Nick Kyrgios. Desde el All England Lawn Tennis and Croquet Club, en Londres, Inglaterra.(n)</desc>
+  </programme>
+  <programme start="20220706150000 -0400" stop="20220706154500 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706154500 -0400" stop="20220706180000 -0400" channel="ESPN CL">
+    <title lang="es">UEFA Eurocopa Femenina 2022</title>
+    <title lang="es">UEFA Women's EURO 2022 - England vs. Austria</title>
+    <sub-title lang="es">Inglaterra vs. Austria</sub-title>
+    <desc lang="es">Jornada 1 del Grupo A. Inglaterra enfrenta a Austria en Old Trafford.(n)</desc>
+  </programme>
+  <programme start="20220706180000 -0400" stop="20220706190000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706190000 -0400" stop="20220706210000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F90</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220706210000 -0400" stop="20220706223000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220706223000 -0400" stop="20220707000000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220707000000 -0400" stop="20220707010000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707010000 -0400" stop="20220707020000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707020000 -0400" stop="20220707033000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220707033000 -0400" stop="20220707050000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220707050000 -0400" stop="20220707060000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707060000 -0400" stop="20220707070000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707070000 -0400" stop="20220707080000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707080000 -0400" stop="20220707120000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220707120000 -0400" stop="20220707130000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220707130000 -0400" stop="20220707140000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707140000 -0400" stop="20220707155000 -0400" channel="ESPN CL">
+    <title lang="es">UEFA Eurocopa Femenina 2022</title>
+    <title lang="es">UEFA Women's EURO 2022 - England vs. Austria</title>
+    <sub-title lang="es">Inglaterra vs. Austria</sub-title>
+    <desc lang="es">Jornada 1 del Grupo A. Inglaterra enfrenta a Austria en Old Trafford.(n)</desc>
+  </programme>
+  <programme start="20220707155000 -0400" stop="20220707180000 -0400" channel="ESPN CL">
+    <title lang="es">UEFA Eurocopa Femenina 2022</title>
+    <title lang="es">UEFA Women's EURO 2022 - Norway vs. Northern Ireland</title>
+    <sub-title lang="es">Noruega vs. Irlanda del Norte</sub-title>
+    <desc lang="es">Jornada 1 del Grupo A. Noruega enfrenta a Irlanda el Norte en el St Mary's Stadium.(n)</desc>
+  </programme>
+  <programme start="20220707180000 -0400" stop="20220707190000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707190000 -0400" stop="20220707210000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F90</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220707210000 -0400" stop="20220707223000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220707223000 -0400" stop="20220708000000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220708000000 -0400" stop="20220708010000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708010000 -0400" stop="20220708013000 -0400" channel="ESPN CL">
+    <title lang="es">Más Motor</title>
+    <desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.(n)</desc>
+  </programme>
+  <programme start="20220708013000 -0400" stop="20220708020000 -0400" channel="ESPN CL">
+    <title lang="es">Moto Grand Prix F.I.M Highlights</title>
+    <sub-title lang="es">Lo mejor de MotoGP</sub-title>
+    <desc lang="es">Un vistazo a los mejores momentos y a lo más destacado de MotoGP. Temporada:2021,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220708020000 -0400" stop="20220708033000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220708033000 -0400" stop="20220708050000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220708050000 -0400" stop="20220708060000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708060000 -0400" stop="20220708070000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708070000 -0400" stop="20220708080000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708080000 -0400" stop="20220708120000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220708120000 -0400" stop="20220708130000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220708130000 -0400" stop="20220708140000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708140000 -0400" stop="20220708150000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708150000 -0400" stop="20220708160000 -0400" channel="ESPN CL">
+    <title lang="es">Simplemente fútbol</title>
+    <desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.(n)</desc>
+  </programme>
+  <programme start="20220708160000 -0400" stop="20220708163000 -0400" channel="ESPN CL">
+    <title lang="es">Más Motor</title>
+    <desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.(n)</desc>
+  </programme>
+  <programme start="20220708163000 -0400" stop="20220708170000 -0400" channel="ESPN CL">
+    <title lang="es">Moto Grand Prix F.I.M Highlights</title>
+    <sub-title lang="es">Lo mejor de MotoGP</sub-title>
+    <desc lang="es">Un vistazo a los mejores momentos y a lo más destacado de MotoGP. Temporada:2021,Episodio:02.(n)</desc>
+  </programme>
+  <programme start="20220708170000 -0400" stop="20220708173000 -0400" channel="ESPN CL">
+    <title lang="es">GP 1</title>
+    <desc lang="es">Les mostramos qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome. Todo el color de la grilla con los comentarios de los pilotos como si uno pudiera meterse y ver que hacen.(n)</desc>
+  </programme>
+  <programme start="20220708173000 -0400" stop="20220708180000 -0400" channel="ESPN CL">
+    <title lang="es">ATP Tour Uncovered</title>
+    <desc lang="es">Toda la acción del circuito de la ATP Tour, con entrevistas y reportes especiales.(n)</desc>
+  </programme>
+  <programme start="20220708180000 -0400" stop="20220708190000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708190000 -0400" stop="20220708210000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F90</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220708210000 -0400" stop="20220708223000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220708223000 -0400" stop="20220709000000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220709000000 -0400" stop="20220709010000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709010000 -0400" stop="20220709023000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220709023000 -0400" stop="20220709040000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220709040000 -0400" stop="20220709050000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709050000 -0400" stop="20220709060000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709060000 -0400" stop="20220709072000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709072000 -0400" stop="20220709082000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709082000 -0400" stop="20220709092000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709092000 -0400" stop="20220709112500 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Premier League</title>
+    <title lang="es">Premier League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la Premier League inglesa, una de las grandes competiciones del mundo.(n)</desc>
+  </programme>
+  <programme start="20220709112500 -0400" stop="20220709115000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709115000 -0400" stop="20220709135500 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Premier League</title>
+    <title lang="es">Premier League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la Premier League inglesa, una de las grandes competiciones del mundo.(n)</desc>
+  </programme>
+  <programme start="20220709135500 -0400" stop="20220709142000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709142000 -0400" stop="20220709162500 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Premier League</title>
+    <title lang="es">Premier League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la Premier League inglesa, una de las grandes competiciones del mundo.(n)</desc>
+  </programme>
+  <programme start="20220709162500 -0400" stop="20220709165000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709165000 -0400" stop="20220709185500 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Ligue 1</title>
+    <title lang="es">French Ligue 1 Soccer</title>
+    <desc lang="es">Acción del campeonato francés de fútbol de Primera División.(n)</desc>
+  </programme>
+  <programme start="20220709185500 -0400" stop="20220710000000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710000000 -0400" stop="20220710010000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220710010000 -0400" stop="20220710020000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710020000 -0400" stop="20220710030000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710030000 -0400" stop="20220710035800 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710035800 -0400" stop="20220710045500 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710045500 -0400" stop="20220710055300 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710055300 -0400" stop="20220710062300 -0400" channel="ESPN CL">
+    <title lang="es">UEFA Champions League Magazine</title>
+    <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.(n)</desc>
+  </programme>
+  <programme start="20220710062300 -0400" stop="20220710072000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710072000 -0400" stop="20220710082000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710082000 -0400" stop="20220710102500 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Serie A</title>
+    <title lang="es">Italian Serie A Soccer</title>
+    <desc lang="es">La mejor cobertura de los partidos de la Liga Italiana de Fútbol.(n)</desc>
+  </programme>
+  <programme start="20220710102500 -0400" stop="20220710105000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710105000 -0400" stop="20220710125500 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Premier League</title>
+    <title lang="es">Premier League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la Premier League inglesa, una de las grandes competiciones del mundo.(n)</desc>
+  </programme>
+  <programme start="20220710125500 -0400" stop="20220710132000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710132000 -0400" stop="20220710152500 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Premier League</title>
+    <title lang="es">Premier League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la Premier League inglesa, una de las grandes competiciones del mundo.(n)</desc>
+  </programme>
+  <programme start="20220710152500 -0400" stop="20220710163000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710163000 -0400" stop="20220710184000 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Serie A</title>
+    <title lang="es">Italian Serie A Soccer</title>
+    <desc lang="es">La mejor cobertura de los partidos de la Liga Italiana de Fútbol.(n)</desc>
+  </programme>
+  <programme start="20220710184000 -0400" stop="20220710190000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710190000 -0400" stop="20220710211000 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+    <title lang="es">Professional League Cup</title>
+    <desc lang="es">Toda la acción de las diferentes jornadas de la Copa de la Liga Profesional del fútbol argentino.(n)</desc>
+  </programme>
+  <programme start="20220710211000 -0400" stop="20220710221500 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220710221500 -0400" stop="20220710233000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220710233000 -0400" stop="20220711001500 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711001500 -0400" stop="20220711010000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711010000 -0400" stop="20220711023000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711023000 -0400" stop="20220711040000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711040000 -0400" stop="20220711053000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711053000 -0400" stop="20220711063000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220711063000 -0400" stop="20220711080000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711080000 -0400" stop="20220711120000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220711120000 -0400" stop="20220711130000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711130000 -0400" stop="20220711160000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711160000 -0400" stop="20220711170000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220711170000 -0400" stop="20220711180000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220711180000 -0400" stop="20220711190000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711190000 -0400" stop="20220711210000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F90</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220711210000 -0400" stop="20220711223000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220711223000 -0400" stop="20220712000000 -0400" channel="ESPN CL">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">El debate de cada fecha llega a la pantalla. El mejor equipo para analizar todo lo que pasó el fin de semana.(n)</desc>
+  </programme>
+  <programme start="20220712000000 -0400" stop="20220712010000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712010000 -0400" stop="20220712020000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712020000 -0400" stop="20220712033000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220712033000 -0400" stop="20220712050000 -0400" channel="ESPN CL">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">El debate de cada fecha llega a la pantalla. El mejor equipo para analizar todo lo que pasó el fin de semana.(n)</desc>
+  </programme>
+  <programme start="20220712050000 -0400" stop="20220712060000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712060000 -0400" stop="20220712070000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712070000 -0400" stop="20220712080000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712080000 -0400" stop="20220712120000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220712120000 -0400" stop="20220712130000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712130000 -0400" stop="20220712163000 -0400" channel="ESPN CL">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712163000 -0400" stop="20220712190000 -0400" channel="ESPN CL">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <title lang="es">UEFA Champions League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la UEFA Champions League, el torneo de clubes más importante de Europa.(n)</desc>
+  </programme>
+  <programme start="20220712190000 -0400" stop="20220712210000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F90</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220712210000 -0400" stop="20220712223000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F Show</title>
+    <desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.(n)</desc>
+  </programme>
+  <programme start="20220712223000 -0400" stop="20220713000000 -0400" channel="ESPN CL">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol chileno y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220706003000 -0300" stop="20220706013000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706013000 -0300" stop="20220706023000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706023000 -0300" stop="20220706030000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN X</title>
+    <desc lang="es">Disfruta, cualquier día de la semana, de 1 hora de resumen semanal con lo mejor del deporte mundial.(n)</desc>
+  </programme>
+  <programme start="20220706030000 -0300" stop="20220706033000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Un magazine dedicado a las mujeres que aman el deporte. Con entrevistas, informes y perfiles de las protagonistas.(n)</desc>
+  </programme>
+  <programme start="20220706033000 -0300" stop="20220706040000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN Yoga</title>
+    <desc lang="es">El yoga, una filosofía de vida, y un complemento para muchos deportistas amateurs y de alto rendimiento.(n)</desc>
+  </programme>
+  <programme start="20220706040000 -0300" stop="20220706050000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706050000 -0300" stop="20220706060000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706060000 -0300" stop="20220706090000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220706090000 -0300" stop="20220706100000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706100000 -0300" stop="20220706110000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.(n)</desc>
+  </programme>
+  <programme start="20220706110000 -0300" stop="20220706130000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F90 Primera edición</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220706130000 -0300" stop="20220706133000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220706133000 -0300" stop="20220706160000 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <title lang="es">UEFA Champions League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la UEFA Champions League, el torneo de clubes más importante de Europa.(n)</desc>
+  </programme>
+  <programme start="20220706160000 -0300" stop="20220706164500 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706164500 -0300" stop="20220706185500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Copa Libertadores Soccer</title>
+    <desc lang="es">La mejor cobertura de los encuentros del torneo de clubes más importante y prestigioso de América.(n)</desc>
+  </programme>
+  <programme start="20220706185500 -0300" stop="20220706205500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Copa Libertadores Soccer</title>
+    <desc lang="es">La mejor cobertura de los encuentros del torneo de clubes más importante y prestigioso de América.(n)</desc>
+  </programme>
+  <programme start="20220706205500 -0300" stop="20220706215500 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706215500 -0300" stop="20220706230000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220706230000 -0300" stop="20220707000000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707000000 -0300" stop="20220707010000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707010000 -0300" stop="20220707020000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707020000 -0300" stop="20220707030000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707030000 -0300" stop="20220707033000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN Yoga</title>
+    <desc lang="es">El yoga, una filosofía de vida, y un complemento para muchos deportistas amateurs y de alto rendimiento.(n)</desc>
+  </programme>
+  <programme start="20220707033000 -0300" stop="20220707040000 -0300" channel="ESPN PE">
+    <title lang="es">Goles de la UEFA Champions League</title>
+    <desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.(n)</desc>
+  </programme>
+  <programme start="20220707040000 -0300" stop="20220707050000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707050000 -0300" stop="20220707060000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707060000 -0300" stop="20220707090000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220707090000 -0300" stop="20220707100000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707100000 -0300" stop="20220707110000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.(n)</desc>
+  </programme>
+  <programme start="20220707110000 -0300" stop="20220707130000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F90 Primera edición</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220707130000 -0300" stop="20220707134500 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220707134500 -0300" stop="20220707160000 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol UEFA Liga Europea</title>
+    <title lang="es">UEFA Europa League</title>
+    <desc lang="es">Cobertura de la liga UEFA Europea.(n)</desc>
+  </programme>
+  <programme start="20220707160000 -0300" stop="20220707164500 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220707164500 -0300" stop="20220707185500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Copa Libertadores Soccer</title>
+    <desc lang="es">La mejor cobertura de los encuentros del torneo de clubes más importante y prestigioso de América.(n)</desc>
+  </programme>
+  <programme start="20220707185500 -0300" stop="20220707205500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Copa Libertadores Soccer</title>
+    <desc lang="es">La mejor cobertura de los encuentros del torneo de clubes más importante y prestigioso de América.(n)</desc>
+  </programme>
+  <programme start="20220707205500 -0300" stop="20220707230000 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Copa Libertadores Soccer</title>
+    <desc lang="es">La mejor cobertura de los encuentros del torneo de clubes más importante y prestigioso de América.(n)</desc>
+  </programme>
+  <programme start="20220707230000 -0300" stop="20220708000000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708000000 -0300" stop="20220708010000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708010000 -0300" stop="20220708020000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708020000 -0300" stop="20220708030000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708030000 -0300" stop="20220708040000 -0300" channel="ESPN PE">
+    <title lang="es">Simplemente fútbol</title>
+    <desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.(n)</desc>
+  </programme>
+  <programme start="20220708040000 -0300" stop="20220708050000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708050000 -0300" stop="20220708060000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708060000 -0300" stop="20220708090000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220708090000 -0300" stop="20220708100000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708100000 -0300" stop="20220708110000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.(n)</desc>
+  </programme>
+  <programme start="20220708110000 -0300" stop="20220708130000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F90 Primera edición</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220708130000 -0300" stop="20220708150000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220708150000 -0300" stop="20220708165000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708165000 -0300" stop="20220708172200 -0300" channel="ESPN PE">
+    <title lang="es">Goles de la UEFA Champions League</title>
+    <desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.(n)</desc>
+  </programme>
+  <programme start="20220708172200 -0300" stop="20220708175500 -0300" channel="ESPN PE">
+    <title lang="es">Goles de la UEFA Champions League</title>
+    <desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.(n)</desc>
+  </programme>
+  <programme start="20220708175500 -0300" stop="20220708190000 -0300" channel="ESPN PE">
+    <title lang="es">Simplemente fútbol</title>
+    <desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.(n)</desc>
+  </programme>
+  <programme start="20220708190000 -0300" stop="20220708200000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708200000 -0300" stop="20220708210000 -0300" channel="ESPN PE">
+    <title lang="es">F Táctico</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20220708210000 -0300" stop="20220708220000 -0300" channel="ESPN PE">
+    <title lang="es">Goles de Europa</title>
+    <title lang="es">European Football Weekly</title>
+    <desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.(n)</desc>
+  </programme>
+  <programme start="20220708220000 -0300" stop="20220708230000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220708230000 -0300" stop="20220709000000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709000000 -0300" stop="20220709010000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709010000 -0300" stop="20220709015700 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709015700 -0300" stop="20220709025500 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709025500 -0300" stop="20220709032500 -0300" channel="ESPN PE">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <desc lang="es">Momentos destacados, entrevistas y toda la información de la jornada semanal de la UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20220709032500 -0300" stop="20220709042500 -0300" channel="ESPN PE">
+    <title lang="es">F Táctico</title>
+    <desc lang="es">La información del programa no fue provista por el proveedor de la señal.(n)</desc>
+  </programme>
+  <programme start="20220709042500 -0300" stop="20220709052200 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709052200 -0300" stop="20220709062000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709062000 -0300" stop="20220709082500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Premier League</title>
+    <title lang="es">Premier League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la Premier League inglesa, una de las grandes competiciones del mundo.(n)</desc>
+  </programme>
+  <programme start="20220709082500 -0300" stop="20220709085000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709085000 -0300" stop="20220709105500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Premier League</title>
+    <title lang="es">Premier League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la Premier League inglesa, una de las grandes competiciones del mundo.(n)</desc>
+  </programme>
+  <programme start="20220709105500 -0300" stop="20220709125500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Serie A</title>
+    <title lang="es">Italian Serie A Soccer</title>
+    <desc lang="es">La mejor cobertura de los partidos de la Liga Italiana de Fútbol.(n)</desc>
+  </programme>
+  <programme start="20220709125500 -0300" stop="20220709135000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709135000 -0300" stop="20220709155500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Ligue 1</title>
+    <title lang="es">French Ligue 1 Soccer</title>
+    <desc lang="es">Acción del campeonato francés de fútbol de Primera División.(n)</desc>
+  </programme>
+  <programme start="20220709155500 -0300" stop="20220709192000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709192000 -0300" stop="20220709212500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Argentino Copa de la Liga Profesional</title>
+    <title lang="es">Professional League Cup</title>
+    <desc lang="es">Toda la acción de las diferentes jornadas de la Copa de la Liga Profesional del fútbol argentino.(n)</desc>
+  </programme>
+  <programme start="20220709212500 -0300" stop="20220709220000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220709220000 -0300" stop="20220709230000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220709230000 -0300" stop="20220709233000 -0300" channel="ESPN PE">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <desc lang="es">Momentos destacados, entrevistas y toda la información de la jornada semanal de la UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20220709233000 -0300" stop="20220710003000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710003000 -0300" stop="20220710013000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710013000 -0300" stop="20220710022700 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710022700 -0300" stop="20220710025700 -0300" channel="ESPN PE">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">Un magazine dedicado a las mujeres que aman el deporte. Con entrevistas, informes y perfiles de las protagonistas.(n)</desc>
+  </programme>
+  <programme start="20220710025700 -0300" stop="20220710035400 -0300" channel="ESPN PE">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220710035400 -0300" stop="20220710042300 -0300" channel="ESPN PE">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <desc lang="es">Momentos destacados, entrevistas y toda la información de la jornada semanal de la UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20220710042300 -0300" stop="20220710052000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710052000 -0300" stop="20220710072500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Serie A</title>
+    <title lang="es">Italian Serie A Soccer</title>
+    <desc lang="es">La mejor cobertura de los partidos de la Liga Italiana de Fútbol.(n)</desc>
+  </programme>
+  <programme start="20220710072500 -0300" stop="20220710075000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710075000 -0300" stop="20220710095500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Serie A</title>
+    <title lang="es">Italian Serie A Soccer</title>
+    <desc lang="es">La mejor cobertura de los partidos de la Liga Italiana de Fútbol.(n)</desc>
+  </programme>
+  <programme start="20220710095500 -0300" stop="20220710105000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710105000 -0300" stop="20220710125500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Serie A</title>
+    <title lang="es">Italian Serie A Soccer</title>
+    <desc lang="es">La mejor cobertura de los partidos de la Liga Italiana de Fútbol.(n)</desc>
+  </programme>
+  <programme start="20220710125500 -0300" stop="20220710133000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710133000 -0300" stop="20220710154000 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol Serie A</title>
+    <title lang="es">Italian Serie A Soccer</title>
+    <desc lang="es">La mejor cobertura de los partidos de la Liga Italiana de Fútbol.(n)</desc>
+  </programme>
+  <programme start="20220710154000 -0300" stop="20220710200000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710200000 -0300" stop="20220710213000 -0300" channel="ESPN PE">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Un show que ofrece el más amplio debate futbolístico y cuenta con la participación de reconocidos especialistas.(n)</desc>
+  </programme>
+  <programme start="20220710213000 -0300" stop="20220710230000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220710230000 -0300" stop="20220711003000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711003000 -0300" stop="20220711020000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711020000 -0300" stop="20220711030000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220711030000 -0300" stop="20220711040000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220711040000 -0300" stop="20220711043000 -0300" channel="ESPN PE">
+    <title lang="es">UEFA Champions League Weekly</title>
+    <desc lang="es">Momentos destacados, entrevistas y toda la información de la jornada semanal de la UEFA Champions League.(n)</desc>
+  </programme>
+  <programme start="20220711043000 -0300" stop="20220711060000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711060000 -0300" stop="20220711090000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220711090000 -0300" stop="20220711100000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711100000 -0300" stop="20220711110000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.(n)</desc>
+  </programme>
+  <programme start="20220711110000 -0300" stop="20220711130000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F90 Primera edición</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220711130000 -0300" stop="20220711150000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220711150000 -0300" stop="20220711170000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711170000 -0300" stop="20220711190000 -0300" channel="ESPN PE">
+    <title lang="es">Equipo F</title>
+    <desc lang="es">Un show que ofrece el más amplio debate futbolístico y cuenta con la participación de reconocidos especialistas.(n)</desc>
+  </programme>
+  <programme start="20220711190000 -0300" stop="20220711200000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711200000 -0300" stop="20220711210000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN Compact</title>
+    <desc lang="es">Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.(n)</desc>
+  </programme>
+  <programme start="20220711210000 -0300" stop="20220711220000 -0300" channel="ESPN PE">
+    <title lang="es">Goles de Europa</title>
+    <title lang="es">European Football Weekly</title>
+    <desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.(n)</desc>
+  </programme>
+  <programme start="20220711220000 -0300" stop="20220711230000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220711230000 -0300" stop="20220712000000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712000000 -0300" stop="20220712010000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712010000 -0300" stop="20220712020000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712020000 -0300" stop="20220712030000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712030000 -0300" stop="20220712033000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN X</title>
+    <desc lang="es">Disfruta, cualquier día de la semana, de 1 hora de resumen semanal con lo mejor del deporte mundial.(n)</desc>
+  </programme>
+  <programme start="20220712033000 -0300" stop="20220712040000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN Run</title>
+    <desc lang="es">Programa dedicado para los corredores apasionados, profesionales y principiantes. Presentación de las carreras más famosas alrededor del mundo.(n)</desc>
+  </programme>
+  <programme start="20220712040000 -0300" stop="20220712050000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712050000 -0300" stop="20220712060000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712060000 -0300" stop="20220712090000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter AM</title>
+    <desc lang="es">La edición matutina del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.(n)</desc>
+  </programme>
+  <programme start="20220712090000 -0300" stop="20220712100000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712100000 -0300" stop="20220712110000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F12</title>
+    <desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.(n)</desc>
+  </programme>
+  <programme start="20220712110000 -0300" stop="20220712130000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F90 Primera edición</title>
+    <desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.(n)</desc>
+  </programme>
+  <programme start="20220712130000 -0300" stop="20220712133000 -0300" channel="ESPN PE">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.(n)</desc>
+  </programme>
+  <programme start="20220712133000 -0300" stop="20220712160000 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol UEFA Champions League</title>
+    <title lang="es">UEFA Champions League Soccer</title>
+    <desc lang="es">Cobertura de los partidos de la UEFA Champions League, el torneo de clubes más importante de Europa.(n)</desc>
+  </programme>
+  <programme start="20220712160000 -0300" stop="20220712170000 -0300" channel="ESPN PE">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">Las últimas noticias, los más destacado y la información más relevante del amplio mundo de los deportes. Estadísticas, imágenes exclusivas y más, todo de la mano de los expertos.(n)</desc>
+  </programme>
+  <programme start="20220712170000 -0300" stop="20220712191500 -0300" channel="ESPN PE">
+    <title lang="es">Fútbol CONMEBOL Libertadores</title>
+    <title lang="es">Copa Libertadores Soccer</title>
+    <desc lang="es">La mejor cobertura de los encuentros del torneo de clubes más importante y prestigioso de América.(n)</desc>
   </programme>
 </tv>
